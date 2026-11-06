@@ -1,0 +1,1130 @@
+[
+    {
+        "numero": 1,
+        "enunciado": "De acuerdo com la Constitución Española, la soberanía nacional reside:",
+        "opciones": {
+            "A": "En el pueblo español",
+            "B": "En los Poderes del Estado.",
+            "C": "En las Cortes Generales.",
+            "D": "En los Poderes Públicos"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 1.2 de la Constitución Española establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado."
+    },
+    {
+        "numero": 2,
+        "enunciado": "De conformidad con el artículo 8 de la Constitución Española, las fuerzas armadas están constituidas por:",
+        "opciones": {
+            "A": "El ejército y las fuerzas y cuerpos de seguridad del Estado.",
+            "B": "La armada y los ejércitos del aire y la tierra.",
+            "C": "El alto estado mayor.",
+            "D": "La marina, el ejército y las fuerzas y cuerpos de seguridad del Estado."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 8.1 de la Constitución Española dispone que las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, garantizan la soberanía e independencia de España."
+    },
+    {
+        "numero": 3,
+        "enunciado": "La Constitución Española NO recoge entre los principios que garantiza en su artículo 9:",
+        "opciones": {
+            "A": "El principio de legalidad",
+            "B": "El principio de jerarquía normativa.",
+            "C": "El principio de publicidad de las normas.",
+            "D": "El principio non bis in idem."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 9.3 de la Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. El principio 'non bis in idem' es un principio general del derecho sancionador pero no se cita expresamente en este precepto constitucional."
+    },
+    {
+        "numero": 4,
+        "enunciado": "La Constitución establece respecto a las banderas y enseñas propias de las Comunidades Autónomas que:",
+        "opciones": {
+            "A": "Podrán ser reconocidas por sus estatutos.",
+            "B": "Se reconocerán en la Constitución.",
+            "C": "Se reconocerán por Real Decreto Legislativo.",
+            "D": "Sólo pueden reconocerse mediante Ley Ordinaria."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 4.2 de la Constitución Española establece que los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas."
+    },
+    {
+        "numero": 5,
+        "enunciado": "Según el artículo 56 de la Constitución Española, quién es el Jefe de Estado:",
+        "opciones": {
+            "A": "El Rey.",
+            "B": "El Presidente del Gobierno",
+            "C": "El Ministro con competencias en materia de Interior.",
+            "D": "El Ministro con competencias en materia de Justicia"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 56.1 de la Constitución Española señala que el Rey es el Jefe del Estado, símbolo de su unidad y permanencia."
+    },
+    {
+        "numero": 6,
+        "enunciado": "La Constitución Española establece que las personas que teniendo derecho a suceder en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales:",
+        "opciones": {
+            "A": "Quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.",
+            "B": "Quedarán excluidas en la sucesión a la Corona, pero no sus descendientes.",
+            "C": "No quedarán excluidas en la sucesión a la Corona, pero sí sus descendientes.",
+            "D": "No quedarán excluidas en la línea de sucesión a la Corona."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 57.4 de la Constitución Española dispone que aquellas personas que tengan derecho a suceder en el trono que contraigan matrimonio contra la expresa prohibición del Rey y de las Cortes Generales quedarán excluidas en la sucesión a la Corona por sí y sus descendientes."
+    },
+    {
+        "numero": 7,
+        "enunciado": "De acuerdo con la Constitución Española las Cortes Generales:",
+        "opciones": {
+            "A": "Ejercen la potestad reglamentaria.",
+            "B": "Representan al pueblo español.",
+            "C": "Representan a los Grupos Políticos.",
+            "D": "Dirigen la acción del Gobierno."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 66.1 de la Constitución Española establece que las Cortes Generales representan al pueblo español."
+    },
+    {
+        "numero": 8,
+        "enunciado": "Respecto a las Cortes Generales, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Sus miembros están ligados por mandato imperativo.",
+            "B": "Se puede ser miembro de las dos cámaras simultáneamente.",
+            "C": "Sus miembros pueden acumular el acta de una Asamblea de Comunidad Autónoma con la de diputado del Congreso.",
+            "D": "Son inviolables."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 67.1 de la Constitución Española establece que los miembros de las Cortes Generales no estarán ligados por mandato imperativo, y el artículo 67.2 prohíbe ser miembro de ambas Cámaras simultáneamente, pero los parlamentarios gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones (art. 71.1)."
+    },
+    {
+        "numero": 9,
+        "enunciado": "Señale la respuesta correcta respecto al Congreso de los Diputados:",
+        "opciones": {
+            "A": "Son electores y elegibles todos los españoles que estén en pleno uso de sus derechos humanos.",
+            "B": "Los Diputados son elegidos por sufragio indirecto.",
+            "C": "La circunscripción electoral es la Comunidad Autónoma,",
+            "D": "La elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 68.3 de la Constitución Española establece que la elección se verificará en cada circunscripción atendiendo a criterios de representación proporcional."
+    },
+    {
+        "numero": 10,
+        "enunciado": "Señale la respuesta correcta respecto al Senado:",
+        "opciones": {
+            "A": "Es la Cámara de representación poblacional.",
+            "B": "Las poblaciones de Ceuta y Melilla elegirán cada una de ellas un Senador.",
+            "C": "Es la Cámara de representación territorial.",
+            "D": "En cada Comunidad Autónoma se elegirán cuatro senadores por sufragio universal."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 69.1 de la Constitución Española define al Senado como la Cámara de representación territorial."
+    },
+    {
+        "numero": 11,
+        "enunciado": "De conformidad con la Constitución Española, los Diputados y Senadores percibirán una asignación que será fijada por:",
+        "opciones": {
+            "A": "Las respectivas cámaras.",
+            "B": "Las cámaras conjuntamente.",
+            "C": "Por el Gobierno.",
+            "D": "Por la circunscripción a la que representen."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 71.4 de la Constitución Española establece que los Diputados y Senadores percibirán una asignación que será fijada por las respectivas Cámaras."
+    },
+    {
+        "numero": 12,
+        "enunciado": "Respecto a las Cortes Generales, la Constitución Española señala que las sesiones conjuntas de las cámaras serán:",
+        "opciones": {
+            "A": "Presididas por el Presidente del Congreso.",
+            "B": "Presididas por el Presidente del Gobierno.",
+            "C": "Presididas por el Rey.",
+            "D": "Presididas por un Presidente elegido al efecto."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 72.2 de la Constitución Española dispone que las sesiones conjuntas serán presididas por el Presidente del Congreso de los Diputados."
+    },
+    {
+        "numero": 13,
+        "enunciado": "La misma mayoría de la cámaras exigida para la aprobación del principio de una revisión total de la Constitución se exige para una revisión parcial que afecte:",
+        "opciones": {
+            "A": "A tres o más de sus Títulos.",
+            "B": "Al Título Preliminar, Título Primero o Título Segundo.",
+            "C": "De todos y cada uno de sus Títulos.",
+            "D": "Cuando se refiera al Título Preliminar, al Título Segundo o a la Sección primera del Capítulo Segundo del Título Primero."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 168.1 de la Constitución Española establece el procedimiento agravado de reforma constitucional cuando se proponga la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo II, Sección 1ª del Título I, o al Título II."
+    },
+    {
+        "numero": 14,
+        "enunciado": "El derecho de los españoles a elegir libremente su residencia y a circular por el territorio nacional, podrá ser suspendido:",
+        "opciones": {
+            "A": "En ningún caso.",
+            "B": "Cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución.",
+            "C": "Cuando se acuerde la declaración del estado de alarma, excepción o de sitio en los términos previstos en la Constitución.",
+            "D": "Únicamente cuando se acuerde la declaración del estado de sitio en los términos previstos en la Constitución."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 55.1 de la Constitución Española establece que los derechos reconocidos en el artículo 19 (libertad de residencia y circulación) podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio."
+    },
+    {
+        "numero": 15,
+        "enunciado": "Facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social, es tarea que la Constitución Española encomienda a:",
+        "opciones": {
+            "A": "Los Sindicatos.",
+            "B": "Los Partidos Políticos.",
+            "C": "Los Poderes Públicos.",
+            "D": "Asambleas de participación política."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 9.2 de la Constitución Española encomienda a los poderes públicos facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social."
+    },
+    {
+        "numero": 16,
+        "enunciado": "Según el artículo 4 de la Constitución Española,",
+        "opciones": {
+            "A": "La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+            "B": "La bandera de España está formada por tres franjas horizontales, amarilla, roja, amarilla, siendo la roja de doble anchura que cada una de las amarillas.",
+            "C": "La bandera de España está formada por tres franjas verticales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.",
+            "D": "La bandera de España está formada por tres franjas verticales, amarilla, roja, amarilla, siendo la roja de doble anchura que cada una de las amarillas."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 4.1 de la Constitución Española describe la bandera de España como la formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas."
+    },
+    {
+        "numero": 17,
+        "enunciado": "Según la Constitución Española:",
+        "opciones": {
+            "A": "La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.",
+            "B": "La Regencia se ejercerá por mandato institucional y siempre en nombre del Rey.",
+            "C": "Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español.",
+            "D": "Para ejercer la Regencia es preciso ser español de nacimiento y mayor de edad."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 59.2 de la Constitución Española establece que la Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey."
+    },
+    {
+        "numero": 18,
+        "enunciado": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre:",
+        "opciones": {
+            "A": "la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de menos edad a la de más",
+            "B": "la línea posterior a las anteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos",
+            "C": "la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos",
+            "D": "la línea posterior a las anteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de menos edad a la de más"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 57.1 de la Constitución Española establece el orden de sucesión prefiriendo la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos."
+    },
+    {
+        "numero": 19,
+        "enunciado": "Según la Constitución Española, señala la opción correcta:",
+        "opciones": {
+            "A": "Podrán acumularse los cargos de regente y de tutor en la misma persona siempre que sea familiar del Rey.",
+            "B": "No podrán acumularse los cargos de regente y de tutor sino en el padre, madre o descendientes directos del Rey.",
+            "C": "En ningún caso podrán acumularse los cargos de regente y de tutor en la misma persona.",
+            "D": "No podrán acumularse los cargos de regente y de tutor sino en el padre, madre o ascendientes directos del Rey."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 60.2 de la Constitución Española dispone que no podrán acumularse los cargos de regente y de tutor sino en el padre, madre o ascendientes directos del Rey."
+    },
+    {
+        "numero": 20,
+        "enunciado": "Declarar la guerra y hacer la paz corresponde:",
+        "opciones": {
+            "A": "Al Rey, previa autorización de las Cortes Generales.",
+            "B": "Al Rey, previa autorización del Senado.",
+            "C": "Al Rey, previa autorización del Gobierno.",
+            "D": "Al Rey, previa autorización del Congreso de los Diputados."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 63.3 de la Constitución Española establece que corresponde al Rey declarar la guerra y hacer la paz, previa autorización de las Cortes Generales."
+    },
+    {
+        "numero": 21,
+        "enunciado": "Señala la opción incorrecta. Según el artículo 62 de la Constitución Española, corresponde al Rey:",
+        "opciones": {
+            "A": "Convocar a Referéndum en los casos previstos en la Constitución.",
+            "B": "El Alto Patronazgo de las Fuerzas Armadas.",
+            "C": "Ser informado de los asuntos de Estado y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno.",
+            "D": "Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Alto Mando (no 'Alto Patronazgo') de las Fuerzas Armadas corresponde al Rey según el artículo 62.h de la Constitución Española."
+    },
+    {
+        "numero": 22,
+        "enunciado": "Corresponde aprobar los Presupuestos del Estado a:",
+        "opciones": {
+            "A": "El Rey.",
+            "B": "Las Cortes Generales.",
+            "C": "El Congreso de los Diputados.",
+            "D": "El Presidente del Gobierno."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 66.2 de la Constitución Española establece que las Cortes Generales aprueban los Presupuestos del Estado."
+    },
+    {
+        "numero": 23,
+        "enunciado": "Las Comunidades Autónomas designarán además:",
+        "opciones": {
+            "A": "Un senador y otro más por cada medio millón de habitantes de su respectivo territorio.",
+            "B": "Dos senadores y otro más por cada millón de habitantes de su respectivo territorio.",
+            "C": "Un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+            "D": "Dos Senadores y otro más por cada medio millón de habitantes de su respectivo territorio."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 69.5 de la Constitución Española establece que las Comunidades Autónomas designarán además un senador y otro más por cada millón de habitantes de su respectivo territorio."
+    },
+    {
+        "numero": 24,
+        "enunciado": "Según la Constitución Española ¿Cuál de estas afirmaciones es incorrecta?:",
+        "opciones": {
+            "A": "Las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones: el primero, de septiembre a diciembre, y el segundo, de febrero a junio.",
+            "B": "Las Cámaras podrán reunirse en sesiones extraordinarias a petición de una Comunidad Autónoma, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+            "C": "Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado y serán clausuradas una vez que éste haya sido agotado.",
+            "D": "Las Cámaras se reunirán en sesión conjunta para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 73.2 de la Constitución Española regula la convocatoria de sesiones extraordinarias, especificando que pueden ser solicitadas por la Diputación Permanente, la mayoría absoluta de los miembros de la Cámara o por los miembros que determine el Reglamento, pero no por una Comunidad Autónoma."
+    },
+    {
+        "numero": 25,
+        "enunciado": "Según la Constitución Española, señala la opción correcta:",
+        "opciones": {
+            "A": "El Congreso y el Senado, y, en su caso, ambas Cámaras conjuntamente, podrán nombrar Comisiones de investigación sobre cualquier asunto general.",
+            "B": "Las conclusiones de las Comisiones de investigación no serán vinculantes para los Tribunales y afectarán a las resoluciones judiciales.",
+            "C": "Las conclusiones de las Comisiones de investigación no serán vinculantes para los Tribunales sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las sanciones oportunas.",
+            "D": "Será obligatorio comparecer a requerimiento de las Cámaras. La Ley regulará las sanciones que puedan imponerse por incumplimiento de esta obligación."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 76.2 de la Constitución Española establece que será obligatorio comparecer a requerimiento de las Cámaras y que la ley regulará las sanciones por incumplimiento de esta obligación."
+    },
+    {
+        "numero": 26,
+        "enunciado": "Conforme a la Constitución, la base de organización y funcionamiento de los Tribunales es el principio de:",
+        "opciones": {
+            "A": "Unidad Jurisdiccional",
+            "B": "Independencia Judicial",
+            "C": "Garantías Jurisdiccionales",
+            "D": "Imparcialidad Judicial"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 117.5 de la Constitución Española dispone que el principio de unidad jurisdiccional es la base de la organización y funcionamiento de los Tribunales."
+    },
+    {
+        "numero": 27,
+        "enunciado": "Conforme a la Constitución, con carácter general, las actuaciones judiciales:",
+        "opciones": {
+            "A": "Serán reservadas, con las excepciones que prevean las leyes de procedimiento",
+            "B": "Serán públicas, con las excepciones que prevean las leyes de procedimiento.",
+            "C": "Serán reservadas excepto cuando se trate de dictar sentencia",
+            "D": "Serán siempre públicas"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 120.1 de la Constitución Española establece que las actuaciones judiciales serán públicas, con las excepciones que prevean las leyes de procedimiento."
+    },
+    {
+        "numero": 28,
+        "enunciado": "De conformidad con la constitución, los daños causados por error judicial:",
+        "opciones": {
+            "A": "siempre darán derecho a una indemnización",
+            "B": "no darán derecho a una indemnización",
+            "C": "darán derecho a una indemnización, conforme a la ley.",
+            "D": "darán derecho a una indemnización, en todo caso"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 121 de la Constitución Española establece que los daños causados por error judicial así como por el funcionamiento anormal de la Administración de Justicia darán derecho a una indemnización a cargo del Estado, conforme a la ley."
+    },
+    {
+        "numero": 29,
+        "enunciado": "El Rey asume la más alta representación del Estado español en las relaciones internacionales, pero la Constitución matiza que dicha representación lo será especialmente con:",
+        "opciones": {
+            "A": "Los países integrantes de la Unión Europea.",
+            "B": "Los países Iberoamericanos.",
+            "C": "Las naciones de su comunidad histórica.",
+            "D": "Las naciones de su entorno cultural y geográfico."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 56.1 de la Constitución Española señala que al Rey corresponde la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica."
+    },
+    {
+        "numero": 30,
+        "enunciado": "Conforme a la Constitución, la justicia será gratuita:",
+        "opciones": {
+            "A": "Cuando lo disponga la Ley respecto de quienes acrediten insuficiencia de recursos para litigar.",
+            "B": "En todo caso.",
+            "C": "En determinados casos previstos por la Ley",
+            "D": "Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 119 de la Constitución Española establece que la justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar."
+    },
+    {
+        "numero": 31,
+        "enunciado": "Conforme a la Constitución, las sentencias:",
+        "opciones": {
+            "A": "Se pronunciarán en presencia de los interesados",
+            "B": "Serán siempre razonadas",
+            "C": "Se pronunciarán en audiencia pública",
+            "D": "Serán normalmente motivadas"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 120.3 de la Constitución Española dispone que las sentencias serán siempre motivadas y se pronunciarán en audiencia pública."
+    },
+    {
+        "numero": 32,
+        "enunciado": "Conforme a la Constitución, las sentencias dictadas por el Tribunal Constitucional:",
+        "opciones": {
+            "A": "Tienen valor de cosa juzgada a partir del día siguiente a su publicación",
+            "B": "Tienen valor de cosa juzgada a partir del día siguiente al de su notificación.",
+            "C": "No tienen valor de cosa juzgada.",
+            "D": "Tienen valor de cosa juzgada a partir del día siguiente al que se dicten"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 164.1 de la Constitución Española establece que las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas."
+    },
+    {
+        "numero": 33,
+        "enunciado": "Conforme a la Constitución, los miembros del Tribunal Constitucional tendrán las incompatibilidades propias de:",
+        "opciones": {
+            "A": "Los altos cargos de la Administración General del Estado",
+            "B": "Los miembros del Gobierno",
+            "C": "Los miembros del Poder Judicial",
+            "D": "El Presidente del Gobierno"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 159.4 de la Constitución Española establece que los miembros del Tribunal Constitucional serán independientes e inamovibles en su mandato y tendrán las incompatibilidades propias de los miembros del poder judicial."
+    },
+    {
+        "numero": 34,
+        "enunciado": "Conforme a la Constitución, no está legitimado para interponer recurso de amparo:",
+        "opciones": {
+            "A": "Toda persona jurídica que invoque interés legítimo",
+            "B": "El Ministerio Fiscal",
+            "C": "El Defensor del Pueblo",
+            "D": "Las Asambleas legislativas de las Comunidades Autónomas"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 162.1.b de la Constitución Española establece que están legitimados para interponer el recurso de amparo toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal. Las Asambleas legislativas de las CCAA no están legitimadas para el recurso de amparo."
+    },
+    {
+        "numero": 35,
+        "enunciado": "Conforme a la Constitución, una de las siguientes afirmaciones no es correcta. Los miembros del Tribunal Constitucional serán propuestos:",
+        "opciones": {
+            "A": "Cuatro a propuesta del Gobierno",
+            "B": "Cuatro por el Congreso de los Diputados por mayoría de tres quintos de sus miembros",
+            "C": "Cuatro por el Senado, por mayoría de tres quintos de sus miembros.",
+            "D": "Dos a propuesta del Consejo General del Poder Judicial."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 159.1 de la Constitución Española establece que el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos; cuatro a propuesta del Senado por igual mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial. La opción A indica 'cuatro a propuesta del Gobierno' (lo correcto son dos)."
+    },
+    {
+        "numero": 36,
+        "enunciado": "Las competencias exclusivas del Estado se recogen en la Constitución Española en su artículo:",
+        "opciones": {
+            "A": "151",
+            "B": "148",
+            "C": "149",
+            "D": "150"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 149 de la Constitución Española enumera las materias sobre las que el Estado tiene competencia exclusiva."
+    },
+    {
+        "numero": 37,
+        "enunciado": "Conforme a la Constitución, los votos particulares que pueda haber en las sentencias dictadas por el Tribunal Constitucional:",
+        "opciones": {
+            "A": "No se publican",
+            "B": "Podrán ser publicados cuando así lo inste el Magistrado autor del voto",
+            "C": "Se publicarán con las sentencias",
+            "D": "No caben votos particulares en las sentencias dictadas por el Tribunal Constitucional"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 164.1 de la Constitución Española indica que las sentencias del Tribunal Constitucional se publicarán en el Boletín Oficial del Estado con los votos particulares, si los hubiere."
+    },
+    {
+        "numero": 38,
+        "enunciado": "Conforme a la Constitución, la iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y...",
+        "opciones": {
+            "A": "a las tres cuartas partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla",
+            "B": "a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla",
+            "C": "a las cinco terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla",
+            "D": "a las ocho terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 143.2 de la Constitución Española establece que la iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla."
+    },
+    {
+        "numero": 39,
+        "enunciado": "Conforme a la Constitución, ¿cuál de las siguientes afirmaciones es correcta?:",
+        "opciones": {
+            "A": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de los vecinos.",
+            "B": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+            "C": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Gobierno",
+            "D": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de la Comunidad Autónoma"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 141.1 de la Constitución Española define la provincia como una entidad local determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado."
+    },
+    {
+        "numero": 40,
+        "enunciado": "Conforme a la Constitución, una vez sancionados y promulgados los respectivos Estatutos, podrán ser modificados:",
+        "opciones": {
+            "A": "Solamente mediante referéndum entre los electores inscritos en los censos correspondientes",
+            "B": "Solamente mediante los procedimientos establecidos en ellos, y con referéndum entre los electores inscritos en los censos correspondientes",
+            "C": "Solamente mediante el procedimiento establecido constitucionalmente, y con referéndum entre los electores inscritos en los censos correspondientes.",
+            "D": "Solamente mediante los procedimientos establecidos en ellos."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 147.3 de la Constitución Española establece que la reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica."
+    },
+    {
+        "numero": 41,
+        "enunciado": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y:",
+        "opciones": {
+            "A": "la uniformidad entre todas ellas",
+            "B": "la solidaridad entre todas ellas.",
+            "C": "La objetividad entre todas ellas",
+            "D": "la uniformidad y objetividad entre todas ellas."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 2 de la Constitución Española consagra la indisoluble unidad de la Nación española y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas."
+    },
+    {
+        "numero": 42,
+        "enunciado": "De conformidad con lo establecido en la Constitución Española respecto a las Cortes Generales, señale la respuesta Incorrecta:",
+        "opciones": {
+            "A": "El Congreso electo deberá ser convocado dentro de los 25 días siguientes a la disolución de la Cámara.",
+            "B": "Tanto el mandato de los senadores como el de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara respectiva.",
+            "C": "Los parlamentarios no podrán ejercer sus funciones ni ostentar sus privilegios en las reuniones que se celebren sin convocatoria reglamentaria.",
+            "D": "El Senado es la Cámara de representación territorial."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 68.6 de la Constitución Española dispone que el Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones (no a la disolución de la cámara)."
+    },
+    {
+        "numero": 43,
+        "enunciado": "De conformidad con lo establecido en la Constitución Española respecto a los Diputados y Senadores, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Gozarán de inviolabilidad por las opiniones manifestadas fuera del ejercicio de sus funciones.",
+            "B": "No podrán ser inculpados ni procesados sin la previa autorización de las dos cámaras conjuntamente.",
+            "C": "Percibirán una asignación que será la fijada por la Cámara respectiva.",
+            "D": "En las causas contra ellos será competente la Sala de lo Penal del Tribunal Constitucional."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 71.4 de la Constitución Española establece que los Diputados y Senadores percibirán una asignación que será fijada por las respectivas Cámaras."
+    },
+    {
+        "numero": 44,
+        "enunciado": "Conforme a la Constitución, de las siguientes competencias, ¿cual no es exclusiva del Estado?",
+        "opciones": {
+            "A": "Régimen aduanero y arancelario",
+            "B": "Gestión en materia de protección del medio ambiente",
+            "C": "Comercio exterior",
+            "D": "Matriculación de aeronaves"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "Según el artículo 149.1 de la Constitución, el régimen aduanero (apdo. 10), el comercio exterior (apdo. 10) y la matriculación de aeronaves (apdo. 20) son competencias exclusivas del Estado, mientras que la legislación básica sobre protección del medio ambiente es competencia estatal, correspondiendo a las CCAA la ejecución (apdo. 23)."
+    },
+    {
+        "numero": 45,
+        "enunciado": "Conforme a la Constitución, es competencia exclusiva del Estado:",
+        "opciones": {
+            "A": "Régimen de producción, comercio, tenencia y uso de armas y explosivos",
+            "B": "Vigilancia y protección de sus edificios e instalaciones",
+            "C": "Asistencia social",
+            "D": "Sanidad e Higiene"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 149.1.26 de la Constitución Española atribuye al Estado la competencia exclusiva sobre el régimen de producción, comercio, tenencia y uso de armas y explosivos."
+    },
+    {
+        "numero": 46,
+        "enunciado": "De conformidad con el artículo 75 de la Constitución Española, qué materias podrían ser objeto de delegación en las Comisiones Legislativas Permanentes:",
+        "opciones": {
+            "A": "Leyes orgánicas.",
+            "B": "Leyes de bases.",
+            "C": "Violencia de género.",
+            "D": "Cuestiones Internacionales"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 75.2 de la Constitución Española permite a las Cámaras delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley, con exclusión expresa de la reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases y presupuestos generales del Estado."
+    },
+    {
+        "numero": 47,
+        "enunciado": "Respecto a las Comisiones de Investigación previstas en el artículo 76 de la Constitución Española, señale la respuesta correcta:",
+        "opciones": {
+            "A": "No pueden ser creadas por ambas Cámaras conjuntamente",
+            "B": "Sus conclusiones son vinculantes para los Tribunales.",
+            "C": "Sus conclusiones no son vinculantes para los Tribunales, pero afectarán a las resoluciones judiciale",
+            "D": "Pueden ser creadas sobre cualquier asunto de interés público."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 76.1 de la Constitución Española establece que el Congreso y el Senado y, en su caso, ambas Cámaras conjuntamente, podrán nombrar Comisiones de investigación sobre cualquier asunto de interés público."
+    },
+    {
+        "numero": 48,
+        "enunciado": "Según la Constitución Española, el Gobierno responde solidariamente de su gestión política ante:",
+        "opciones": {
+            "A": "El Senado.",
+            "B": "El Congreso de los Diputados.",
+            "C": "El Tribunal Constitucional.",
+            "D": "El Rey."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 108 de la Constitución Española establece que el Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados."
+    },
+    {
+        "numero": 49,
+        "enunciado": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando:",
+        "opciones": {
+            "A": "vote a favor de la misma la mayoría absoluta de los Diputados",
+            "B": "vote a favor de la misma la mayoría cualificada de los Diputados",
+            "C": "vote a favor de la misma la mayoría simple de los Diputados",
+            "D": "vote a favor de la misma la mitad de los Diputados asistentes"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 173.2 (y 112) de la Constitución Española establece que la confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados."
+    },
+    {
+        "numero": 50,
+        "enunciado": "Señale la respuesta incorrecta: Según la Constitución Española, el Gobierno dirige:",
+        "opciones": {
+            "A": "la política interior y exterior.",
+            "B": "la acción judicial.",
+            "C": "la administración civil y militar.",
+            "D": "la defensa del Estado."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 97 de la Constitución Española dispone que el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, pero no dirige la acción judicial (que corresponde a los jueces y tribunales de manera independiente)."
+    },
+    {
+        "numero": 51,
+        "enunciado": "De conformidad con la Constitución Española, el gobierno cesante continuará en sus funciones hasta:",
+        "opciones": {
+            "A": "la celebración de nuevas elecciones.",
+            "B": "la disolución de las cámaras.",
+            "C": "toma de posesión del nuevo gobierno.",
+            "D": "la aprobación de una cuestión de confianza."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 101.2 de la Constitución Española establece que el Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno."
+    },
+    {
+        "numero": 52,
+        "enunciado": "Una moción de censura no podrá ser votada hasta que transcurran:",
+        "opciones": {
+            "A": "Cinco días desde su presentación.",
+            "B": "Siete días desde su presentación.",
+            "C": "Treinta días desde su presentación.",
+            "D": "Quince días desde su presentación."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 113.3 de la Constitución Española señala que la moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación."
+    },
+    {
+        "numero": 53,
+        "enunciado": "De conformidad con la Constitución española, el Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se formulen en las cámaras. Para esta clase de debates los Reglamentos:",
+        "opciones": {
+            "A": "no establecerán un tiempo mínimo.",
+            "B": "establecerán un tiempo mínimo semanal.",
+            "C": "establecerán un tiempo mínimo mensual.",
+            "D": "establecerán un tiempo mínimo por sesión."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 111.2 de la Constitución Española establece que para esta clase de debates los Reglamentos establecerán un tiempo mínimo semanal."
+    },
+    {
+        "numero": 54,
+        "enunciado": "La Constitución establece que el Presidente del Gobierno podrá, bajo su exclusiva responsabilidad, proponer la disolución del Congreso, Senado o de las Cortes Generales:",
+        "opciones": {
+            "A": "Sin deliberación previa del Consejo de Ministros y la disolución será decretada por el propio Presidente.",
+            "B": "Sin deliberación previa del Consejo de Ministros y la disolución será decretada por el Rey.",
+            "C": "Previa deliberación del Consejo de Ministros y la disolución será decretada por el Rey.",
+            "D": "Previa deliberación del Consejo de Ministros y la disolución será decretada por el propio Presidente del Gobierno."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El artículo 115.1 de la Constitución Española establece que el Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad, podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales, que será decretada por el Rey."
+    },
+    {
+        "numero": 55,
+        "enunciado": "La responsabilidad criminal de los miembros del Gobierno será exigible, en su caso, ante:",
+        "opciones": {
+            "A": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo.",
+            "B": "El Congreso de los Diputados.",
+            "C": "El Tribunal Constitucional.",
+            "D": "la Sala de lo Penal del Tribunal Supremo"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 102.1 de la Constitución Española establece que la responsabilidad criminal de los miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo."
+    },
+    {
+        "numero": 56,
+        "enunciado": "Según establece el art 106 CE, la función de control de la potestad reglamentaria recae sobre:",
+        "opciones": {
+            "A": "Los Tribunales.",
+            "B": "La Abogacía General del Estado.",
+            "C": "El Consejo de Ministros.",
+            "D": "El Consejo de Estado."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 106.1 de la Constitución Española establece que los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa."
+    },
+    {
+        "numero": 57,
+        "enunciado": "El candidato a la Presidencia del Gobierno es propuesto por:",
+        "opciones": {
+            "A": "El Rey.",
+            "B": "El Congreso de los Diputados.",
+            "C": "El Presidente del Congreso.",
+            "D": "Los partidos políticos"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 99.1 de la Constitución Española dispone que, después de cada renovación del Congreso de los Diputados y en los demás supuestos constitucionales en que así proceda, el Rey, previa consulta con los representantes designados por los grupos políticos con representación parlamentaria, y a través del Presidente del Congreso, propondrá un candidato a la Presidencia del Gobierno."
+    },
+    {
+        "numero": 58,
+        "enunciado": "El supremo órgano consultivo del Gobierno es:",
+        "opciones": {
+            "A": "El Consejo de Ministros.",
+            "B": "La Abogacía General del Estado.",
+            "C": "El Tribunal Constitucional.",
+            "D": "El Consejo de Estado."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 107 de la Constitución Española establece que el Consejo de Estado es el supremo órgano consultivo del Gobierno."
+    },
+    {
+        "numero": 59,
+        "enunciado": "Según la ley orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva de Mujeres y Hombres, la publicidad que comporte una conducta discriminatoria de acuerdo con esta Ley se considerará publicidad:",
+        "opciones": {
+            "A": "anulable",
+            "B": "ilícita",
+            "C": "irregular",
+            "D": "nula"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 10 de la Ley Orgánica 3/2007 establece que la publicidad que comporte discriminación por razón de sexo se considerará publicidad ilícita de conformidad con la legislación general sobre publicidad."
+    },
+    {
+        "numero": 60,
+        "enunciado": "Según la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, tiene por objeto actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de:",
+        "opciones": {
+            "A": "quienes sean sus cónyuges o de quienes estén ligados a ellas por relaciones similares de afectividad, siempre que tengan relación de convivencia",
+            "B": "quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, siempre que tengan relación de convivencia",
+            "C": "quienes sean sus cónyuges o de quienes estén ligados a ellas por relaciones similares de afectividad, aun sin convivencia",
+            "D": "quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 1 de la Ley Orgánica 1/2004 define el ámbito de aplicación especificando que comprende la violencia ejercida por quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia."
+    },
+    {
+        "numero": 61,
+        "enunciado": "Según el artículo 3 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, se impulsarán además campañas de información y sensibilización específicas con el fin de prevenir la violencia de género por parte de:",
+        "opciones": {
+            "A": "los medios de comunicación públicos",
+            "B": "los poderes públicos",
+            "C": "las instituciones y fundaciones privadas",
+            "D": "las organizaciones no gubernamentales"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 3 de la Ley Orgánica 1/2004 dispone que los poderes públicos impulsarán campañas de información y sensibilización específicas para prevenir la violencia de género."
+    },
+    {
+        "numero": 62,
+        "enunciado": "La Ley 9/2003, de 2 de abril, para la Igualdad entre Mujeres y Hombres de la Comunitat Valenciana, encuentra su fundamento en el Estatuto de Autonomía cuyo art. 31.26 atribuye a la Generalitat Valenciana competencia exclusiva sobre la:",
+        "opciones": {
+            "A": "Violencia de género",
+            "B": "Igualdad entre hombres y mujeres",
+            "C": "Igualdad entre mujeres y hombres",
+            "D": "Promoción de la mujer"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El Estatuto de Autonomía atribuye a la Generalitat competencias en materia de promoción de la mujer e igualdad."
+    },
+    {
+        "numero": 63,
+        "enunciado": "Según la Ley 9/2003, de 2 de abril, de la Generalitat, para la Igualdad entre Mujeres y Hombres, en relación con la formación para la igualdad:",
+        "opciones": {
+            "A": "No regula este aspecto en la norma.",
+            "B": "Se reconoce la figura de la persona coordinadora de igualdad y convivencia en los centros educativos no universitarios.",
+            "C": "Se reconoce la figura de la persona coordinadora de igualdad y convivencia en los centros educativos no universitarios y universitarios.",
+            "D": "Es función del claustro de profesores, el diseño de los programas específicos en la materia."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley reconoce la coordinación de igualdad y convivencia en el ámbito educativo no universitario."
+    },
+    {
+        "numero": 64,
+        "enunciado": "La reforma del Estatuto de Autonomía de la Comunitat Valenciana deberá ser aprobada por Les Corts, mediante acuerdo adoptado por:",
+        "opciones": {
+            "A": "por mayoría absoluta de sus miembros, salvo que sólo tuviese por objeto la ampliación del ámbito competencial, en cuyo caso será suficiente la mayoría simple de Les Corts.",
+            "B": "por dos terceras partes de sus miembros, salvo que sólo tuviese por objeto la ampliación del ámbito competencial, en cuyo caso será suficiente la mayoría simple de Les Corts.",
+            "C": "por mayoría de sus miembros, salvo que sólo tuviese por objeto la ampliación del ámbito competencial, en cuyo caso será suficiente la mayoría simple de Les Corts.",
+            "D": "por dos cuartas partes de sus miembros, salvo que sólo tuviese por objeto la ampliación del ámbito competencial, en cuyo caso será suficiente la mayoría simple de Les Corts."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Estatuto de Autonomía de la Comunitat Valenciana regula su reforma exigiendo el acuerdo de Les Corts por dos terceras partes de sus miembros, salvo supuestos específicos de ampliación competencial previstos."
+    },
+    {
+        "numero": 65,
+        "enunciado": "Según el Estatuto de Autonomía de la Comunitat Valenciana la iniciativa legislativa:",
+        "opciones": {
+            "A": "corresponde únicamente al Consell",
+            "B": "corresponde a la administración",
+            "C": "corresponde a Les Corts y al Consell",
+            "D": "corresponde únicamente a Les Corts"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El Estatuto de Autonomía de la Comunitat Valenciana establece que la iniciativa legislativa corresponde a Les Corts y al Consell."
+    },
+    {
+        "numero": 66,
+        "enunciado": "De conformidad con el Estatuto de Autonomia de la Comunitat Valenciana, la iniciativa legislativa de Les Corts:",
+        "opciones": {
+            "A": "se ejercerá únicamente por los Grupos Parlamentarios",
+            "B": "Se ejercerá únicamente por los Diputados o Diputadas",
+            "C": "se ejercerá únicamente a través de la iniciativa popular.",
+            "D": "podrá ser ejercida a través de la iniciativa popular."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El Estatuto de Autonomía de la Comunitat Valenciana contempla que la iniciativa legislativa en Les Corts podrá ser ejercida a través de la iniciativa popular en los términos que establezca la ley."
+    },
+    {
+        "numero": 67,
+        "enunciado": "La aprobación de la reforma del Estatuto de Autonomía de la Comunitat Valenciana por las Cortes Generales, mediante Ley Orgánica:",
+        "opciones": {
+            "A": "Incluirá la autorización del Estado para que la Generalitat convoque un referéndum de ratificación de los electores en un plazo de seis meses desde la votación final en las Cortes Generales. El referéndum podrá no convocarse en aquellos casos en que la reforma sólo implique ampliación de competencias",
+            "B": "Incluirá la autorización del Estado para que la Generalitat convoque un referéndum de ratificación de los electores en un plazo de seis meses desde la votación final en las Cortes Generales. El referéndum podrá no convocarse en aquellos casos en que la reforma implique ampliación de competencias",
+            "C": "Incluirá la autorización del Estado para que la Generalitat convoque un referéndum de ratificación de los electores en un plazo de seis meses desde la votación final en Les Corts. El referéndum podrá no convocarse en aquellos casos en que la reforma sólo implique ampliación de competencias",
+            "D": "Incluirá la autorización del Estado para que la Generalitat convoque un referéndum de ratificación de los electores en un plazo de seis meses desde la votación final en Les Corts. El referéndum podrá no convocarse en aquellos casos en que la reforma implique ampliación de competencias"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El Estatuto de Autonomía regula los trámites de reforma y la previsión de referéndum de ratificación por las Cortes Generales."
+    },
+    {
+        "numero": 68,
+        "enunciado": "Señale la respuesta correcta:",
+        "opciones": {
+            "A": "El President de la Generalitat podrá proponer, de acuerdo con lo que determine el Reglamento de Les Corts, la celebración de consultas populares en el ámbito de la Comunitat Valenciana, únicamente sobre cuestiones de interés general en materias autonómicas.",
+            "B": "El President de la Generalitat podrá proponer, de acuerdo con lo que determine el Reglamento de Les Corts, la celebración de consultas populares en el ámbito de la Comunitat Valenciana, únicamente sobre cuestiones de interés general en materias locales.",
+            "C": "El President de la Generalitat podrá proponer, en el marco de la legislación estatal, la celebración de consultas populares en el ámbito de la Comunitat Valenciana, únicamente sobre cuestiones de interés general en materias autonómicas.",
+            "D": "El President de la Generalitat podrá proponer, en el marco de la legislación estatal, la celebración de consultas populares en el ámbito de la Comunitat Valenciana, sobre cuestiones de interés general en materias autonómicas o locales."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El Estatuto de Autonomía atribuye al President la competencia para proponer consultas populares en el marco de la legislación estatal sobre materias autonómicas o locales."
+    },
+    {
+        "numero": 69,
+        "enunciado": "De conformidad con el Estatuto de Autonomía de la Comunitat Valenciana, NO es una función de Les Corts:",
+        "opciones": {
+            "A": "Elegir al President de la Generalitat",
+            "B": "Solicitar del Gobierno del Estado la adopción de proposiciones de Ley.",
+            "C": "Interponer recursos de inconstitucionalidad.",
+            "D": "Exigir, en su caso, responsabilidad política del President y del Consell."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "Les Corts ejercen la potestad legislativa, eligen al President, aprueban presupuestos, exigen responsabilidad política y pueden interponer recursos de inconstitucionalidad, pero no solicitan la adopción de proposiciones de ley en los mismos términos que la opción B."
+    },
+    {
+        "numero": 70,
+        "enunciado": "De conformidad con el Estatuto de Autonomía de la Comunitat Valenciana, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Les Corts nombrarán a su Presidente, a la Mesa y a una Diputación Permanente. También aprobarán, por mayoría absoluta, su Reglamento que tendrá rango de ley.",
+            "B": "Les Corts nombrarán a su Presidente, a la Mesa y a una Diputación Permanente. También aprobarán, por mayoría simple, su Reglamento que tendrá rango de ley.",
+            "C": "Les Corts nombrarán a su Presidente, a la Mesa y a una Diputación Permanente. También aprobarán mediante Decreto su Reglamento.",
+            "D": "Les Corts nombrarán a su Presidente, a la Mesa y a una Diputación Permanente. También aprobarán, por mayoría absoluta, su Reglamento que tendrá rango de Decreto."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El Estatuto de Autonomía de la Comunitat Valenciana establece que Les Corts aprueban su Reglamento por mayoría absoluta, teniendo éste rango de ley."
+    },
+    {
+        "numero": 71,
+        "enunciado": "Señale la respuesta correcta:",
+        "opciones": {
+            "A": "Les Corts son elegidas por cuatro años. El mandato de sus diputados finaliza cuatro años después de las elecciones, o el día de la disolución de las Cámaras por el President de Les Corts, en la forma que determine la Ley del Consell.",
+            "B": "Les Corts son elegidas por cuatro años. El mandato de sus diputados finaliza cuatro años después de las elecciones, o el día de la disolución de las Cámaras por el President de la Generalitat en la forma que establezca la Ley del Consell.",
+            "C": "Les Corts son elegidas por cuatro años. El mandato de sus diputados finaliza cuatro años después de las elecciones, o el día de la disolución de las Cámaras por el President de la Generalitat en la forma que se establezca mediante Decreto.",
+            "D": "Les Corts son elegidas por cuatro años. El mandato de sus diputados finaliza cuatro años después de las elecciones, o el día de la disolución de las Cámaras por el President de Les Cortsl en la forma que se establezca mediante Decreto."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Estatuto de Autonomía dispone que Les Corts son elegidas por cuatro años y su mandato finaliza cuatro años después o por disolución del President de la Generalitat conforme a la Ley del Consell."
+    },
+    {
+        "numero": 72,
+        "enunciado": "El President de la Generalitat, señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "Es Presidente del Consell.",
+            "B": "Ostenta en la Comunitat Valenciana la representación ordinaria del Estado.",
+            "C": "Comienza a ejercer sus funciones a partir del día de la publicación en el BOE de su nombramiento por el Rey.",
+            "D": "El cargo de President de la Generalitat es incompatible con el ejercicio de cualquier otra función pública que no derive del ejercicio de su cargo, excepto la de Diputado de las Cortes Generales."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El President ostenta la alta representación de la Comunitat Valenciana y la ordinaria del Estado en su territorio, pero la incompatibilidad con las Cortes Generales o cargos públicos específicos se rige por la normativa estatutaria y de incompatibilidades de la Generalitat."
+    },
+    {
+        "numero": 73,
+        "enunciado": "Al President de la Generalitat como más alto representante de la Comunitat Valenciana le corresponde:",
+        "opciones": {
+            "A": "Establecer las directrices generales de la acción del Consell.",
+            "B": "Disolver Les Corts.",
+            "C": "Proponer la celebración de consultas populares en el ámbito de la Comunitat Valenciana sobre cuestiones de interés general en materias autonómicas o locales.",
+            "D": "Nombrar a los altos cargos de la Comunitat Valenciana que las leyes determinen"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "Las funciones institucionales y ejecutivas del President incluyen el nombramiento de altos cargos determinados por las leyes."
+    },
+    {
+        "numero": 74,
+        "enunciado": "Señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "El President de la Generalitat es responsable políticamente ante Les Corts.",
+            "B": "El President de la Generalitat cesa en los casos de aprobación de una moción de censura.",
+            "C": "El President de la Generalitat cesa en los casos de aprobación de una cuestión de confianza.",
+            "D": "El President de la Generalitat cesa por incapacidad permanente declarada por Les Corts."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "La cuestión de confianza se plantea por el President sobre su programa; si es rechazada, no se aprueba, lo que conlleva consecuencias políticas reguladas, pero el cese formal directo por aprobación de cuestión de confianza no funciona como en una moción de censura aprobada."
+    },
+    {
+        "numero": 75,
+        "enunciado": "De conformidad con el Estatuto de Autonomía de la Comunitat Valenciana, cual de las siguientes es una institución normativa:",
+        "opciones": {
+            "A": "El Consell Jurídic Consultiu.",
+            "B": "La Acadèmia Valenciana de la Llengua",
+            "C": "La Sindicatura de Comptes",
+            "D": "El Comité Econòmic i Social"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Estatuto de Autonomía de la Comunitat Valenciana reconoce a la Acadèmia Valenciana de la Llengua como la institución normativa del idioma valenciano."
+    },
+    {
+        "numero": 76,
+        "enunciado": "Según l'Estatut d'Autonomia respecto al Consell Jurídic Consultiu, señale la respuesta correcta:",
+        "opciones": {
+            "A": "El Consell Jurídic Consultiu de la Comunitat Valenciana, institución de la Generalitat de carácter público, es el órgano consultivo supremo del Consell, de la Administración Autonómica y, en su caso, de las administraciones locales de la Comunitat Valenciana en materia jurídica.",
+            "B": "En cuanto al procedimiento de nombramiento de sus miembros habrá que ajustarse a lo que disponga el Decreto del Consell que lo regule.",
+            "C": "En cuanto a sus funciones, habrá que ajustarse a lo que disponga el Decreto del Consell que lo regule.",
+            "D": "El cuanto a la duración de su mandato, habrá que ajustarse a lo que disponga el Decreto del Consell que lo regule."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El Estatuto define al Consell Jurídic Consultiu como el órgano consultivo supremo del Consell y de la Administración en materia jurídica."
+    },
+    {
+        "numero": 77,
+        "enunciado": "De conformidad con el Estatuto de Autonomía de la Comunitat Valenciana, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Artículo 40. El Consell Valenciá de Cultura. El Consell Valenciá de Cultura es la institución asesora e informativa de los órganos públicos de la Comunitat Valenciana en aquellas materias específicas que afecten a la cultura valenciana",
+            "B": "Artículo 40. El Consell Valenciá de Cultura. El Consell Valenciá de Cultura es la institución consultiva y asesora de las instituciones públicas de la Comunitat Valenciana en aquellas materias específicas que afecten a la cultura valenciana",
+            "C": "Artículo 40. El Consell Valenciá de Cultura. El Consell Valenciá de Cultura es el órgano consultivo y asesor de las instituciones públicas de la Comunitat Valenciana en aquellas materias específicas que afecten a la cultura valenciana",
+            "D": "Artículo 40. El Consell Valencia de Cultura. El Consell Valenciá de Cultura es el órgano consultivo y asesor de las instituciones oficiales de la Comunitat Valenciana en aquellas materias específicas que afecten a la cultura valenciana"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Estatuto de Autonomía regula el Consell Valencià de Cultura como institución consultiva y asesora de las instituciones públicas de la Comunitat Valenciana en materias de cultura valenciana."
+    },
+    {
+        "numero": 78,
+        "enunciado": "Según l'Estatut d'Autonomia:",
+        "opciones": {
+            "A": "La normativa lingüística de L'Acadèmia Valenciana de la Llengua no será de aplicación en todas las administraciones públicas de la Comunitat Valenciana.",
+            "B": "La normativa lingüística de L'Acadèmia Valenciana de la Llengua será de aplicación progresiva en todas las administraciones públicas de la Comunitat Valenciana.",
+            "C": "La normativa lingüística de L'Acadèmia Valenciana de la Llengua será de aplicación potestativa en todas las administraciones públicas de la Comunitat Valenciana.",
+            "D": "La normativa lingüística de L'Acadèmia Valenciana de la Llengua será de aplicación obligatoria en todas las administraciones públicas de la Comunitat Valenciana."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El Estatuto de Autonomía establece que la normativa lingüística de la Acadèmia Valenciana de la Llengua será de aplicación obligatoria en todas las administraciones públicas de la Comunitat Valenciana."
+    },
+    {
+        "numero": 79,
+        "enunciado": "De conformidad con el Estatuto de Autonomía de la Comunitat Valenciana, cual de las siguientes es una institución comisionada de Les Corts:",
+        "opciones": {
+            "A": "Sindicatura de Comptes.",
+            "B": "Acadèmia Valenciana de la Llengua.",
+            "C": "Comité Econòmic i Social.",
+            "D": "Consell Jurídic Consultiu."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "La Sindicatura de Comptes es la institución de la Generalitat que depende de Les Corts para el control económico y presupuestario."
+    },
+    {
+        "numero": 80,
+        "enunciado": "Señale la respuesta correcta:",
+        "opciones": {
+            "A": "El Consell es el órgano unipersonal que ostenta la potestad ejecutiva y reglamentaria y dirige la administración de la Generalitat.",
+            "B": "El Consell es el órgano colegiado que ostenta la potestad ejecutiva y reglamentaria.",
+            "C": "El Consell es el órgano colegiado que ostenta la potestad legislativa y reglamentaria y dirige la administración de la Generalitat",
+            "D": "El Consell es el órgano unipersonal que ostenta la potestad ejecutiva y reglamentaria."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Estatuto y la Ley del Consell definen al Consell como el órgano colegiado que ostenta la potestad ejecutiva y reglamentaria de la Generalitat."
+    },
+    {
+        "numero": 81,
+        "enunciado": "Señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "Los consellers son nombrados y separados por el President de la Generalitat.",
+            "B": "Los consellers cesan en sus funciones por dimisión aceptada por el President.",
+            "C": "Los consellers cesan en sus funciones por fallecimiento.",
+            "D": "los consellers cesan en sus funciones por el cese del Presidente de Les Corts."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "Los consellers cesan por el cese del President de la Generalitat, no por el cese del President de Les Corts."
+    },
+    {
+        "numero": 82,
+        "enunciado": "Señale la respuesta correcta:",
+        "opciones": {
+            "A": "El secretario del Consell se nombra entre los Vicepresidentes, Consellers o Secretarios Autonómicos.",
+            "B": "El President podrá designar de entre los miembros del Consell un portavoz",
+            "C": "El Consell se compone del President de la Generalitat, del Vicepresidente o Vicepresidentes, en su caso, de los Consellers, así como de los Secretarios Autonómicos cuando sean convocados.",
+            "D": "El Consell es el órgano colegiado que ostenta la potestad legislativa y reglamentaria y dirige la Generalitat."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "La Ley del Consell prevé la designación de un portavoz de entre los miembros del Consell."
+    },
+    {
+        "numero": 83,
+        "enunciado": "En relación con los actos jurídicos de la unión europea, cuando se requieran condiciones uniformes de ejecución de los actos jurídicamente vinculantes de la unión:",
+        "opciones": {
+            "A": "Éstos conferirán competencias normativas a la Comisión o, en casos específicos debidamente justificados, y en los previstos en los artículos 24 y 27 del Tratado de la Unión Europea, al Consejo.",
+            "B": "Éstos conferirán competencias de ejecución a la Comisión o, en casos específicos debidamente justificados, y en los previstos en los artículos 24 y 27 del Tratado de la Unión Europea, al Consejo.",
+            "C": "Éstos conferirán competencias legislativas a la Comisión o, en casos específicos debidamente justificados, y en los previstos en los artículos 24 y 27 del Tratado de la Unión Europea, al Consejo.",
+            "D": "Éstos conferirán competencias normativas al Consejo o, en casos específicos debidamente justificados, y en los previstos en los artículos 24 y 27 del Tratado de la Unión Europea, a la Comisión."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "Conforme al artículo 291 del TFUE, cuando se requieran condiciones uniformes de ejecución, los actos conferirán competencias de ejecución a la Comisión."
+    },
+    {
+        "numero": 84,
+        "enunciado": "Para ejercer las competencias de la Unión Europea, las instituciones adoptarán, señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "Decisiones.",
+            "B": "Recomendaciones.",
+            "C": "Dictámenes",
+            "D": "Decretos"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El artículo 288 del TFUE enumera los actos de la Unión: reglamentos, directivas, decisiones, recomendaciones y dictámenes. Los 'decretos' son normas internas estatales, no actos de la UE."
+    },
+    {
+        "numero": 85,
+        "enunciado": "El mandato de la Comisión Europea es de:",
+        "opciones": {
+            "A": "3 años",
+            "B": "4 años",
+            "C": "5 años",
+            "D": "6 años"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "El mandato de la Comisión Europea es de 5 años."
+    },
+    {
+        "numero": 86,
+        "enunciado": "La duración del mandato del presidente, de los vicepresidentes y de los cuestores del Parlamento Europeo será de:",
+        "opciones": {
+            "A": "Seis meses",
+            "B": "Un año",
+            "C": "Un año y medio",
+            "D": "Dos años y medio"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "El mandato del Presidente, vicepresidentes y cuestores del Parlamento Europeo es de dos años y medio (la mitad de la legislatura)."
+    },
+    {
+        "numero": 87,
+        "enunciado": "Según el artículo 252 del TFUE, ¿cual de las siguientes opciones es la correcta?",
+        "opciones": {
+            "A": "El Tribunal de Justicia estará asistido por ocho abogados generales. Si el Tribunal de Justicia lo solicitare, el Consejo, por unanimidad, podrá aumentar el número de abogados generales.",
+            "B": "El Tribunal de Justicia estará asistido por ocho abogados generales. Si el Tribunal de Justicia lo solicitare, la Comisión, por unanimidad, podrá aumentar el número de abogados generales.",
+            "C": "El Tribunal de Justicia estará asistido por doce abogados generales. Si el Tribunal de Justicia lo solicitare, el Consejo, por unanimidad, podrá aumentar el número de abogados generales.",
+            "D": "El Tribunal de Justicia estará asistido por doce abogados generales. Si el Tribunal de Justicia lo solicitare, la Comisión, por unanimidad, podrá aumentar el número de abogados generales."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El artículo 252 del TFUE establece que el Tribunal de Justicia estará asistido por abogados generales y regula la ampliación por el Consejo por unanimidad."
+    },
+    {
+        "numero": 88,
+        "enunciado": "Según el artículo 19 del Tratado de la Unión Europea, el Tribunal de Justicia de la Unión Europea comprenderá:",
+        "opciones": {
+            "A": "El Tribunal General, el Consejo de Abogados y los Tribunales de Justicia.",
+            "B": "El Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
+            "C": "El Tribunal General, el Consejo de Abogados y los Tribunales subsidiarios.",
+            "D": "El Tribunal Superior, el Consejo Tribunal y el Consejo de Abogados."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El artículo 19 del TUE establece que el Tribunal de Justicia de la Unión Europea comprende el Tribunal de Justicia, el Tribunal General y los tribunales especializados."
+    },
+    {
+        "numero": 89,
+        "enunciado": "Salvo circunstancias excepcionales ¿dónde se reúne el Consejo Europeo?",
+        "opciones": {
+            "A": "Londres",
+            "B": "Bruselas",
+            "C": "Luxemburgo",
+            "D": "Estrasburgo"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Consejo Europeo tiene su sede y se reúne habitualmente en Bruselas."
+    },
+    {
+        "numero": 90,
+        "enunciado": "Los miembros del Tribunal de Cuentas serán nombrados para un período de:",
+        "opciones": {
+            "A": "3 años",
+            "B": "4 años",
+            "C": "5 años",
+            "D": "6 años"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "Los miembros del Tribunal de Cuentas europeo son nombrados por un período de seis años."
+    },
+    {
+        "numero": 91,
+        "enunciado": "¿Quién ejecuta el presupuesto en la Unión Europea?",
+        "opciones": {
+            "A": "El Parlamento Europeo",
+            "B": "El Consejo",
+            "C": "La Comisión",
+            "D": "El Tribunal de Cuentas"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": "La Comisión Europea es la encargada de ejecutar el presupuesto de la Unión en cooperación con los Estados miembros."
+    },
+    {
+        "numero": 92,
+        "enunciado": "¿Cuántos son los comisarios de las Comisión Europea?",
+        "opciones": {
+            "A": "25",
+            "B": "26",
+            "C": "27",
+            "D": "28"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": "La Comisión Europea está compuesta por un miembro por cada Estado miembro (27 Estados actuales)."
+    },
+    {
+        "numero": 93,
+        "enunciado": "Según el TUE, excepto cuando los Tratados dispongan otra cosa:",
+        "opciones": {
+            "A": "El Consejo se pronunciará por consenso y el Consejo Europeo por mayoría absoluta.",
+            "B": "El Consejo se pronunciará por mayoría cualificada y el Consejo Europeo por consenso",
+            "C": "El Consejo se pronunciará por mayoría cualificada y el Consejo Europeo por mayoría absoluta",
+            "D": "El Consejo se pronunciará por consenso y el Consejo Europeo por mayoría cualificada."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": "El Tratado de la Unión Europea establece que el Consejo se pronunciará por mayoría cualificada y el Consejo Europeo por consenso, salvo que los Tratados dispongan otra cosa."
+    },
+    {
+        "numero": 94,
+        "enunciado": "Según el Estatuto de Autonomía de la Comunitat Valenciana, el acceso a los documentos de las instituciones y administraciones públicas valencianas:",
+        "opciones": {
+            "A": "Sin perjuicio de lo que dispone la legislación básica del Estado, una Ley de Les Corts regulará el acceso a los documentos",
+            "B": "Está materia es regulada exclusivamente por la legislación básica del Estado",
+            "C": "Solo por Ley de Les Corts se regulará el acceso a los documentos de las instituciones y administraciones públicas valencianas.",
+            "D": "No se pronuncia por esta materia en el Estatuto de Autonomía de la Comunitat Valenciana"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": "El Estatuto de Autonomía de la Comunitat Valenciana regula que, sin perjuicio de la legislación básica del Estado, una Ley de Les Corts regulará el acceso a los documentos de las instituciones y administraciones públicas valencianas."
+    }
+]

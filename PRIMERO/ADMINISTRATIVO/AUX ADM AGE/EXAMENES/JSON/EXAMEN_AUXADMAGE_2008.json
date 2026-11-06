@@ -1,0 +1,1095 @@
+{
+    "documento": "AUX-2008",
+    "secciones": [
+        {
+            "nombre": "PRIMERA PARTE",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "enunciado": "De acuerdo con el artículo 53.1 de la Constitución, señale el derecho o libertad pública que podrá regularse sólo por ley:",
+                    "opciones": {
+                        "a": "El derecho a la protección de la salud.",
+                        "b": "Derecho a una vivienda digna adecuada.",
+                        "c": "El derecho al acceso a la cultura.",
+                        "d": "Derecho a la negociación colectiva laboral."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 2,
+                    "enunciado": "Señale los principios constitucionales que rigen siempre en el acceso de los ciudadanos a la función pública:",
+                    "opciones": {
+                        "a": "Principio de mérito y objetividad.",
+                        "b": "Principios de mérito y capacidad.",
+                        "c": "Principios de mérito, capacidad e imparcialidad.",
+                        "d": "Principios de mérito, capacidad, imparcialidad y transparencia."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 3,
+                    "enunciado": "De acuerdo con la Constitución, señale cuál de los siguientes derechos puede ser objeto de recurso de amparo:",
+                    "opciones": {
+                        "a": "El derecho de participación política.",
+                        "b": "El derecho a la propiedad privada.",
+                        "c": "El derecho al trabajo.",
+                        "d": "El derecho a la negociación colectiva."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 4,
+                    "enunciado": "De acuerdo con la Ley Orgánica del Tribunal Constitucional, señale cuáles son los procedimientos de declaración de inconstitucionalidad:",
+                    "opciones": {
+                        "a": "El recurso de inconstitucionalidad y la cuestión de inconstitucionalidad promovida por jueces y tribunales.",
+                        "b": "El recurso de inconstitucionalidad y el recurso de amparo.",
+                        "c": "La cuestión de inconstitucionalidad y los conflictos constitucionales de competencia.",
+                        "d": "El recurso de inconstitucionalidad, la cuestión de inconstitucionalidad y los conflictos constitucionales de competencia."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 5,
+                    "enunciado": "Señale quién refrenda el acto del Rey por el que se nombra al Presidente del Gobierno tras la votación de investidura:",
+                    "opciones": {
+                        "a": "El Ministro de Administraciones Públicas en funciones.",
+                        "b": "El Presidente del Congreso de los Diputados.",
+                        "c": "El Presidente del Senado.",
+                        "d": "Los Presidentes del Congreso y del Senado."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 6,
+                    "enunciado": "Señale la afirmación correcta. Entre las causas de inelegibilidad e incompatibilidad de los diputados y senadores NO se incluye:",
+                    "opciones": {
+                        "a": "A los componentes del Tribunal Constitucional.",
+                        "b": "Al Defensor del Pueblo.",
+                        "c": "A los miembros del Gobierno.",
+                        "d": "A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 7,
+                    "enunciado": "Señale la afirmación correcta en relación con el Defensor del Pueblo:",
+                    "opciones": {
+                        "a": "Estará sujeto a condición resolutoria.",
+                        "b": "No estará sujeto a mandato imperativo alguno.",
+                        "c": "Desempeñará sus funciones siguiendo el criterio que le marquen las Cámaras.",
+                        "d": "Tiene poder para anular resoluciones y actos."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 8,
+                    "enunciado": "Señale a quién corresponde el nombramiento del Fiscal General del Estado:",
+                    "opciones": {
+                        "a": "Al Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+                        "b": "Al Rey, a propuesta del Presidente del Gobierno, oído el Consejo General del Poder Judicial.",
+                        "c": "Al Gobierno, a propuesta del Ministro de Justicia.",
+                        "d": "Al Presidente del Gobierno, a propuesta del Ministro de Justicia."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 9,
+                    "enunciado": "Señale la afirmación correcta. A efectos judiciales, el Estado se organiza territorialmente en:",
+                    "opciones": {
+                        "a": "Comunidades Autónomas, provincias y entidades locales.",
+                        "b": "Comunidades Autónomas, provincias y municipios, exclusivamente.",
+                        "c": "Comunidades Autónomas, provincias, municipios y juzgados de primera instancia.",
+                        "d": "Comunidades Autónomas, provincias, partidos y municipios."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 10,
+                    "enunciado": "De acuerdo con lo establecido en la Constitución, señale de quién se compone el Gobierno:",
+                    "opciones": {
+                        "a": "Presidente y de los Ministros.",
+                        "b": "Presidente, de los Ministros y de los Secretarios de Estado.",
+                        "c": "Presidente, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado.",
+                        "d": "Presidente, de los Vicepresidentes en su caso, de los Ministros y de los demás miembros que establezca la ley."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 11,
+                    "enunciado": "Señale la afirmación FALSA. De acuerdo con la Ley del Gobierno, corresponde al Presidente del Gobierno:",
+                    "opciones": {
+                        "a": "Refrendar todos los actos del Rey.",
+                        "b": "Representar al Gobierno.",
+                        "c": "Fijar el orden del día de las reuniones del Consejo de Ministros.",
+                        "d": "Dirigir la política de defensa."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 12,
+                    "enunciado": "De acuerdo con la Ley del Gobierno, señale qué corresponde a los Ministros:",
+                    "opciones": {
+                        "a": "Crear, modificar y suprimir, por Real Decreto, los Departamentos ministeriales.",
+                        "b": "Establecer el programa político del Gobierno.",
+                        "c": "Ejercer la potestad reglamentaria en las materias propias de su Departamento.",
+                        "d": "Fijar el orden del día de las reuniones del Consejo de Ministros."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 13,
+                    "enunciado": "De acuerdo con la Ley 6/1997, de 14 de abril, señale de qué tendrán rango los Delegados del Gobierno en las Comunidades Autónomas:",
+                    "opciones": {
+                        "a": "Subdirector General.",
+                        "b": "Director General.",
+                        "c": "Secretario General.",
+                        "d": "Subsecretario."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 14,
+                    "enunciado": "Según la Ley 6/1997, de 14 de abril, señale qué son las Agencias Estatales:",
+                    "opciones": {
+                        "a": "Organismos Públicos.",
+                        "b": "Organismos Autónomos.",
+                        "c": "Entidades Públicas Empresariales.",
+                        "d": "Sociedades Mercantiles Estatales."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 15,
+                    "enunciado": "Señale qué podrán transferir las leyes de transferencia y delegación de competencias, previstas en el artículo 150.2 de la Constitución:",
+                    "opciones": {
+                        "a": "Competencias concurrentes del Estado y las Comunidades Autónomas.",
+                        "b": "Competencias previstas en el artículo 148 de la Constitución.",
+                        "c": "Competencias estatales.",
+                        "d": "Competencias compartidas del Estado y las Comunidades Autónomas."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 16,
+                    "enunciado": "De acuerdo con la Constitución, señale quién es competente para poder aprobar cualquier alteración de los límites provinciales:",
+                    "opciones": {
+                        "a": "Las Cortes Generales mediante ley orgánica.",
+                        "b": "Las Cortes Generales por mayoría absoluta.",
+                        "c": "Las Cortes Generales por unanimidad con la conformidad de la Comunidad Autónoma afectada.",
+                        "d": "El Gobierno y la Comunidad Autónoma de las provincias afectadas."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 17,
+                    "enunciado": "Señale cuándo se celebraron las primeras elecciones al Parlamento Europeo por sufragio universal directo:",
+                    "opciones": {
+                        "a": "1974",
+                        "b": "1977",
+                        "c": "1979",
+                        "d": "1981"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 18,
+                    "enunciado": "Señale a quién está atribuido el derecho de iniciativa normativa, según el Tratado de la Comunidad Europea:",
+                    "opciones": {
+                        "a": "La Comisión.",
+                        "b": "La Comisión y el Parlamento Europeo.",
+                        "c": "El Consejo y la Comisión.",
+                        "d": "La Comisión y los Estados miembros."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 19,
+                    "enunciado": "Según la Ley 30/1992, los procedimientos administrativos se iniciarán:",
+                    "opciones": {
+                        "a": "Únicamente por acuerdo del órgano competente.",
+                        "b": "De oficio o a solicitud de la persona interesada.",
+                        "c": "Siempre por denuncia.",
+                        "d": "Siempre a instancia del interesado."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 20,
+                    "enunciado": "Señale la afirmación correcta en relación con los procedimientos administrativos:",
+                    "opciones": {
+                        "a": "Se podrá prescindir del trámite de audiencia.",
+                        "b": "Los informes serán potestativos y vinculantes.",
+                        "c": "No se podrá rechazar en ningún caso las pruebas propuestas por los interesados.",
+                        "d": "Los interesados podrán actuar asistidos de asesor."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 21,
+                    "enunciado": "Señale a partir de cuándo se computan los plazos fijados en meses o en años:",
+                    "opciones": {
+                        "a": "El mismo día de notificación o publicación del acto del que se trate.",
+                        "b": "El día siguiente a aquél en que tiene lugar la notificación o publicación del acto del que se trate.",
+                        "c": "El día que el interesado realice una acción que denote que tenía conocimiento del acto de que se trate.",
+                        "d": "Tres meses después a aquél en que se produzca la estimación o desestimación por silencio administrativo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 22,
+                    "enunciado": "De acuerdo con la Ley 29/1998, de 13 de julio, señale sobre qué tipo de cuestiones puede conocer el orden jurisdiccional contencioso-administrativo:",
+                    "opciones": {
+                        "a": "La protección jurisdiccional de los derechos fundamentales.",
+                        "b": "Los conflictos de jurisdicción entre Tribunales y la Administración Pública.",
+                        "c": "Los conflictos de atribuciones entre órganos de una misma Administración.",
+                        "d": "Resoluciones administrativas relativas a la regulación de empleo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 23,
+                    "enunciado": "Señale cómo se clasifican los empleados públicos de acuerdo con el Estatuto Básico del Empleado Público:",
+                    "opciones": {
+                        "a": "Funcionarios de carrera, personal laboral y personal estatutario.",
+                        "b": "Funcionarios de carrera, funcionarios interinos y personal estatutario.",
+                        "c": "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.",
+                        "d": "Funcionarios de carrera, funcionarios interinos, personal laboral, personal eventual y personal estatutario."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 24,
+                    "enunciado": "Señale la afirmación correcta. Serán objeto de anotación en el Registro Central de Personal los siguientes actos y resoluciones administrativas del personal funcionario:",
+                    "opciones": {
+                        "a": "Las bajas temporales.",
+                        "b": "Los cambios de categoría profesional.",
+                        "c": "Las reducciones de jornada.",
+                        "d": "Las prórrogas de los contratos."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 25,
+                    "enunciado": "Señale en qué situación es declarado en la Administración General del Estado... un funcionario de carrera que es nombrado alto cargo de la Administración de una Comunidad Autónoma:",
+                    "opciones": {
+                        "a": "Servicio activo.",
+                        "b": "Servicios especiales.",
+                        "c": "Servicios en otras Administraciones Públicas.",
+                        "d": "Excedencia voluntaria por prestación de servicios en el sector público."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 26,
+                    "enunciado": "De conformidad con el Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, señale qué funcionarios quedan obligatoriamente incluidos en el campo de aplicación del mutualismo administrativo:",
+                    "opciones": {
+                        "a": "Los funcionarios en prácticas.",
+                        "b": "Los funcionarios de Organismos autónomos.",
+                        "c": "Los funcionarios de la Administración de la Seguridad Social.",
+                        "d": "Los funcionarios de la Administración de la Justicia."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 27,
+                    "enunciado": "Señale la respuesta FALSA. De acuerdo con la Constitución, los Presupuestos Generales del Estado:",
+                    "opciones": {
+                        "a": "Son elaborados por el Gobierno.",
+                        "b": "Son examinados y aprobados por las Cortes Generales.",
+                        "c": "Tienen carácter bianual.",
+                        "d": "Incluyen la totalidad de gastos e ingresos del sector público estatal."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 28,
+                    "enunciado": "De acuerdo con la Ley General Presupuestaria, señale qué principio rige en la programación presupuestaria:",
+                    "opciones": {
+                        "a": "Estabilidad presupuestaria.",
+                        "b": "Anualidad.",
+                        "c": "Racionalidad.",
+                        "d": "Unidad de caja."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 29,
+                    "enunciado": "De acuerdo con el artículo 12 de la Ley de Medidas de Protección Integral contra la Violencia de Género, señale cómo se denomina la publicidad que utiliza la imagen de la mujer con carácter vejatorio o discriminatorio:",
+                    "opciones": {
+                        "a": "Publicidad ilícita.",
+                        "b": "Publicidad engañosa.",
+                        "c": "Publicidad subliminal.",
+                        "d": "Publicidad desleal."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 30,
+                    "enunciado": "Señale quién aprueba el Plan de Igualdad en la Administración General del Estado, previsto en la Ley para la Igualdad efectiva de mujeres y hombres:",
+                    "opciones": {
+                        "a": "El Gobierno, anualmente.",
+                        "b": "El Gobierno, anualmente, a propuesta del Ministerio de Administraciones Públicas.",
+                        "c": "El Gobierno al inicio de cada legislatura.",
+                        "d": "El Presidente de Gobierno, al inicio de cada legislatura."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 31,
+                    "enunciado": "Si se ordenasen las diferentes Administraciones de menor a mayor número de empleados públicos en la actualidad, ¿cuál de las siguientes opciones se correspondería con dicha ordenación?",
+                    "opciones": {
+                        "a": "AGE, CC.AA, y Corporaciones Locales.",
+                        "b": "AGE, Corporaciones Locales y CC.AA.",
+                        "c": "CC.AA., Corporaciones Locales y AGE.",
+                        "d": "Corporaciones Locales, AGE y CC.AA."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 32,
+                    "enunciado": "Indique cuál de las siguientes afirmaciones es VERDADERA respecto a lo indicado en el texto (empleados públicos).",
+                    "opciones": {
+                        "a": "El número total de empleados públicos en España ha descendido en los últimos 15 años.",
+                        "b": "El traspaso de competencias ha producido cambios en la composición de las Administraciones.",
+                        "c": "El personal de las Universidades ha sido traspasado a la AGE.",
+                        "d": "Las CC.AA. cuentan con más del 50% de los empleados públicos de España."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 33,
+                    "enunciado": "Si se ordenasen las diferentes Administraciones de menor a mayor número de empleados públicos en 1992, ¿cuál de las siguientes opciones se correspondería?",
+                    "opciones": {
+                        "a": "AGE, Corporaciones Locales y CC.AA.",
+                        "b": "CC.AA., Corporaciones Locales y AGE.",
+                        "c": "Corporaciones Locales, AGE y CC.AA.",
+                        "d": "Corporaciones Locales, CC.AA. y AGE."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 34,
+                    "enunciado": "Indique cuál de las siguientes afirmaciones es VERDADERA respecto a la información que presenta el texto.",
+                    "opciones": {
+                        "a": "Las CC.AA. cuentan en la actualidad con más del doble de empleados públicos que la AGE.",
+                        "b": "El número de despidos ha sido muy pronunciado en la AGE.",
+                        "c": "La mayoría del personal universitario son empleados por las Corporaciones Locales.",
+                        "d": "El menor porcentaje de empleados públicos le corresponde a las CC.AA."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 35,
+                    "enunciado": "El personal de la AGE que no trabaja en las Fuerzas Armadas, Fuerzas de Seguridad del Estado y Administración de Justicia:",
+                    "opciones": {
+                        "a": "Representa más del 50% de los empleados públicos de la AGE.",
+                        "b": "Es 3 veces superior al personal universitario.",
+                        "c": "Ha aumentado en los últimos 15 años.",
+                        "d": "Representa menos de un 10% de los empleados públicos de España."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 36,
+                    "enunciado": "Sinónimo/Significado parecido a MARISMA:",
+                    "opciones": {
+                        "a": "Despeñadero",
+                        "b": "Albufera",
+                        "c": "Planicie",
+                        "d": "Secarral"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 37,
+                    "enunciado": "Sinónimo/Significado parecido a HEDOR:",
+                    "opciones": {
+                        "a": "Aroma",
+                        "b": "Aura",
+                        "c": "Transpiración",
+                        "d": "Fetidez"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 38,
+                    "enunciado": "Sinónimo/Significado parecido a REMISO:",
+                    "opciones": {
+                        "a": "Diligente",
+                        "b": "Cauto",
+                        "c": "Melindroso",
+                        "d": "Irresoluto"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 39,
+                    "enunciado": "Sinónimo/Significado parecido a DENOSTAR:",
+                    "opciones": {
+                        "a": "Percatar",
+                        "b": "Sucumbir",
+                        "c": "Injuriar",
+                        "d": "Devaluar"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 40,
+                    "enunciado": "Sinónimo/Significado parecido a SOLÍCITO:",
+                    "opciones": {
+                        "a": "Cuidadoso",
+                        "b": "Firme",
+                        "c": "Imponente",
+                        "d": "Rendido"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 41,
+                    "enunciado": "¿En qué año la producción de manzanas es superior a la de peras?",
+                    "opciones": {
+                        "a": "2003",
+                        "b": "2007",
+                        "c": "2005",
+                        "d": "2006"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 42,
+                    "enunciado": "Si la superficie total del terreno es de 5 hectáreas (50.000 m2), ¿qué superficie se dedica al cultivo de melones y peras juntos?",
+                    "opciones": {
+                        "a": "1,25 hectáreas",
+                        "b": "1.250 m2",
+                        "c": "0,125 hectáreas",
+                        "d": "12.000 m2"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 43,
+                    "enunciado": "¿Cuántos miles de kilogramos de peras se produjeron sumando las cosechas de 2006 y 2007?",
+                    "opciones": {
+                        "a": "65",
+                        "b": "70",
+                        "c": "80",
+                        "d": "85"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 44,
+                    "enunciado": "Si en 2008 se prevé un aumento de la producción de manzanas del 20% respecto al año anterior, ¿cuánto tendría que aumentar la producción de peras en 2008 para que la unión de ambas producciones alcanzara la producción total lograda en 2005?",
+                    "opciones": {
+                        "a": "Un 15%.",
+                        "b": "Algo más del 5%.",
+                        "c": "Menos del 2%.",
+                        "d": "Entre el 10 y el 12%."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 45,
+                    "enunciado": "Si las peras se vendieron en 2002 a 2 euros el kilogramo y en el año siguiente un 25% más caro, ¿a cuánto ascendió la venta de toda la producción de dicha fruta en los años 2002 y 2003 juntos (en miles de euros)?",
+                    "opciones": {
+                        "a": "180.000 €",
+                        "b": "172.500 €",
+                        "c": "110.000 €",
+                        "d": "225.500 €"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 46,
+                    "enunciado": "¿Cuántas revistas imprime la máquina M2 más que la M1 en 5 días?",
+                    "opciones": {
+                        "a": "600",
+                        "b": "1.200",
+                        "c": "300",
+                        "d": "1.500"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 47,
+                    "enunciado": "¿Cuántos días aproximadamente llevará la impresión de todas las revistas?",
+                    "opciones": {
+                        "a": "105",
+                        "b": "139",
+                        "c": "130",
+                        "d": "845"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 48,
+                    "enunciado": "Si cada revista consume una cantidad de tinta por valor de 0,8 euros, ¿cuál es el valor de la tinta consumida diariamente por la máquina M3?",
+                    "opciones": {
+                        "a": "390 euros",
+                        "b": "234 euros",
+                        "c": "384 euros",
+                        "d": "288 euros"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 49,
+                    "enunciado": "La imprenta necesita acabar el trabajo en 90 días y decide encargar a otra empresa la impresión de las revistas que no puede hacer por sus propios medios. ¿Cuántas revistas tendrá que encargar?",
+                    "opciones": {
+                        "a": "44.000",
+                        "b": "37.000",
+                        "c": "18.200",
+                        "d": "27.700"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 50,
+                    "enunciado": "Si la máquina M3 permaneciera parada por avería durante 10 días, transcurridos los cuales continuara imprimiendo a su ritmo normal, ¿cuánto se habría alargado el plazo de impresión?",
+                    "opciones": {
+                        "a": "Menos de 3 días",
+                        "b": "Entre 3 y 5 días",
+                        "c": "Entre 6 y 7 días",
+                        "d": "Más de 7 días"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 51,
+                    "enunciado": "Clasificación documento 51 (Hora: 9, Memorando, Administración -> Hacienda, Prioridad Normal)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 52,
+                    "enunciado": "Clasificación documento 52 (Hora: 16, Informe, Sanidad -> Administración, Prioridad Baja)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 53,
+                    "enunciado": "Clasificación documento 53 (Hora: 11, Expediente, Administración -> Educación, Prioridad Normal)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 54,
+                    "enunciado": "Clasificación documento 54 (Hora: 14, Informe, Hacienda -> Consumo, Prioridad Baja)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 55,
+                    "enunciado": "Clasificación documento 55 (Hora: 10, Resolución, Educación -> Administración, Prioridad Normal)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 56,
+                    "enunciado": "Clasificación documento 56 (Hora: 15, Circular, Administración -> Hacienda, Prioridad Urgente)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 57,
+                    "enunciado": "Clasificación documento 57 (Hora: 11, Informe, Consumo -> Educación, Prioridad Urgente)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 58,
+                    "enunciado": "Clasificación documento 58 (Hora: 9, Resolución, Educación -> Sanidad, Prioridad Baja)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 59,
+                    "enunciado": "Clasificación documento 59 (Hora: 19, Memorando, Consumo -> Administración, Prioridad Baja)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 60,
+                    "enunciado": "Clasificación documento 60 (Hora: 15, Resolución, Hacienda -> Sanidad, Prioridad Baja)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                }
+            ]
+        },
+        {
+            "nombre": "SEGUNDA PARTE: ACTIVIDAD ADMINISTRATIVA Y OFIMATICA",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "enunciado": "Señale qué oficinas habrán de ajustarse a las condiciones de accesibilidad y no discriminación de las personas con discapacidad... previstas en el Real Decreto 366/2007:",
+                    "opciones": {
+                        "a": "Todas las oficinas de atención al ciudadano de la Administración General del Estado.",
+                        "b": "Todas las oficinas de atención al ciudadano, excepto las que se encuentren fuera del territorio nacional.",
+                        "c": "Las oficinas de atención al ciudadano que se determinen mediante resolución...",
+                        "d": "Las oficinas de atención al ciudadano que se determinen por cada uno de los Departamentos ministeriales..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 2,
+                    "enunciado": "Señale cómo podrán los usuarios formular sus quejas y sugerencias de acuerdo con el Real Decreto 951/2005, 29 de julio:",
+                    "opciones": {
+                        "a": "Sólo presencialmente en soporte papel.",
+                        "b": "Presencialmente, y supletoriamente por correo postal.",
+                        "c": "Presencialmente en soporte papel, y supletoriamente por medios telemáticos.",
+                        "d": "Presencialmente, por correo postal y por medios telemáticos."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 3,
+                    "enunciado": "Señale la afirmación correcta en relación con el derecho de acceso a archivos y registros:",
+                    "opciones": {
+                        "a": "No podrá ser denegado en ningún caso.",
+                        "b": "Podrá denegarse discrecionalmente por el órgano competente.",
+                        "c": "Podrá denegarse a quienes no tengan la condición de interesado...",
+                        "d": "Podrá denegarse cuando prevalezcan intereses de terceros más dignos de protección, debiendo dictar resolución motivada."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 4,
+                    "enunciado": "De acuerdo con la Ley 11/2007 de 22 de junio, señale a partir de qué momento los ciudadanos podrán ejercer el derecho de acceso electrónico a los servicios públicos en el ámbito de la AGE:",
+                    "opciones": {
+                        "a": "A partir del 31 de Diciembre del 2008.",
+                        "b": "A partir del 1 de enero del 2009.",
+                        "c": "A partir del 31 de Diciembre del 2009.",
+                        "d": "A partir del 1 de enero del 2010."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 5,
+                    "enunciado": "Señale la afirmación correcta. La Ley 11/2007, de 22 de junio, establece que:",
+                    "opciones": {
+                        "a": "Los registros electrónicos permitirán la presentación de solicitudes... todos los días del año durante las 24 horas, excepto los días inhábiles.",
+                        "b": "Las relaciones por medios electrónicos... se realizará exclusivamente en castellano.",
+                        "c": "Los ciudadanos quedan vinculados en la tramitación de todo el procedimiento al canal inicialmente utilizado.",
+                        "d": "Se crea en la AGE la figura del Defensor del usuario de la administración electrónica."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 6,
+                    "enunciado": "¿Para qué sirve el icono que aparece en la Barra de tareas?",
+                    "opciones": {
+                        "a": "Para mostrar el Escritorio en la pantalla.",
+                        "b": "Para modificar la apariencia de la Barra de tareas.",
+                        "c": "Para abrir el programa gráfico predeterminado.",
+                        "d": "Para abrir el procesador de textos predeterminado."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 7,
+                    "enunciado": "En la Barra de tareas... hay varios programas y archivos abiertos. ¿Cuál de las siguientes acciones le permitiría pasar de uno a otro?",
+                    "opciones": {
+                        "a": "Pulsar simultáneamente las teclas Alt + F4 varias veces...",
+                        "b": "Pulsar simultáneamente las teclas Ctrl + Alt + Supr varias veces...",
+                        "c": "Mantener pulsada la tecla Alt y pulsar varias veces la tecla Tab...",
+                        "d": "Pulsar simultáneamente las teclas Ctrl + Tab varias veces..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 8,
+                    "enunciado": "Si en las propiedades de la Barra de tareas se elimina la selección de la opción 'Mostrar inicio rápido', ¿cuál de las siguientes afirmaciones es verdadera?",
+                    "opciones": {
+                        "a": "Desaparecerán los accesos directos de la Barra de tareas.",
+                        "b": "Desaparecerá el botón Inicio.",
+                        "c": "Desaparecerá el Área de notificación de la Barra de tareas.",
+                        "d": "Se ocultará la Barra de tareas..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 9,
+                    "enunciado": "Señale cuál es la utilidad de la tecla F1 en entorno Windows:",
+                    "opciones": {
+                        "a": "Abrir el menú de ayuda de Windows.",
+                        "b": "Activar otra ventana de las que están abiertas en ese momento.",
+                        "c": "Abrir el menú en el que se pide confirmación para cerrar sesión.",
+                        "d": "Abrir el menú en el que se pide confirmación para apagar o reiniciar."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 10,
+                    "enunciado": "Señale cuál de las siguientes NO es una forma de visualizar las carpetas y documentos en el explorador de Windows:",
+                    "opciones": {
+                        "a": "Detalles.",
+                        "b": "Iconos.",
+                        "c": "Vistas en miniatura.",
+                        "d": "Cascada."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 11,
+                    "enunciado": "Señale qué permite el botón [Insertar hoja de Excel] de la barra de herramientas estándar de Microsoft Word 2000:",
+                    "opciones": {
+                        "a": "Insertar una tabla en el documento.",
+                        "b": "Obtener un cuadro de diálogo para enlazar con una hoja de cálculo...",
+                        "c": "Convertir una tabla de Word previamente seleccionada en una hoja de Excel.",
+                        "d": "Insertar una hoja de Microsoft Excel."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 12,
+                    "enunciado": "Señale cuál de las siguientes combinaciones de teclas permite cambiar una palabra seleccionada a mayúsculas o a minúsculas:",
+                    "opciones": {
+                        "a": "MAYÚS+F3",
+                        "b": "CTRL+M",
+                        "c": "CTRL+Y",
+                        "d": "CTRL+<"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 13,
+                    "enunciado": "Señale la afirmación correcta. La seguridad de Microsoft Word 2000:",
+                    "opciones": {
+                        "a": "Obliga a que las contraseñas tengan un mínimo de cuatro caracteres.",
+                        "b": "Obliga a que las contraseñas contengan números y letras.",
+                        "c": "Permite guardar un documento con contraseña de lectura y escritura diferentes.",
+                        "d": "Permite guardar un documento sólo con contraseñas de lectura y escritura iguales."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 14,
+                    "enunciado": "Señale qué extensión tienen las plantillas de Word:",
+                    "opciones": {
+                        "a": ".doc",
+                        "b": ".dot",
+                        "c": ".pla",
+                        "d": ".txt"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 15,
+                    "enunciado": "Señale cuál de los siguientes botones NO se ha empleado en la hoja de Excel de arriba:",
+                    "opciones": {
+                        "a": "Botón A",
+                        "b": "Botón B",
+                        "c": "Botón C",
+                        "d": "Botón D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 16,
+                    "enunciado": "En la esquina inferior derecha de la celda D5 aparece el símbolo... Señale qué representa:",
+                    "opciones": {
+                        "a": "Orden ascendente",
+                        "b": "Agrupar y esquema",
+                        "c": "Consolidar",
+                        "d": "Validación"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 17,
+                    "enunciado": "Señale qué valor aparecerá en la celda H11 de la hoja al introducir la fórmula: SUMA($F$6:$F$9;$F$11)",
+                    "opciones": {
+                        "a": "600,00 €",
+                        "b": "650,00 €",
+                        "c": "750,00 €",
+                        "d": "800,00 €"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 18,
+                    "enunciado": "Si copiásemos la celda H11 y la pegásemos (sin pegado especial) en la celda I9, señale qué valor aparecería:",
+                    "opciones": {
+                        "a": "450,00 €",
+                        "b": "400,00 €",
+                        "c": "750,00 €",
+                        "d": "Otro valor"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 19,
+                    "enunciado": "Señale cuál de las siguientes funciones NO se ha empleado en la hoja de Excel de arriba:",
+                    "opciones": {
+                        "a": "SUMAR.SI",
+                        "b": "PROMEDIO",
+                        "c": "DERECHA",
+                        "d": "MIN"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 20,
+                    "enunciado": "Señale qué es la imagen correspondiente a Microsoft Access 2000 (EQUIPOS):",
+                    "opciones": {
+                        "a": "Es el resultado de una Consulta.",
+                        "b": "Es el resultado de un Informe.",
+                        "c": "Es un Formulario.",
+                        "d": "Es una página web de Microsoft Access 2000."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 21,
+                    "enunciado": "Señale la afirmación correcta. En un Informe de Microsoft Access 2000:",
+                    "opciones": {
+                        "a": "El origen de los datos es necesariamente una consulta.",
+                        "b": "El origen de los datos es necesariamente una sola tabla.",
+                        "c": "El origen de los datos no puede estar vacío.",
+                        "d": "El origen de los datos puede ser una o varias tablas."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 22,
+                    "enunciado": "Señale la afirmación correcta. El campo clave en una tabla de una base de datos de Microsoft Access 2000:",
+                    "opciones": {
+                        "a": "Impide que dos registros tengan el mismo contenido en ese campo clave.",
+                        "b": "Impide que dos registros tengan el mismo contenido en cualquier campo, incluido el campo clave.",
+                        "c": "Impide que dos registros tengan el mismo contenido en cualquier campo excepto en el campo clave.",
+                        "d": "Impide que en otra tabla se utilice el mismo nombre de campo..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 23,
+                    "enunciado": "Señale cuál de las siguientes opciones NO se corresponde con una opción de menú asociada al Menú Herramientas / Utilidades de la Base de Datos:",
+                    "opciones": {
+                        "a": "Compactar y Reparar base de datos.",
+                        "b": "Establecer contraseña para la base de datos.",
+                        "c": "Administrador del Panel de Control.",
+                        "d": "Convertir base de datos."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 24,
+                    "enunciado": "Señale la afirmación correcta. Access guarda o actualiza el valor de los campos de un registro cada vez que:",
+                    "opciones": {
+                        "a": "Salto de un campo a otro dentro del mismo registro.",
+                        "b": "Salto de un registro a otro.",
+                        "c": "Selecciono la opción Guardar Registro del Menú Archivo.",
+                        "d": "Cuando cierro definitivamente la Base de Datos."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 25,
+                    "enunciado": "Señale qué ocurre al reenviar un mensaje de correo electrónico:",
+                    "opciones": {
+                        "a": "El mensaje original se moverá a la Carpeta Elementos Enviados.",
+                        "b": "El mensaje original se moverá a la Bandeja de Salida.",
+                        "c": "El mensaje original permanecerá en la Bandeja o carpeta en la que estaba situado antes de ser reenviado.",
+                        "d": "El mensaje original se moverá a la Carpeta Elementos Eliminados."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 26,
+                    "enunciado": "Suponga que usted es el Destinatario2 y recibe un correo... Si selecciona la opción Responder a todos, señale qué sucederá:",
+                    "opciones": {
+                        "a": "El mensaje se enviará a Remitente y a Destinatario1.",
+                        "b": "El mensaje se enviará a Remitente y a Destinatario3.",
+                        "c": "El mensaje se enviará a Remitente, Destinatario1 y Destinatario3.",
+                        "d": "El mensaje se enviará a Remitente, Destinatario1, Destinatario3 y, en caso de copia oculta, también a este último."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 27,
+                    "enunciado": "Señale cuál de las siguientes opciones es la más eficaz para eliminar automáticamente el spam o correo basura:",
+                    "opciones": {
+                        "a": "Utilizar un filtro.",
+                        "b": "Emplear la libreta de direcciones.",
+                        "c": "Utilizar un borrador.",
+                        "d": "Vaciar la carpeta de mensajes eliminados o papelera."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 28,
+                    "enunciado": "Señale qué combinación de teclas ejecuta la misma acción que el botón [Atrás] de Internet Explorer:",
+                    "opciones": {
+                        "a": "ALT Cursor Izquierdo.",
+                        "b": "CTRL Cursor Izquierdo.",
+                        "c": "INICIO Cursor Izquierdo.",
+                        "d": "FIN Cursor Izquierdo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 29,
+                    "enunciado": "Señale cómo puede ser ordenada la información presentada en el Historial de Internet Explorer:",
+                    "opciones": {
+                        "a": "Por tamaño de página.",
+                        "b": "Por página más visitada.",
+                        "c": "Por la fecha de modificación de la página.",
+                        "d": "Por la fecha de creación de la página."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 30,
+                    "enunciado": "¿Qué tecla o combinación de teclas ejecuta la misma acción que el botón [Actualizar] de Internet Explorer?",
+                    "opciones": {
+                        "a": "F4",
+                        "b": "F5",
+                        "c": "ALT F5",
+                        "d": "F6"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                }
+            ]
+        }
+    ]
+}

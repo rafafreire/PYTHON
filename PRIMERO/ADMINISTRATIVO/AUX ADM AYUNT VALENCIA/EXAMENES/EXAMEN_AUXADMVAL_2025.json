@@ -1,0 +1,2294 @@
+{
+    "titulo": "Exámenes Auxiliar Administrativo - Ayuntamiento de València",
+    "total_preguntas": 208,
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "T1 - De acuerdo con la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el sector público institucional se integra por:",
+            "opciones": {
+                "a": "Cualesquiera organismos públicos no vinculados o independientes de las Administraciones Públicas.",
+                "b": "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+                "c": "Cualesquiera organismos públicos, entidades de derecho privado, y las Universidades Publicas."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 2,
+            "pregunta": "T1 Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:",
+            "opciones": {
+                "a": "Formular recursos.",
+                "b": "Desistir de solicitudes.",
+                "c": "Renunciar a derechos."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 3,
+            "pregunta": "T1 Los poderes que se inscriban en los registros electrónicos generales y particulares de apoderamientos deberán corresponder a alguna de las siguientes tipologías:",
+            "opciones": {
+                "a": "Un poder general para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa y ante cualquier Administración.",
+                "b": "Un poder para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa ante una Administración u Organismo genérico.",
+                "c": "Un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados por la Administración."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 4,
+            "pregunta": "T1 Quienes de conformidad con el artículo 3, tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de los siguientes derechos:",
+            "opciones": {
+                "a": "A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+                "b": "A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en la Constitución Española.",
+                "c": "Cualesquiera otros que les reconozcan el Tratado de Funcionamiento de la Unión Europea."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 5,
+            "pregunta": "T1+2 ¿Cuál de las siguientes afirmaciones es correcta de acuerdo con lo establecido en el artículo 66 de la Ley 39/2015 para las solicitudes de iniciación del procedimiento?",
+            "opciones": {
+                "a": "Las solicitudes de inicio de los procedimientos deberán realizarse a través de medios electrónicos, salvo que el interesado acredite que no dispone de los mismos.",
+                "b": "Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados.",
+                "c": "Las Administraciones Públicas deberán establecer modelos normalizados de uso obligatorio que permitan la presentación masiva de solicitudes, estos modelos podrán descargarse en las correspondientes sedes electrónicas."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 6,
+            "pregunta": "T1+2 ¿Está obligada la Administración a resolver expresamente y a notificar la resolución?",
+            "opciones": {
+                "a": "No, salvo en los supuestos de terminación del procedimiento por pacto o convenio, así como los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Administración.",
+                "b": "En el resto de procedimientos, ya sean iniciados de oficio o a instancia del interesado, la Administración no está obligada a dictar resolución expresa y a notificarla.",
+                "c": "En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, se dictará resolución que consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 7,
+            "pregunta": "T1+2 ¿Qué efectos tiene el silencio en los procedimientos iniciados a solicitud del interesado?",
+            "opciones": {
+                "a": "La desestimación por silencio tiene, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento.",
+                "b": "La estimación por silencio tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso administrativo que resulte procedente. TEST AUXILIAR ADMINISTRATIVO 2",
+                "c": "Ninguna es correcta."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 8,
+            "pregunta": "T1+2 ¿Qué finalidad persigue la apertura de un periodo de información antes de acordar el inicio del procedimiento, de acuerdo con lo establecido en el artículo 55 de la Ley 39/2015?",
+            "opciones": {
+                "a": "Conocer posibles interesados en el procedimiento.",
+                "b": "Conocer las opiniones y circunstancias que puedan afectar a la resolución del mismo.",
+                "c": "Conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 9,
+            "pregunta": "T1+2 “La actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación” es la definición que la Ley 39/2015 realiza de:",
+            "opciones": {
+                "a": "La orden superior como forma de iniciación del procedimiento de oficio",
+                "b": "La denuncia como forma de iniciación del procedimiento de oficio",
+                "c": "La propia iniciativa como forma de iniciación del procedimiento de oficio"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 10,
+            "pregunta": "T1+2 Al regular la resolución del procedimiento administrativo, la Ley 39/2015 señala que cuando la misma vaya a decidir cuestiones conexas que no hubieran sido planteadas por los interesados:",
+            "opciones": {
+                "a": "El órgano competente podrá pronunciarse sobre las mismas, sin necesidad de ponerlo en todos los casos antes de manifiesto a los interesados",
+                "b": "El órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquéllos por un plazo de diez días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba",
+                "c": "El órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquéllos por un plazo no superior a quince días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 11,
+            "pregunta": "T1+2 Conforme al artículo 67.1 de la Ley 39/2015, en caso de daños de carácter físico o psíquico a las personas, ¿desde cuándo empezará a computarse el plazo de prescripción para solicitar el inicio de un procedimiento de responsabilidad patrimonial?:",
+            "opciones": {
+                "a": "Desde que se determine la relación de causalidad entre las lesiones producidas y el funcionamiento del servicio público.",
+                "b": "Desde la curación o la determinación del alcance de las secuelas.",
+                "c": "Desde el día en que la lesión efectivamente se produjo."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 12,
+            "pregunta": "T1+2 Cuál de las siguientes respuestas no se corresponde con las actuaciones previas a que se refiere la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "Embargo preventivo de bienes, rentas y cosas fungibles computables en metálico por aplicación de precios ciertos",
+                "b": "Retención de ingresos a cuenta que deban abonar las Administraciones Públicas",
+                "c": "Ninguna es correcta"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 13,
+            "pregunta": "T1+2 Cuando la notificación por medios electrónicos sea obligatoria o haya sido expresamente elegida por el interesado, se entenderá rechazada, según el artículo 43.2 de la Ley 39/2015, cuando haya transcurrido:",
+            "opciones": {
+                "a": "Diez días naturales desde la puesta a disposición de la notificación sin que acceda a su contenido.",
+                "b": "Quince días hábiles desde la puesta a disposición de la notificación sin que acceda a su contenido.",
+                "c": "Quince días naturales desde la puesta a disposición de la notificación sin que acceda a su contenido."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 14,
+            "pregunta": "T1+2 Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para resolver, éste será de:",
+            "opciones": {
+                "a": "un mes",
+                "b": "dos meses.",
+                "c": "tres meses. TEST AUXILIAR ADMINISTRATIVO 3"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 15,
+            "pregunta": "T1+2 cuestiones incidentales que se susciten en el procedimiento, según la Ley 39/2015:",
+            "opciones": {
+                "a": "Suspenderán la tramitación del mismo, si el órgano instructor lo considera conveniente",
+                "b": "No suspenderán la tramitación del mismo, salvo que se refieran a la nulidad de actuaciones",
+                "c": "No suspenderán la tramitación del mismo, salvo la recusación"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 16,
+            "pregunta": "T1+2 De acuerdo con el artículo 35 de la Ley 39/2015, ¿Qué actos deberán ser motivados son sucinta referencia a los hechos y fundamentos de derecho?",
+            "opciones": {
+                "a": "Todos los actos administrativos.",
+                "b": "Los actos que se dicten de acuerdo con el criterio seguido en actuaciones precedentes o con el dictamen de órganos consultivos.",
+                "c": "Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 17,
+            "pregunta": "T1+2 De acuerdo con el artículo 36 de la Ley 39/2015, en relación con la forma de los actos administrativos:",
+            "opciones": {
+                "a": "Cuando los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano superior, expresando en la comunicación del mismo la autoridad de la que procede.",
+                "b": "Los actos administrativos se producirán por escrito en soporte papel, a menos que su constancia exija otra forma más adecuada de expresión o constancia.",
+                "c": "Si se trata de resoluciones, el titular de la competencia debe autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 18,
+            "pregunta": "T1+2 De acuerdo con el artículo 56 de la Ley 39/2015, iniciado el procedimiento, si existiesen elementos de juicio suficientes para ello, se pueden adoptar medidas provisionales para la eficacia de la resolución que pudiera recaer:",
+            "opciones": {
+                "a": "Por el órgano administrativo competente para resolver, de oficio o a instancia de parte de forma motivada.",
+                "b": "Por el órgano administrativo competente para instruir, de oficio o a instancia de parte de forma motivada.",
+                "c": "Por el órgano administrativo competente para resolver, únicamente de oficio y de forma motivada."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 19,
+            "pregunta": "T1+2 De acuerdo con el artículo 69 de la Ley 39/2015, las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad.",
+            "opciones": {
+                "a": "Desde el día de su presentación.",
+                "b": "Desde el día siguiente al de su presentación.",
+                "c": "Desde el día en el que las Administraciones Publicas hayan ejercido su facultad de comprobación, control e inspección."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 20,
+            "pregunta": "T1+2 De acuerdo con el artículo 87 de la Ley 39/2015, antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento. Dichas actuaciones complementarias podrán realizarse en un plazo de:",
+            "opciones": {
+                "a": "Siete dias.",
+                "b": "No inferior a diez dias, ni superior a quince.",
+                "c": "No superior a quince días."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 21,
+            "pregunta": "T1+2 De acuerdo con el artículo 96 de la Ley 39/2015, en los procedimientos administrativos tramitados de manera simplificada:",
+            "opciones": {
+                "a": "No procederá recurso contra la desestimación de la solicitud de tramitación simplificada del procedimiento formulada por los interesados.",
+                "b": "Las alegaciones serán formuladas al inicio del procedimiento en el plazo de siete días.",
+                "c": "Serán resueltos en veinte días, salvo que reste menos para su tramitación ordinaria. TEST AUXILIAR ADMINISTRATIVO 4"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 22,
+            "pregunta": "T1+2 De acuerdo con el artículo 96 de la Ley 39/2015, la Administración podrá acordar la tramitación simplificada del procedimiento cuando:",
+            "opciones": {
+                "a": "Se aleguen intereses legítimos por parte de quienes solicitaron su tramitación y el procedimiento en cuestión no revista complejidad.",
+                "b": "La administración aplique los principios de racionalización y agilidad en los procedimientos y no se lesionen intereses superiores de terceros.",
+                "c": "Existan razones de interés público o la falta de complejidad del procedimiento así lo aconsejen."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 23,
+            "pregunta": "T1+2 De acuerdo con la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas , señala la respuesta correcta:",
+            "opciones": {
+                "a": "Se entenderá por declaración responsable el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida, y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante el período de tiempo inherente a dicho reconocimiento o ejercicio.",
+                "b": "La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable o la no presentación ante la Administración competente de la declaración responsable, de la documentación que sea en su caso requerida para acreditar el cumplimiento de lo declarado, determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos.",
+                "c": "a y b son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 24,
+            "pregunta": "T1+2 De acuerdo con la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes:",
+            "opciones": {
+                "a": "Aquellos que lesionen los derechos y libertades susceptibles de recurso ante el Tribunal Constitucional.",
+                "b": "Aquellos cuyo contenido es de cumplimiento difícil o ha devenido imposible.",
+                "c": "Aquellos que sean constitutivos de infracción penal o se dicten como consecuencia de ésta."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 25,
+            "pregunta": "T1+2 De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas , no es cierto que:",
+            "opciones": {
+                "a": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que reglamentariamente se establezca la obligación de hacerlo en los supuestos determinados en el art. 14",
+                "b": "El medio elegido por la persona para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento.",
+                "c": "El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución no se podrá suspender."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 26,
+            "pregunta": "T1+2 De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano administrativo que inicie o tramite un procedimiento, podrá disponer, de oficio o a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento, cuando su forma de iniciación haya sido:",
+            "opciones": {
+                "a": "de oficio o a instancia de parte.",
+                "b": "a instancia de parte exclusivamente.",
+                "c": "en ningún caso"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 27,
+            "pregunta": "T1+2 De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación, salvo en los casos de prescripción, renuncia TEST AUXILIAR ADMINISTRATIVO 5 del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento.",
+                "b": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cuando su inicio se produjese a instancia de parte, salvo en los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud.",
+                "c": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación, incluso en los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 28,
+            "pregunta": "T1+2 De acuerdo con la Ley 39/2015, en relación con la ejecución de los actos administrativos, es incorrecto:",
+            "opciones": {
+                "a": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que, entre otros, se necesite aprobación o autorización superior.",
+                "b": "Si fueran varios los medios de ejecución admisibles para llevar a cabo la ejecución forzosa de un acto, se elegirá el que menos recursos económicos exija a la administración competente.",
+                "c": "Habrá lugar a la ejecución subsidiaria cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 29,
+            "pregunta": "T1+2 De acuerdo con la Ley 39/2015, señala cuál de las siguientes opciones es correcta:",
+            "opciones": {
+                "a": "La petición de un órgano administrativo para iniciar un procedimiento, por haber tenido conocimiento de las circunstancias, conductas o hechos objeto del mismo, vincula al órgano competente para iniciar el procedimiento.",
+                "b": "Para eximir o reducir el importe de la multa o, en su caso, la sanción de carácter no pecuniario que le correspondería al denunciante será necesario que este cese en la participación de la infracción y no haya destruido elementos de prueba relacionados con el objeto de la denuncia.",
+                "c": "Los procedimientos de naturaleza sancionadora de podrán iniciar de oficio o a instancia de los interesados."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 30,
+            "pregunta": "T1+2 De acuerdo con las disposiciones contenidas en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señala la afirmación correcta:",
+            "opciones": {
+                "a": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+                "b": "En los procedimientos iniciados de oficio, el vencimiento de plazo máximo exime a la Administración de su obligación de resolver.",
+                "c": "En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver pero no para notificar la resolución."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 31,
+            "pregunta": "T1+2 De acuerdo con lo dispuesto en el art 30, la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no es cierto que:",
+            "opciones": {
+                "a": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo.",
+                "b": "Si el plazo se fija en meses o años, éstos se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+                "c": "Si el plazo se fija en meses o años, si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el siguiente día hábil"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 32,
+            "pregunta": "T1+2 De acuerdo con lo dispuesto en el art 47 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son anulables los actos administrativos:",
+            "opciones": {
+                "a": "Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+                "b": "Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición. TEST AUXILIAR ADMINISTRATIVO 6",
+                "c": "Ninguna respuesta es correcta."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 33,
+            "pregunta": "T1+2 De acuerdo con lo dispuesto en el artículo 45 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no es cierto que los actos administrativos serán objeto de publicación:",
+            "opciones": {
+                "a": "cuando así lo establezcan las normas reguladoras de cada procedimiento",
+                "b": "cuando lo aconsejen razones de interés privado o público apreciadas por el órgano competente",
+                "c": "cuando el acto tenga por destinatario a una pluralidad indeterminada de personas"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 34,
+            "pregunta": "T1+2 De acuerdo con lo dispuesto en el artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, quienes se relacionen con las Administraciones Públicas a través de medios electrónicos, tendrán derecho a consultar en el Punto de Acceso General electrónico de la Administración el estado de la tramitación de los procedimientos:",
+            "opciones": {
+                "a": "Si se les reconoce expresamente en la resolución del procedimiento",
+                "b": "En el caso de ser interesados en esos procedimientos",
+                "c": "En cualquier caso"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 35,
+            "pregunta": "T1+2 De acuerdo con lo dispuesto en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, relacionarse electrónicamente con las Administraciones Públicas es un derecho para:",
+            "opciones": {
+                "a": "Personas jurídicas.",
+                "b": "Entidades sin personalidad jurídica.",
+                "c": "Personas físicas."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 36,
+            "pregunta": "T1+2 De acuerdo con lo previsto en el artículo 62 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (señala la respuesta incorrecta):",
+            "opciones": {
+                "a": "La petición razonada de inicio de oficio del procedimiento no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación.",
+                "b": "Se entiende por denuncia, el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo.",
+                "c": "La presentación de una denuncia confiere la condición de interesado en el procedimiento."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 37,
+            "pregunta": "T1+2 De conformidad con el artículo 96 de la Ley 39/2015, en el caso del procedimiento en materia sancionadora, se podrá adoptar la tramitación simplificada cuando:",
+            "opciones": {
+                "a": "Se haya producido el pago voluntario por el presunto responsable en cualquier momento anterior a la resolución.",
+                "b": "No haya formulado alegaciones el presunto infractor en el trámite de audiencia.",
+                "c": "El órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficiente para calificar la infracción como leve."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 38,
+            "pregunta": "T1+2 De conformidad con la Ley 39/2015 es susceptible de recurso:",
+            "opciones": {
+                "a": "Los acuerdos sobre ampliación de plazos o sobre su denegación.",
+                "b": "El acuerdo que resuelva sobre la ampliación del plazo máximo de resolución y notificación, que deberá ser notificado a los interesados.",
+                "c": "Las resoluciones que declaren la caducidad en los procedimientos iniciados a solicitud del interesado."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 39,
+            "pregunta": "T1+2 De conformidad con la Ley 39/2015, el silencio administrativo tendrá efecto positivo en los siguientes procedimientos:",
+            "opciones": {
+                "a": "Los de revisión de oficio iniciados a solicitud del interesado.",
+                "b": "Los que impliquen el ejercicio de actividades que puedan dañar el medio ambiente.",
+                "c": "Los que resuelvan los recursos de alzada interpuestos contra la desestimación por silencio administrativo de una solicitud por el transcurso del plazo en los procedimientos de concesión de becas. TEST AUXILIAR ADMINISTRATIVO 7"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 40,
+            "pregunta": "T1+2 De conformidad con lo establecido en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados en un procedimiento administrativo tienen derecho a:",
+            "opciones": {
+                "a": "identificar a las autoridades, personal al servicio de las Administraciones Públicas y al servicio de las empresas contratistas municipales que tengan relación con la tramitación de los procedimientos",
+                "b": "obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar, así como obtener asistencia jurídica gratuita cuando lo consideren conveniente en defensa de sus intereses",
+                "c": "acceder y a obtener copia de los documentos contenidos en los procedimientos en los que tenga la condición de interesado"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 41,
+            "pregunta": "T1+2 De conformidad con lo previsto en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, Señala la respuesta correcta:",
+            "opciones": {
+                "a": "Con anterioridad al inicio del procedimiento, el órgano competente deberá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+                "b": "La Administración no podrá convalidar los actos anulables.",
+                "c": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 42,
+            "pregunta": "T1+2 De conformidad, con la Ley 39/2015, señale la respuesta correcta, con relación a la iniciación del procedimiento por denuncia:",
+            "opciones": {
+                "a": "Se entiende por denuncia, el acto por el que cualquier persona, en cumplimiento de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo.",
+                "b": "Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.",
+                "c": "Cuando el denunciante haya participado en la comisión de una infracción de esta naturaleza y existan otros infractores, el órgano competente para resolver el procedimiento podrá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario, cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, siempre y cuando en el momento de aportarse aquellos no se disponga de elementos suficientes para ordenar la misma y se repare el perjuicio causado."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 43,
+            "pregunta": "T1+2 De las siguientes afirmaciones con relación a la nulidad y anulabilidad, señale la correcta de acuerdo con la Ley 39/2015:",
+            "opciones": {
+                "a": "La nulidad o anulabilidad de un acto implicará necesariamente la de los sucesivos en el procedimiento.",
+                "b": "La nulidad o anulabilidad de parte del acto administrativo implicará necesariamente la de las restantes partes del mismo.",
+                "c": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto, producirán los efectos de este."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 44,
+            "pregunta": "T1+2 De los siguientes actos ¿cuáles son anulables de conformidad con la Ley 39/2015?",
+            "opciones": {
+                "a": "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+                "b": "Los que incurran en desviación de poder.",
+                "c": "Los que tengan un contenido imposible."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 45,
+            "pregunta": "T1+2 El art 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas Con respecto al cómputo de plazos administrativos, dispone:",
+            "opciones": {
+                "a": "En los plazos fijados por horas se entiende que éstas son hábiles, salvo previsión legal o comunitaria en contra",
+                "b": "En los plazos fijados en años, se entenderá que el plazo concluirá el día siguiente al que se produjo la notificación, publicación o silencio administrativo, en el año de vencimiento. TEST AUXILIAR ADMINISTRATIVO 8",
+                "c": "El sábado es un día hábil a efectos administrativos"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 46,
+            "pregunta": "T1+2 El art 46 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone que si el órgano competente apreciase que la notificación por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos:T1+2",
+            "opciones": {
+                "a": "Se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer, en el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto y constancia de tal conocimiento",
+                "b": "Además de lo establecido en el párrafo a, las Administraciones deberán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que no excluirán la obligación de publicar en el correspondiente Diario oficial.",
+                "c": "Adicionalmente a lo establecido en el párrafo a, y de manera facultativa, las Administraciones podrán establecer otras formas de notificación complementarias a través de los restantes medios de difusión que excluirán la obligación de publicar en el correspondiente Diario oficial"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 47,
+            "pregunta": "T1+2 El art 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas , respecto del interesado, prevé que tiene derecho a:",
+            "opciones": {
+                "a": "no presentar datos y documentos que ya se encuentren en poder de las Administraciones Públicas",
+                "b": "no presentar datos y documentos que hayan sido elaborados por las Administraciones Públicas",
+                "c": "todas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 48,
+            "pregunta": "T1+2 El artículo 26 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, prevé que los documentos que emite la Administración:",
+            "opciones": {
+                "a": "Son documentos públicos administrativos los válidamente emitidos por los órganos de las Administraciones Públicas.",
+                "b": "Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+                "c": "Todas las respuestas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 49,
+            "pregunta": "T1+2 El artículo 41 de la Ley 39/2015, regula los requisitos generales para la práctica de las notificaciones y establece que:",
+            "opciones": {
+                "a": "Las notificaciones se practicarán preferentemente por medios no electrónicos.",
+                "b": "Los interesados que estén obligados a recibir notificaciones electrónicas podrán comunicar en cualquier momento a la Administración Pública que las notificaciones sucesivas dejen de practicarse por medios electrónicos.",
+                "c": "Las notificaciones serán válidas siempre que permitan tener constancia de su envío o puesta a disposición, de la recepción o acceso por el interesado o su representante, de sus fechas u horas, del contenido íntegro, y de la identidad fidedigna del remitente y destinatario de la misma."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 50,
+            "pregunta": "T1+2 El derecho a formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución, de acuerdo con la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, es un derecho de:",
+            "opciones": {
+                "a": "Los administrados.",
+                "b": "Los ciudadanos.",
+                "c": "Los interesados."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 51,
+            "pregunta": "T1+2 El órgano administrativo que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento:",
+            "opciones": {
+                "a": "de oficio o a instancia de parte, cualquiera que haya sido la forma de su iniciación",
+                "b": "exclusivamente de oficio, cualquiera que haya sido la forma de su iniciación",
+                "c": "a instancia de parte exclusivamente, cualquiera que haya sido la forma de su iniciación TEST AUXILIAR ADMINISTRATIVO 9"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 52,
+            "pregunta": "T1+2 El plazo máximo para resolver los procedimientos administrativos se contará:",
+            "opciones": {
+                "a": "En los procedimientos iniciados a solicitud del interesado, desde la fecha en que la solicitud haya sido firmada por el interesado",
+                "b": "En los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación.",
+                "c": "En los procedimientos iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro de cualquier órgano administrativo."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 53,
+            "pregunta": "T1+2 El plazo máximo para resolver los procedimientos, se contará:",
+            "opciones": {
+                "a": "En los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación.",
+                "b": "En los iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para resolver.",
+                "c": "En los procedimientos iniciados de oficio desde la comunicación del inicio a los interesados."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 54,
+            "pregunta": "T1+2 El silencio tendrá efecto desestimatorio en los procedimientos iniciados a solicitud de interesado, de acuerdo con lo dispuesto en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "En los procedimientos relativos al ejercicio del derecho de petición, a que se refiere el artículo 29 de la Constitución",
+                "b": "En los procedimientos cuya estimación tuviera como consecuencia que se transfirieran al solicitante o a terceros facultades relativas al dominio público o al servicio público o impliquen el ejercicio de actividades que puedan dañar el medio ambiente",
+                "c": "Todas las respuestas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 55,
+            "pregunta": "T1+2 El vencimiento del plazo para resolver, en los procedimientos iniciados a instancia de parte, produce:",
+            "opciones": {
+                "a": "Silencio negativo, en todo caso.",
+                "b": "Silencio negativo, excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España establezcan lo contrario.",
+                "c": "Silencio negativo en los procedimientos cuya estimación implique el ejercicio de actividades que puedan dañar el medio ambiente"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 56,
+            "pregunta": "T1+2 En el caso de que el procedimiento concluya por la imposibilidad material de continuarlo por causas sobrevenidas, la Ley 39/2015 señala que:",
+            "opciones": {
+                "a": "No deberá dictarse ninguna resolución, siendo suficiente con la constatación fehaciente de dicha imposibilidad",
+                "b": "La resolución que se dicte deberá ser motivada en todo caso",
+                "c": "La resolución que se dicte no requerirá ser motivada"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 57,
+            "pregunta": "T1+2 En el caso de responsabilidad patrimonial concurrente de varias Administraciones públicas en la producción del daño, la responsabilidad será solidaria:",
+            "opciones": {
+                "a": "La responsabilidad no será solidaria en ningún caso",
+                "b": "La responsabilidad será solidaria si no se puede determinar para cada Administración, atendiendo a criterios de competencia, interés público tutelado e intensidad de la intervención",
+                "c": "La responsabilidad no será solidaria si se puede determinar para cada Administración, atendiendo a criterios de proporcionalidad y cooperación en la actuación"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 58,
+            "pregunta": "T1+2 En el procedimiento administrativo, la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución, según la Ley 39/2015:",
+            "opciones": {
+                "a": "Producirá la caducidad del procedimiento",
+                "b": "Traerá consigo necesariamente el desistimiento, que pondrá fin al procedimiento",
+                "c": "No tendrá otro efecto que la pérdida de su derecho al referido trámite"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 59,
+            "pregunta": "T1+2 En el procedimiento administrativo, se tendrá por realizado el trámite de audiencia, según la Ley 39/2015: 10",
+            "opciones": {
+                "a": "Si transcurre el plazo de diez días, establecido por la ley como máximo, sin que el interesado realice alegaciones",
+                "b": "En los procedimientos de concurrencia competitiva, en los que este trámite no existe",
+                "c": "Si antes del vencimiento del plazo los interesados manifiestan su decisión de no efectuar alegaciones ni aportar nuevos documentos o justificaciones"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 60,
+            "pregunta": "T1+2 En la iniciación de oficio, los procedimientos se iniciarán, según la Ley 39/2015:",
+            "opciones": {
+                "a": "Por resolución motivada de cualquier órgano administrativo",
+                "b": "Por acuerdo del órgano competente",
+                "c": "Por resolución de un órgano adecuado por razón de la materia"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 61,
+            "pregunta": "T1+2 En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver, produciendo los siguientes efectos:",
+            "opciones": {
+                "a": "En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo.",
+                "b": "En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la desestimación.",
+                "c": "En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 62,
+            "pregunta": "T1+2 En relación al funcionamiento de los Registros administrativos:",
+            "opciones": {
+                "a": "Las Administraciones, previa habilitación legal, podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.",
+                "b": "Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas, sin perjuicio de la posibilidad de su abono por otros medios.",
+                "c": "Los documentos presentados de manera presencial ante las Administraciones Públicas, podrán ser digitalizados por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 63,
+            "pregunta": "T1+2 En relación con la regulación de las medidas provisionales prevista en la Ley 39/2015, indique cuál de las siguientes afirmaciones es correcta:",
+            "opciones": {
+                "a": "La adopción de medidas provisionales solo es posible una vez iniciado el procedimiento.",
+                "b": "La adopción de cualquier medida provisional exigirá, en todo caso, la previa constitución de garantía por parte de la Administración actuante, destinada a asegurar la reparación del daño que tal medida pueda ocasionar.",
+                "c": "La adopción de medidas provisionales puede llevase a cabo tanto de oficio como a instancia de parte."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 64,
+            "pregunta": "T1+2 En relación con los plazos, la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas prevé:",
+            "opciones": {
+                "a": "Cuando los plazos se señalen por días naturales, se hará constar esta circunstancia en las correspondientes notificaciones",
+                "b": "Cuando los plazos se señalen por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, no será necesario hacer constar esta circunstancia en las correspondientes notificaciones",
+                "c": "Cada Administración Pública podrá publicar los días en el que permanecerán abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 65,
+            "pregunta": "T1+2 En relación con los Registros administrativos, señala la respuesta incorrecta: 11",
+            "opciones": {
+                "a": "Cada Administración dispondrá de un Registro Electrónico General, en los que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente a éstos",
+                "b": "En el Registro Electrónico General también se deberá anotar la salida de los documentos oficiales dirigidos a otros órganos o particulares",
+                "c": "Los organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende, organismo público o entidad vinculado o dependiente a éstos."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 66,
+            "pregunta": "T1+2 En relación con los Registros administrativos, señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "En la sede electrónica de acceso a cada registro electrónico figurará la relación actualizada de trámites que pueden iniciarse en el mismo",
+                "b": "Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan, en el caso de ser hábil",
+                "c": "Las disposiciones de creación de los registros electrónicos se publicarán en el diario oficial correspondiente y su texto íntegro deberá estar disponible para consulta en la sede electrónica de acceso al registro"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 67,
+            "pregunta": "T1+2 Están obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas, de acuerdo con la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para sus trámites y actuaciones en ejercicio o no de dicha actividad profesional",
+                "b": "Quienes representen a un interesado, aunque éste no esté obligado a relacionarse electrónicamente con la Administración",
+                "c": "Las entidades sin personalidad jurídica"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 68,
+            "pregunta": "T1+2 La incomparecencia en el trámite de información pública del procedimiento administrativo, según la Ley 39/2015:",
+            "opciones": {
+                "a": "Impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento",
+                "b": "Podrá impedir a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento, si así lo decide motivadamente el órgano que instruya el procedimiento",
+                "c": "No impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 69,
+            "pregunta": "T1+2 La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable, según señala la Ley 39/2015:",
+            "opciones": {
+                "a": "Podría determinar, en su caso, la imposibilidad de continuar con el ejercicio del derecho o actividad afectada",
+                "b": "Determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde la fecha en que se aportó tal documento a la Administración",
+                "c": "Determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 70,
+            "pregunta": "T1+2 La lengua de los procedimientos tramitados por la Administración General del Estado será:",
+            "opciones": {
+                "a": "exclusivamente el castellano",
+                "b": "el castellano con carácter general, ya que los interesados que se dirijan a los órganos de la AGE con sede en el territorio de una CCAA podrán utilizar también la lengua que sea cooficial en ella. Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en castellano, y los documentos o testimonios que requieran los interesados se expedirán también en castellano. TEST AUXILIAR ADMINISTRATIVO 12",
+                "c": "En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 71,
+            "pregunta": "T1+2 La Ley 39/2015 al regular el procedimiento administrativo señala literalmente que podrá no ser aplicable la caducidad:",
+            "opciones": {
+                "a": "En los procedimientos iniciados por denuncia",
+                "b": "En los supuestos en que fuera conveniente suscitar la cuestión planteada para su definición y esclarecimiento",
+                "c": "En los procedimientos en que se haya abierto un trámite de prueba art. 95"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 72,
+            "pregunta": "T1+2 La Ley 39/2015 al regular el procedimiento administrativo señala que podrá no ser aplicable la caducidad:",
+            "opciones": {
+                "a": "En los procedimientos iniciados a solicitud del interesado",
+                "b": "En el supuesto de que la cuestión suscitada afecte al interés general",
+                "c": "En los procedimientos relativos a derechos fundamentales"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 73,
+            "pregunta": "T1+2 La Ley 39/2015 al regular el procedimiento administrativo, señala que de no emitirse el informe en el plazo debido, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones:",
+            "opciones": {
+                "a": "Sólo en el caso de que el informe sea facultativo",
+                "b": "Cualquiera que sea el carácter del informe solicitado, excepto en los supuestos de informes vinculantes",
+                "c": "Salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos por esta ley"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 74,
+            "pregunta": "T1+2 La Ley 39/2015 al regular el procedimiento establece que los informes serán evacuados:",
+            "opciones": {
+                "a": "En un plazo máximo de quince días",
+                "b": "En un plazo no inferior a diez días ni superior a quince",
+                "c": "En el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 75,
+            "pregunta": "T1+2 La Ley 39/2015 al regular el procedimiento establece que:",
+            "opciones": {
+                "a": "Los informes podrán ser emitidos a través de medios electrónicos",
+                "b": "Los informes serán emitidos a través de medios electrónicos",
+                "c": "Los informes serán emitidos preferentemente a través de medios electrónicos"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 76,
+            "pregunta": "T1+2 La Ley 39/2015 al regular el trámite de información pública, señala que el anuncio del mismo señalará el lugar de exhibición del expediente y determinará el plazo para formular alegaciones:",
+            "opciones": {
+                "a": "Que no podrá superar un mes",
+                "b": "Que en ningún caso podrá ser inferior a veinte días",
+                "c": "Que en ningún caso podrá ser superior a veinte días"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 77,
+            "pregunta": "T1+2 La ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone:",
+            "opciones": {
+                "a": "Las copias auténticas de documentos privados surten únicamente efectos administrativos. Las copias auténticas realizadas por una Administración Pública tendrán validez únicamente en la Administración que la ha realizado.",
+                "b": "Las copias auténticas no tendrán la misma validez y eficacia que los documentos originales.",
+                "c": "No requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo, así como aquellos que no formen parte de un expediente administrativo. En todo caso, será necesario identificar el origen de estos documentos."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 78,
+            "pregunta": "T1+2 La ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con los plazos prevé: 13",
+            "opciones": {
+                "a": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde aquel en que se produzca la estimación o la desestimación por silencio administrativo",
+                "b": "Si el plazo se fija en meses o años, éstos se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+                "c": "Todas las respuestas son correctas."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 79,
+            "pregunta": "T1+2 La Ley 39/2015 establece literalmente que se podrá prescindir del trámite de audiencia:",
+            "opciones": {
+                "a": "En los procedimientos que involucren a algún interesado residente en el extranjero",
+                "b": "En los procedimientos que afecten a una pluralidad de interesados",
+                "c": "Cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 80,
+            "pregunta": "T1+2 La Ley 39/2015 establece literalmente, al regular el procedimiento administrativo, que podrán acreditarse por cualquier medio de prueba admisible en Derecho:",
+            "opciones": {
+                "a": "Cualesquiera hechos que se susciten en el procedimiento",
+                "b": "Los hechos relevantes para la decisión de un procedimiento",
+                "c": "Los hechos que se planteen en el procedimiento que afecten a una pluralidad de interesados"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 81,
+            "pregunta": "T1+2 La Ley 39/2015 establece que las administraciones públicas tendrán permanentemente publicados y actualizados modelos de declaración responsable y de comunicación previa, los cuales:",
+            "opciones": {
+                "a": "Se facilitarán previo pago de una tasa mínima",
+                "b": "Se facilitarán de forma personal a los interesados",
+                "c": "Serán fácilmente accesibles a los interesados"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 82,
+            "pregunta": "T1+2 La Ley 39/2015 prevé que, a fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento, podrá el órgano competente, con anterioridad al acuerdo de iniciación:",
+            "opciones": {
+                "a": "Abrir un periodo de información previa",
+                "b": "Solicitar el dictamen de otros órganos administrativos",
+                "c": "Seguir los precedentes administrativos, llevando a cabo las actuaciones seguidas en casos similares"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 83,
+            "pregunta": "T1+2 La Ley 39/2015 regula el inicio del procedimiento de oficio por petición razonada de otros órganos y establece que:",
+            "opciones": {
+                "a": "La petición vincula al órgano competente para iniciar el procedimiento",
+                "b": "La petición no vincula al órgano competente para iniciar el procedimiento, que no debe argumentar motivo alguno para no proceder a su iniciación",
+                "c": "La petición no vincula al órgano competente para iniciar el procedimiento, si bien deberá comunicar al órgano que la hubiera formulado los motivos por los que, en su caso, no procede la iniciación"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 84,
+            "pregunta": "T1+2 La Ley 39/2015 regula el procedimiento y establece que en el despacho de los expedientes se guardará el orden riguroso de incoación:",
+            "opciones": {
+                "a": "En todo tipo de asuntos",
+                "b": "En asuntos de homogénea naturaleza",
+                "c": "Será el titular de la unidad administrativa quien establezca el orden entre los expedientes, una vez ponderada la importancia de los asuntos a que cada uno se refiere"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 85,
+            "pregunta": "T1+2 La Ley 39/2015 señala que el plazo de subsanación que se puede conceder a los interesados si su solicitud de iniciación del procedimiento administrativo no reúne los requisitos generales o específicos que la ley exige, podrá ser ampliado, salvo:",
+            "opciones": {
+                "a": "En los procedimientos a los que se aplique la tramitación de urgencia",
+                "b": "En procedimientos de concurrencia competitiva",
+                "c": "En procedimientos de convalidación de estudios TEST AUXILIAR ADMINISTRATIVO 14"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 86,
+            "pregunta": "T1+2 La Ley 39/2015 señala que en el caso de procedimientos de naturaleza sancionadora las actuaciones previas serán realizadas, en primer lugar:",
+            "opciones": {
+                "a": "Por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia",
+                "b": "Por el superior jerárquico de quien vaya a actuar como órgano instructor",
+                "c": "Por quien vaya actuar como órgano instructor"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 87,
+            "pregunta": "T1+2 La Ley 39/2015 señala que la inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a una declaración responsable o a una comunicación previa:",
+            "opciones": {
+                "a": "Podrá acarrear responsabilidades administrativas, pero en ningún caso de otra índole",
+                "b": "Acarreará únicamente responsabilidades administrativas, y en ciertos casos civiles",
+                "c": "Podrá acarrear responsabilidades penales, civiles o administrativas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 88,
+            "pregunta": "T1+2 La Ley 39/2015 señala que se entenderá por declaración responsable el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, entre otras cuestiones, que cumple con los requisitos establecidos en la normativa vigente para acceder al reconocimiento de un derecho o facultad o para su ejercicio. Tales requisitos, señala literalmente la ley:",
+            "opciones": {
+                "a": "Podrán estar recogidos en la propia declaración responsable",
+                "b": "Deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable",
+                "c": "Deberán estar recogidos de forma sintética y clara en la correspondiente declaración responsable"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 89,
+            "pregunta": "T1+2 La Ley 39/2015 señala que todos los trámites que, por su naturaleza, admitan una impulsión simultánea y no sea obligado su cumplimiento sucesivo:",
+            "opciones": {
+                "a": "Serán objeto de ampliación de plazo",
+                "b": "Se acordarán en un solo acto",
+                "c": "Se impulsarán a instancia de parte"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 90,
+            "pregunta": "T1+2 La Ley 39/2015 señala que, en el caso de procedimientos de naturaleza sancionadora, las actuaciones previas se orientarán a determinar, con la mayor precisión posible, entre otras cuestiones:",
+            "opciones": {
+                "a": "La identificación de la persona o personas que pudieran resultar responsables",
+                "b": "La identificación del órgano instructor",
+                "c": "La identificación del órgano sancionador"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 91,
+            "pregunta": "T1+2 La Ley 39/2015, al regular el procedimiento administrativo señala que en los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que:",
+            "opciones": {
+                "a": "Transcurridos tres meses, se producirá el desistimiento",
+                "b": "Transcurridos seis meses, se producirá el desistimiento, salvo que la norma reguladora del procedimiento fije un plazo distinto",
+                "c": "Transcurridos tres meses, se producirá la caducidad del mismo"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 92,
+            "pregunta": "T1+2 La Ley 39/2015, al regular la prueba, establece que la Administración comunicará a los interesados el inicio de las actuaciones necesarias para la realización de las pruebas que hayan sido admitidas:",
+            "opciones": {
+                "a": "Con antelación suficiente",
+                "b": "Con una antelación mínima de 10 días",
+                "c": "Entre 5 y 10 días antes de aquel en que la práctica de la prueba vaya a tener lugar"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 93,
+            "pregunta": "T1+2 La Ley 39/2015, al regular la terminación convencional del procedimiento administrativo, establece que las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con personas tanto de derecho público como privado, siempre que, entre otros requisitos de los mismos: 15",
+            "opciones": {
+                "a": "Versen sobre materias no susceptibles de transacción",
+                "b": "Versen sobre materias relativas a derechos de los ciudadanos",
+                "c": "No versen sobre materias no susceptibles de transacción"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 94,
+            "pregunta": "T1+2 La Ley 39/2015, al regular los actos de instrucción del procedimiento, señala que:",
+            "opciones": {
+                "a": "Se realizarán de oficio o a instancia de parte",
+                "b": "Se realizarán de oficio por el órgano que tramite el procedimiento, no pudiendo los interesados proponer actuación alguna",
+                "c": "Se realizarán de oficio por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer aquellas actuaciones que requieran su intervención o constituyan trámites legal o reglamentariamente establecidos"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 95,
+            "pregunta": "T1+2 La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas dispone que, en los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver, produciendo los siguientes efectos:",
+            "opciones": {
+                "a": "En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo.",
+                "b": "En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la desestimación.",
+                "c": "En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 96,
+            "pregunta": "T1+2 La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas no dispone que para que sean considerados válidos, los documentos electrónicos administrativos:",
+            "opciones": {
+                "a": "Deberán disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.",
+                "b": "Deberán incorporar una referencia espacial y temporal del momento en que han sido emitidos.",
+                "c": "Deberán incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 97,
+            "pregunta": "T1+2 La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no dispone que:",
+            "opciones": {
+                "a": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, salvo en los supuestos de terminación por pacto o convenio",
+                "b": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, salvo en los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable a la Administración",
+                "c": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, incluso en los supuestos de terminación por pacto o convenio, así como en los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Administración"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 98,
+            "pregunta": "T1+2 La Ley 39/2015, establece en su artículo 72.1 que \"se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo\", de acuerdo con el principio de:",
+            "opciones": {
+                "a": "Celeridad.",
+                "b": "Impulso de oficio.",
+                "c": "Simplificación administrativa. TEST AUXILIAR ADMINISTRATIVO 16"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 99,
+            "pregunta": "T1+2 La Ley 39/2015, establece en su artículo 72.1 que \"se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo\", de acuerdo con el principio de:",
+            "opciones": {
+                "a": "Celeridad.",
+                "b": "Impulso de oficio.",
+                "c": "Simplificación administrativa."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 100,
+            "pregunta": "T1+2 La obligación de dictar resolución expresa se sujetará al siguiente régimen:",
+            "opciones": {
+                "a": "En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto sólo podrá dictarse de ser confirmatoria del mismo.",
+                "b": "En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración solo podrá dictarse en sentido desestimatorio.",
+                "c": "Los actos administrativos producidos por silencio administrativo producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que esta se haya producido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido, que se expedirá de oficio por el órgano competente para resolver en el plazo de diez días desde que expire el plazo máximo para resolver el procedimiento."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 101,
+            "pregunta": "T1+2 La resolución que ponga fin al procedimiento administrativo, según la Ley 39/2015:",
+            "opciones": {
+                "a": "Decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo",
+                "b": "Únicamente podrá decidir sobre las cuestiones planteadas por los interesados",
+                "c": "Decidirá todas las cuestiones derivadas del mismo, aunque no necesariamente deberá decidir sobre todas las cuestiones planteadas por los interesados"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 102,
+            "pregunta": "T1+2 Las comunicaciones previas, según la Ley 39/2015, LPAC:",
+            "opciones": {
+                "a": "Deberán presentarse necesariamente con carácter previo al inicio del ejercicio de la actividad que el interesado pretende realizar",
+                "b": "Se presentarán ordinariamente una vez que el interesado ha iniciado el ejercicio de la actividad",
+                "c": "Podrán presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 103,
+            "pregunta": "T1+2 Las copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas se expedirán en un plazo de:",
+            "opciones": {
+                "a": "10 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente",
+                "b": "15 días desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente",
+                "c": "10 días naturales desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 104,
+            "pregunta": "T1+2 Las disposiciones de creación de registros electrónicos, de acuerdo con lo establecido en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no deberán indicarán:",
+            "opciones": {
+                "a": "El órgano o unidad responsable de su gestión",
+                "b": "La fecha y hora oficial",
+                "c": "Los días declarados hábiles"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 105,
+            "pregunta": "T1+2 Ley 39/2015 establece que el órgano administrativo que inicie o tramite un procedimiento podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión:",
+            "opciones": {
+                "a": "Cualquiera que haya sido la forma de su iniciación",
+                "b": "Únicamente en los procedimientos iniciados a solicitud del interesado",
+                "c": "Sólo en el caso de que el procedimiento se hubiera iniciado de oficio TEST AUXILIAR ADMINISTRATIVO 17"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 106,
+            "pregunta": "T1+2 Ley 39/2015 señala que sin perjuicio de la forma y lugar señalados por el interesado para la práctica de las notificaciones:",
+            "opciones": {
+                "a": "La resolución del procedimiento se dictará electrónicamente",
+                "b": "La resolución del procedimiento podrá dictarse electrónicamente",
+                "c": "La resolución del procedimiento podrá o no dictarse electrónicamente, pero se notificará en todo caso a través de la sede electrónica del órgano que la dictó"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 107,
+            "pregunta": "T1+2 Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas no podrán presentarse:",
+            "opciones": {
+                "a": "En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1 de la Ley 39/2015",
+                "b": "En las oficinas de Correos, en la forma que reglamentariamente se establezca",
+                "c": "En las oficinas de asistencia en materia de registros de cualquier país de la Unión Europea."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 108,
+            "pregunta": "T1+2 Los procedimientos caducados, según la Ley 39/2015:",
+            "opciones": {
+                "a": "No interrumpirán el plazo de prescripción",
+                "b": "Podrán interrumpir el plazo de prescripción",
+                "c": "Interrumpirán el plazo de prescripción"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 109,
+            "pregunta": "T1+2 No es cierto de conformidad con lo dispuesto en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que la falta de resolución expresa en los procedimientos iniciados de oficio:",
+            "opciones": {
+                "a": "En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender estimadas sus pretensiones por silencio administrativo",
+                "b": "No exime a la Administración del cumplimiento de la obligación legal de resolver",
+                "c": "En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 110,
+            "pregunta": "T1+2 Pondrán fin al procedimiento administrativo, entre otras formas de terminación, y según la Ley 39/2015:",
+            "opciones": {
+                "a": "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el Ordenamiento Jurídico, y la declaración de caducidad",
+                "b": "La resolución, el desistimiento, cuando tal desistimiento no esté prohibido por el Ordenamiento Jurídico, la renuncia al derecho en que se funde la solicitud, y la declaración de caducidad",
+                "c": "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, y la declaración de caducidad, cuando tal declaración de caducidad no esté prohibida por el Ordenamiento Jurídico"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 111,
+            "pregunta": "T1+2 Respecto de la eficacia de los actos administrativos, señala la respuesta correcta de conformidad con la Ley 39/2015:",
+            "opciones": {
+                "a": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos, y producirán efectos desde la fecha en que se dicten, en todo caso.",
+                "b": "Excepcionalmente, podrá otorgarse eficacia retroactiva, entre otros, a los actos cuando se dicten en sustitución de actos nulos.",
+                "c": "La eficacia quedará demorada cuando así lo exija el contenido del acto o que este supeditada a su notificación, publicación o aprobación superior."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 112,
+            "pregunta": "T1+2 Respecto de la subsanación, la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone:",
+            "opciones": {
+                "a": "El plazo general de subsanación de la solicitud de iniciación de un procedimiento es de 15 días.",
+                "b": "Si los documentos solicitados para subsanar presentaran dificultades especiales se les podrá ampliar el plazo de subsanación por 5 días, en todo tipo de procedimiento.",
+                "c": "La subsanación de la presentación presencial de solicitudes por los sujetos obligados a hacerlo electrónicamente sólo podrá hacerse por medios electrónicos. TEST AUXILIAR ADMINISTRATIVO 18"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 113,
+            "pregunta": "T1+2 Se entiende por orden superior, como forma de iniciación del procedimiento de oficio, según la Ley 39/2015:",
+            "opciones": {
+                "a": "La emitida por cualquier órgano administrativo superior o directivo, sea o no competente para la iniciación del procedimiento",
+                "b": "La emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento",
+                "c": "La emitida por un órgano administrativo jerárquicamente subordinado al competente para la iniciación del procedimiento"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 114,
+            "pregunta": "T1+2 Según el art. 14 de la Ley 39/2015, del Procedimiento Administrativo Común, no están obligados a relacionarse con la Administración por medios electrónicos:",
+            "opciones": {
+                "a": "quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración",
+                "b": "los empleados públicos para los trámites y actuaciones que realicen por razón de su condición de empleado público",
+                "c": "quienes ejerzan una actividad profesional para la que no se requiera colegiación obligatoria"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 115,
+            "pregunta": "T1+2 Según el artículo 66 de la Ley 39/2015, no es necesario que la solicitud de iniciación contenga:",
+            "opciones": {
+                "a": "Lugar y fecha.",
+                "b": "DNI del interesado.",
+                "c": "Hechos, razones y petición en que se concrete la solicitud."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 116,
+            "pregunta": "T1+2 Según el artículo 68.1 de la Ley 39/2015, el plazo de subsanación y mejora de la solicitud es de:",
+            "opciones": {
+                "a": "Siete días.",
+                "b": "Cinco días.",
+                "c": "Diez días."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 117,
+            "pregunta": "T1+2 Según el artículo 76 de la Ley 39/2015, respecto de las alegaciones de los interesados en el procedimiento administrativo:",
+            "opciones": {
+                "a": "Los interesados únicamente pueden presentar alegaciones en el trámite de audiencia.",
+                "b": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones, que serán tenidas en cuenta en la resolución.",
+                "c": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones, que serán tenidas en cuenta en la redacción de la propuesta de resolución."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 118,
+            "pregunta": "T1+2 Según el artículo 77 de la Ley 39/2015, cuando la Administración no tenga como ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un periodo de prueba por un plazo:",
+            "opciones": {
+                "a": "No inferior a treinta días, ni superior a sesenta.",
+                "b": "No inferior a diez días, ni superior a treinta.",
+                "c": "No inferior a quince días, ni superior a treinta."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 119,
+            "pregunta": "T1+2 Según el artículo 81 de la Ley 39/2015, en el caso de reclamaciones de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de justicia, será preceptivo el informe del Consejo General del Poder Judicial, que será evacuado en el plazo de:",
+            "opciones": {
+                "a": "1 mes.",
+                "b": "2 meses.",
+                "c": "3 meses."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 120,
+            "pregunta": "T1+2 Según el artículo 81 de la Ley 39/2015, que regula la solicitud de informes y dictámenes en los procedimientos de responsabilidad patrimonial, será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma:",
+            "opciones": {
+                "a": "a) Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 30.000€",
+                "b": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros.",
+                "c": "Cuando las indemnizaciones reclamadas sean de cuantía superior a 50.000 euros. TEST AUXILIAR ADMINISTRATIVO 19"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 121,
+            "pregunta": "T1+2 Según la Ley 39/2015 ¿en qué plazo desestima el órgano competente la solicitud del interesado para una tramitación simplificada del procedimiento?",
+            "opciones": {
+                "a": "10 días",
+                "b": "15 días.",
+                "c": "5 días."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 122,
+            "pregunta": "T1+2 Según la Ley 39/2015 la resolución de la AAPP que declare la inexactitud, falsedad u omisión, de carácter esencial, en cualquier dato, manifestación o documento que se acompañe o incorpore a una declaración responsable o a una comunicación previa:",
+            "opciones": {
+                "a": "Determinará en todo caso la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente",
+                "b": "Acarreará responsabilidades, pero en ningún caso podrá suponer la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente",
+                "c": "Podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 123,
+            "pregunta": "T1+2 Según la Ley 39/2015, el documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para acceder al reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante el periodo de tiempo inherente a dicho reconocimiento o ejercicio, es:",
+            "opciones": {
+                "a": "La declaración previa",
+                "b": "La comunicación responsable",
+                "c": "La declaración responsable"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 124,
+            "pregunta": "T1+2 Según la Ley 39/2015, en los procedimientos de carácter sancionador ¿en qué momento y quién formula la propuesta de resolución?",
+            "opciones": {
+                "a": "El órgano instructor una vez terminada la instrucción del procedimiento.",
+                "b": "El órgano instructor antes de dar por terminada la instrucción del procedimiento.",
+                "c": "El interesado una vez terminado la instrucción del procedimiento."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 125,
+            "pregunta": "T1+2 Según lo dispuesto en el artículo 21 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "No existen excepciones a la obligación de resolver por parte de la Administración.",
+                "b": "El plazo para resolver no podrá exceder en ningún caso de 6 meses.",
+                "c": "La comparecencia de las personas en las oficinas públicas será obligatoria cuando este previsto por norma con rango legal."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 126,
+            "pregunta": "T1+2 Según lo previsto en el artículo 53 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el caso de procedimientos administrativos de naturaleza sancionadora, los presuntos responsables tendrán los siguientes derechos:",
+            "opciones": {
+                "a": "A ser notificado de la identidad del instructor",
+                "b": "A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+                "c": "Todas son correctas."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 127,
+            "pregunta": "T1+2 Según lo previsto en el artículo 57 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿qué recurso cabe contra el acuerdo de acumulación de procedimientos?",
+            "opciones": {
+                "a": "Recurso de reposición ante el órgano que dictó el acuerdo",
+                "b": "Recurso de alzada ante el superior jerárquico del órgano que dictó el acuerdo",
+                "c": "No cabe recurso TEST AUXILIAR ADMINISTRATIVO 20"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 128,
+            "pregunta": "T1+2 Según lo previsto en el artículo 68 de la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿Está obligada la Administración a permitir la subsanación de la solicitud de inicio de un procedimiento?",
+            "opciones": {
+                "a": "Si, concediéndole un plazo de 15 días.",
+                "b": "Este plazo podrá ampliarse por 10 días cuando los documentos requeridos presenten dificultades especiales.",
+                "c": "Ninguna respuesta es correcta."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 129,
+            "pregunta": "T1+2 Señala la opción incorrecta, según la Ley 39/2015, sobre los procedimientos iniciados de oficio por el órgano competente, que lo serán:",
+            "opciones": {
+                "a": "A petición razonada de otros órganos",
+                "b": "No podrán serlo por propia iniciativa de dicho órgano",
+                "c": "Por denuncia"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 130,
+            "pregunta": "T1+2 Señala la respuesta correcta en relación con la acumulación de procedimientos del artículo 57 de la Ley 39/2015:",
+            "opciones": {
+                "a": "El órgano administrativo que inicie o tramite un procedimiento podrá disponer su acumulación a otros siempre que haya identidad en los interesados.",
+                "b": "Contra el acuerdo de acumulación podrá interponerse recurso de alzada ante el superior jerárquico del órgano que acordó la acumulación de procedimientos.",
+                "c": "Contra el acuerdo de acumulación no procederá recurso alguno."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 131,
+            "pregunta": "T1+2 Señala la respuesta correcta en relación con la lengua de los procedimientos tramitados por la Administración General del Estado en el territorio de una Comunidad Autónoma donde existe otra lengua cooficial, de conformidad con lo dispuesto en la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "Será exclusivamente el castellano",
+                "b": "Los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente, deberán expedirse en castellano",
+                "c": "Si los documentos, expedientes o partes de los mismos debieran surtir efectos en el territorio de una Comunidad Autónoma donde sea cooficial esa misma lengua distinta del castellano, la Administración Pública instructora deberá traducirlos al castellano"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 132,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.",
+                "b": "En los procedimientos iniciados de oficio, el vencimiento de plazo máximo exime a la Administración de su obligación de resolver.",
+                "c": "La presente Ley no se aplica a las universidades."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 133,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "Son nulos de pleno derecho los actos dictados por órgano incompetente.",
+                "b": "Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, salvo la desviación de poder.",
+                "c": "Serán nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 134,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "Los plazos expresados en días se contarán a partir del día a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde aquel en que se produzca la estimación o la desestimación por silencio administrativo. TEST AUXILIAR ADMINISTRATIVO 21",
+                "b": "Si el plazo se fija en meses o años, éstos se computarán a partir del día en que tenga lugar la notificación o publicación del acto de que se trate, o desde aquel en que se produzca la estimación o desestimación por silencio administrativo.",
+                "c": "Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 135,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas.",
+                "b": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación, salvo en los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento.",
+                "c": "El medio elegido por la persona física para comunicarse con las Administraciones Públicas deberá mantenerse a lo largo de todo el procedimiento."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 136,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "En los procedimientos iniciados de oficio, el vencimiento de plazo máximo exime a la Administración de su obligación de resolver.",
+                "b": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, incluso en los supuestos de terminación por pacto o convenio, así como en los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Administración",
+                "c": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso la interposición del recurso administrativo o contencioso-administrativo que resulte procedente."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 137,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "Serán motivadas las propuestas de resolución en los procedimientos de carácter sancionador, así como los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial.",
+                "b": "No habrá lugar a motivación en los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva.",
+                "c": "Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias no requerirán ser motivados"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 138,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "Habrá multa coercitiva, cuando hubiere de satisfacerse cantidad liquida.",
+                "b": "Podrá imponerse a los administrados una obligación pecuniaria sin perjuicio de la norma que lo establezca.",
+                "c": "La ejecución subsidiaria es uno de los medios de ejecución forzosa establecidos en la ley."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 139,
+            "pregunta": "T1+2 Señala la respuesta correcta:",
+            "opciones": {
+                "a": "La ejecución forzosa debe efectuarse siempre respetando el principio de proporcionalidad.",
+                "b": "Los actos administrativos que impongan una obligación personalísima de hacer o soportar podrán ser ejecutados por compulsión directa sobre las personas en los casos en que la ley expresamente lo autorice, y dentro siempre del respeto debido a su dignidad y a los derechos reconocidos en la Constitución.",
+                "c": "Además de la compulsión sobre las personas en los actos personalismos podrá imponerse multa coercitiva."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 140,
+            "pregunta": "T1+2 Señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "la Ley 39/2015, del Procedimiento Administrativo Común, se refiere a los derechos de los ciudadanos en su condición de vecinos en su art. 18 TEST AUXILIAR ADMINISTRATIVO 22",
+                "b": "la Ley 39/2015, del Procedimiento Administrativo Común, se refiere a derechos del interesado en el procedimiento administrativo en su art. 53",
+                "c": "la Ley 39/2015, del Procedimiento Administrativo Común, establece quiénes son los obligados a relacionarse por medios electrónicos con la Administración en su art. 14"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 141,
+            "pregunta": "T1+2 Señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en la Ley 39/2015",
+                "b": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general",
+                "c": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde el día siguiente a la fecha en que se dicten, salvo que en ellos se disponga otra cosa"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 142,
+            "pregunta": "T1+2 Señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "Las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo",
+                "b": "Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia",
+                "c": "La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por la ley 39/2015"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 143,
+            "pregunta": "T1+2 Señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.",
+                "b": "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+                "c": "La Administración podrá convalidar los actos nulos y los anulables, subsanando los vicios de que adolezcan."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 144,
+            "pregunta": "T1+2 Señale la respuesta correcta con relación a la notificación regulada en el artículo 40 de la Ley 39/2015:",
+            "opciones": {
+                "a": "Toda notificación deberá ser cursada en el plazo de quince días a partir de la fecha en que el acto haya sido dictado.",
+                "b": "La notificación deberá contener únicamente el texto Íntegro de la resolución, con indicación si pone fin o no a la vía administrativa, y los recursos que procedan en vía administrativa y el plazo para interponerlos.",
+                "c": "A los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos, será suficiente la notificación que contenga, cuando menos, el texto íntegro de la resolución, así como el intento de notificación debidamente acreditado."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 145,
+            "pregunta": "T1+2 Si en virtud de acto administrativo hubiera de satisfacerse cantidad líquida, conforme al artículo 101 de la Ley 39/2015, se seguirá el procedimiento previsto en las normas reguladoras de:",
+            "opciones": {
+                "a": "Multa coercitiva.",
+                "b": "Ejecución subsidiaria.",
+                "c": "Procedimiento de apremio."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 146,
+            "pregunta": "T1+2 Sobre la aportación de documentos de los interesados en el procedimiento, señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto. TEST AUXILIAR ADMINISTRATIVO 23",
+                "b": "Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.",
+                "c": "La administración actuante podrá consultar o recabar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración, salvo cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección, en cuyo caso el interesado podrá oponerse a ello."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 147,
+            "pregunta": "T1+2 Sobre la aportación de documentos de los interesados en el procedimiento, señala la respuesta incorrecta:",
+            "opciones": {
+                "a": "Las Administraciones Públicas deberán recabar los documentos electrónicamente a través de sus redes corporativas o mediante consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto.",
+                "b": "Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud.",
+                "c": "La administración actuante podrá consultar o recabar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración, salvo cuando la aportación del documento se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección, en cuyo caso el interesado podrá oponerse a ello."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 148,
+            "pregunta": "T1+2 Sobre la aportación de documentos de los interesados en el procedimiento:",
+            "opciones": {
+                "a": "Los interesados podrán aportar al procedimiento administrativo cualquier documento que estimen conveniente",
+                "b": "Los interesados no tienen derecho a aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración",
+                "c": "La administración actuante podrá consultar o recabar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración siempre que el interesado manifieste su consentimiento a ello"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 149,
+            "pregunta": "T1+2 Sobre la nulidad y la anulabilidad, la ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dispone:",
+            "opciones": {
+                "a": "Son nulos de pleno derecho los actos dictados por órgano incompetente.",
+                "b": "Son nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+                "c": "Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, salvo la desviación de poder."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 150,
+            "pregunta": "T1+2 Tienen derecho a la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+            "opciones": {
+                "a": "Únicamente los interesados en un expediente administrativo",
+                "b": "Únicamente los que acrediten un interés legítimo",
+                "c": "Las personas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 151,
+            "pregunta": "T1+2 Una resolución que ponga fin al procedimiento administrativo y resuelva un recurso administrativo, según la Ley 39/2015:",
+            "opciones": {
+                "a": "Deberá ser motivada en todo caso",
+                "b": "No siempre deberá ser motivada",
+                "c": "No necesita ser motivada"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 152,
+            "pregunta": "T2 - De conformidad con lo establecido en el artículo 42 de la Ley 39/2015 en relación a la práctica de las notificaciones en papel, cuando la notificación se practique en el domicilio del interesado, de no 24 hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona",
+            "opciones": {
+                "a": "Menor de edad que se encuentre en el domicilio y haga constar su identidad.",
+                "b": "Mayor de 14 años que se encuentre en el domicilio y haga constar su identidad.",
+                "c": "Mayor de 21 años que se encuentre en el domicilio y haga constar su identidad."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 153,
+            "pregunta": "T3 - Dentro de un municipio de régimen común ¿A qué órgano municipal le corresponde la aprobación de las bases de la convocatoria de selección de personal municipal?",
+            "opciones": {
+                "a": "Al Alcalde",
+                "b": "A los ciudadanos",
+                "c": "Al Ayuntamiento"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 154,
+            "pregunta": "T3 ¿Cuál de los siguientes barrios forma parte del ámbito territorial de la Junta Municipal de Ciutat Vella?",
+            "opciones": {
+                "a": "Campanar.",
+                "b": "El Pilar.",
+                "c": "La Petxina."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 155,
+            "pregunta": "T3 ¿Cuál de los siguientes barrios NO forma parte del ámbito territorial de la Junta Municipal de Marítimo?",
+            "opciones": {
+                "a": "Ciudad Jardín.",
+                "b": "La Isla Perdida.",
+                "c": "Marxalenes."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 156,
+            "pregunta": "T3 ¿Cuál de los siguientes núcleos urbanos forma parte de los denominados “Pueblos de València”?",
+            "opciones": {
+                "a": "Alboraya.",
+                "b": "Foios.",
+                "c": "Mahuella."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 157,
+            "pregunta": "T3 ¿Cuál de los siguientes núcleos urbanos NO forma parte de los denominados “Pueblos de València”?",
+            "opciones": {
+                "a": "Pinedo.",
+                "b": "Perellonet.",
+                "c": "Sedaví."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 158,
+            "pregunta": "T3 Con independencia de las funciones que correspondan a los órganos directivos de acuerdo con la legislación básica de régimen local, la coordinación de la Secretaría municipal corresponderá…",
+            "opciones": {
+                "a": "Al la Alcadía.",
+                "b": "Al primer Teniente de Alcalde.",
+                "c": "A la persona titular de la Secretaría del Pleno."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 159,
+            "pregunta": "T3 El alcalde o alcaldesa nombrará a las tenientes y los tenientes de alcalde mediante Resolución, especificando el orden de su nombramiento, entre los concejales y concejalas que formen parte...",
+            "opciones": {
+                "a": "De alguna Delegación.",
+                "b": "De la Junta de Gobierno Local.",
+                "c": "De su Grupo Político municipal."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 160,
+            "pregunta": "T3 El letrado o letrada titular de la Asesoría Jurídica municipal recibe la denominación histórica de…",
+            "opciones": {
+                "a": "Advocat o Advocada de la Ciutat.",
+                "b": "Defensor o Defensora de la Ciutat.",
+                "c": "Jurista de la Ciutat."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 161,
+            "pregunta": "T3 El número de áreas de gobierno del Ayuntamiento de València no podrá exceder…",
+            "opciones": {
+                "a": "De diez, excluida la Alcaldía.",
+                "b": "Del número de concejales del Grupo Político del Gobierno Local, excluida la Alcaldía. TEST AUXILIAR ADMINISTRATIVO 25",
+                "c": "Del número de miembros de la Junta de Gobierno Local, excluida la Alcaldía."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 162,
+            "pregunta": "T3 El orden del día de las sesiones de la Junta de Gobierno Local (JGL) será remitido a todas las personas que la integran en el momento de la convocatoria. ¿También se remitirá el orden del día a los Grupos Políticos Municipales?",
+            "opciones": {
+                "a": "No en el momento de la convocatoria, pero sí una vez terminada la sesión de la JGL.",
+                "b": "No, solo será remitido a las personas que intengran la JGL.",
+                "c": "Sí, a través de sus portavoces."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 163,
+            "pregunta": "T3 El órgano de apoyo a la Junta de Gobierno Local y al concejal-secretario o concejala-secretaria de la misma se denomina…",
+            "opciones": {
+                "a": "Secretario o Secretaria de la Junta de Gobierno Local.",
+                "b": "Secretario o Secretaria General de la Administración Municipal.",
+                "c": "Secretario o Secretaria General y del Pleno."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 164,
+            "pregunta": "T3 El secretario o secretaria general de la Administración Municipal será nombrado por la Junta de Gobierno Local, a propuesta del alcalde o alcaldesa, entre…",
+            "opciones": {
+                "a": "Funcionarios de Administración Local con habilitación de carácter nacional.",
+                "b": "Funcionarios del subgrupo A1 con más de cinco años de experiencial profesional.",
+                "c": "Sus miembros."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 165,
+            "pregunta": "T3 Empezando por los responsables superiores de las áreas de gobierno, ¿cuál es su ordenación jerárquica?",
+            "opciones": {
+                "a": "Concejal delegado, teniente de alcade, director general y coordinador general.",
+                "b": "Teniente de alcalde, concejal delegado, coordinador general y director general.",
+                "c": "Teniente de alcalde, concejal delegado, director general y coordinador general."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 166,
+            "pregunta": "T3 En el acta de la sesiones de la Junta de Gobierno Local constará…",
+            "opciones": {
+                "a": "El lugar de reunión.",
+                "b": "El sentido del voto de los miembros presentes.",
+                "c": "La hora de finalización."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 167,
+            "pregunta": "T3 En las sesiones del Pleno y según el Reglamento Municipal de Participación Ciudadana, se reserva un número de plazas para la ciudadanía en general que dirija su solicitud de asistencia a través del registro general de entrada. Este número de plazas será de:",
+            "opciones": {
+                "a": "Ocho",
+                "b": "Doce",
+                "c": "Veintidós"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 168,
+            "pregunta": "T3 La Alcaldía distribuirá la responsabilidad de las distintas áreas de gobierno del Ayuntamiento de València entre…",
+            "opciones": {
+                "a": "Los concejales delegados y concejalas delegadas integrantes de la Junta de Gobierno Local.",
+                "b": "Los concejales y concejalas que líbremente determine la Alcaldía.",
+                "c": "Los tenientes y las tenientas de alcalde integrantes de la Junta de Gobierno Local."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 169,
+            "pregunta": "T3 La Asesoría Jurídica del Ayuntamiento de València es el órgano administrativo responsable de la asistencia jurídica a la Alcaldía, a los órganos directivos y...",
+            "opciones": {
+                "a": "A la Junta de Gobierno Local.",
+                "b": "A los Tenientes de Alcalde.",
+                "c": "Al Pleno."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 170,
+            "pregunta": "T3 La Secretaría Municipal NO estará integrada por…",
+            "opciones": {
+                "a": "La persona titular de la Secretaría General de la Administración Municipal.",
+                "b": "Los secretarios o secretarias encargados de la coordinación jurídicoadministrativa.",
+                "c": "Los secretarios o secretarias encagados de dar apoyo al equipo de gobierno. TEST AUXILIAR ADMINISTRATIVO 26"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 171,
+            "pregunta": "T3 Las decisiones administrativas que adopten los miembros del gobierno tomarán la forma de…",
+            "opciones": {
+                "a": "Acuerdos.",
+                "b": "Dictámenes.",
+                "c": "Resoluciones."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 172,
+            "pregunta": "T3 Las decisiones que adopte la Junta de Gobierno Local en el ejercicio de sus competencias tomarán la forma de...",
+            "opciones": {
+                "a": "Acuerdos.",
+                "b": "Decisiones.",
+                "c": "Resoluciones."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 173,
+            "pregunta": "T3 Las sesiones de la Junta de Gobierno Local…",
+            "opciones": {
+                "a": "No serán públicas en ningún caso.",
+                "b": "Serán públicas.",
+                "c": "Solo serán públicas cuando así lo determine la Alcadía."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 174,
+            "pregunta": "T3 Las sesiones ordinarias de la Junta de Gobierno Local del Ayuntamiento de València se celebrarán con una periodicidad…",
+            "opciones": {
+                "a": "Mensual.",
+                "b": "Quincenal.",
+                "c": "Semanal."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 175,
+            "pregunta": "T3 Las sesiones ordinarias y extraordinarias de la Junta de Gobierno Local serán convocadas por la Alcaldía con al menos…",
+            "opciones": {
+                "a": "Cuarenta y ocho horas de antelación.",
+                "b": "Tres días de antelación.",
+                "c": "Veinticuatro horas de antelación."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 176,
+            "pregunta": "T3 Los concejales delegados y concejalas delegadas se nombrarán por la Alcaldía, para asumir responsabilidades directivas políticas concretas en un ámbito de materias correspondiente a…",
+            "opciones": {
+                "a": "Un área de gobierno.",
+                "b": "Un servicio municipal.",
+                "c": "Una sección de gobierno."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 177,
+            "pregunta": "T3 Para ejercer las competencias y desarrollar las funciones de gobierno y administración que les correspondan, las áreas de gobierno, integran…",
+            "opciones": {
+                "a": "Una o más concejalías delegadas.",
+                "b": "Una o más secciones.",
+                "c": "Uno o más departamentos municipales."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 178,
+            "pregunta": "T3 Según el Reglamento Orgánico de Gobierno y Administración del Ayuntamiento de València el máximo órgano de Gobierno del Organismo Autónomo es:",
+            "opciones": {
+                "a": "La Presidencia",
+                "b": "La Dirección",
+                "c": "El Consejo Rector"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 179,
+            "pregunta": "T4 - Un funcionario en situación de excedencia voluntaria incentivada puede permanecer en dicha situación un plazo de",
+            "opciones": {
+                "a": "10 años",
+                "b": "No hay límite de tiempo siempre que sobrepase los 5 años",
+                "c": "5 años"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 180,
+            "pregunta": "T4 La aprobación o modificación del Reglamento Orgánico de la corporación necesita del voto favorable de ¿qué mayoría del número legal de miembros? 27",
+            "opciones": {
+                "a": "Simple",
+                "b": "Absoluta",
+                "c": "De tres quintas partes"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 181,
+            "pregunta": "T4 La gestión de la selección del personal laboral temporal corresponderá a :",
+            "opciones": {
+                "a": "La Dirección General que ostente las competencias en materia de función pública",
+                "b": "El Pleno",
+                "c": "La Entidades Locales de la Comunitat Valenciana"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 182,
+            "pregunta": "T4 Según el artículo 138 de la Ley 4/2021, de 16 de Abril, de la Función Pública Valenciana, el personal funcionario de carrera puede hallarse en alguna de estas situaciones administrativas:",
+            "opciones": {
+                "a": "Suspensión especial",
+                "b": "Excedencia forzosa",
+                "c": "Excedencia de funciones"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 183,
+            "pregunta": "T5- La calificación de los contratos que recoge la LCSP en su art. 12.1 es la siguiente",
+            "opciones": {
+                "a": "Contratos de obras y contrato de concesión de obras.",
+                "b": "Contratos de obras, concesión de obras, concesión de servicios, suministro y servicios.",
+                "c": "Contratos de obras, de suministro y servicios"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 184,
+            "pregunta": "T6 - Las Haciendas Locales se nutrirán:",
+            "opciones": {
+                "a": "Fundamentalmente de tributos propios y de participación en los del Estado y CC.AA.",
+                "b": "Fundamentalmente en tributos propios.",
+                "c": "Fundamentalmente en tributos propios y de participación en la UE."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 185,
+            "pregunta": "T6 - Las retenciones de crédito podrán realizarse en las siguientes situaciones:",
+            "opciones": {
+                "a": "Creditos retenidos para gastos",
+                "b": "Creditos retenidos para bajas",
+                "c": "A y B son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 186,
+            "pregunta": "T6 ¿A quién corresponde la declaración de no disponibilidad de créditos, así como su reposición a disponible?",
+            "opciones": {
+                "a": "A la Alcaldía.",
+                "b": "Al Pleno.",
+                "c": "Al Servicio Presupuestario."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 187,
+            "pregunta": "T6 ¿Con qué frecuencia se dará cuenta al Pleno de la creación de conceptos y subconceptos?",
+            "opciones": {
+                "a": "El Servicio Presupuestario está facultado para la creación de conceptos y subconceptos, sin necesidad de dar cuenta al Pleno.",
+                "b": "Mensualmente.",
+                "c": "Trimestralmente."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 188,
+            "pregunta": "T6 ¿Cuál de las siguientes NO es una fase de la gestión del presupuesto de gastos?",
+            "opciones": {
+                "a": "Disposición o compromiso del gasto.",
+                "b": "Estudio y selección de los presupuestos de gastos.",
+                "c": "Reconocimiento o liquidación de la obligación."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 189,
+            "pregunta": "T6 ¿Cuál es la primera fase de la gestión del presupuesto de gastos en la que la Entidad local realiza un acto con relevancia jurídica para con terceros?",
+            "opciones": {
+                "a": "Autorización del gasto.",
+                "b": "Disposición o compromiso del gasto.",
+                "c": "Reconocimiento o liquidación de la obligación. TEST AUXILIAR ADMINISTRATIVO 28"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 190,
+            "pregunta": "T6 Con carácter general, cuando en el inicio del expediente de gasto se conozca su cuantía exacta y el nombre del perceptor se tramitará el documento contable en fase…",
+            "opciones": {
+                "a": "ABC.",
+                "b": "AD.",
+                "c": "ADO."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 191,
+            "pregunta": "T6 El Ayuntamiento incluye, bajo la rúbrica Fondo de Contingencia, una aplicación en el capítulo V del Presupuesto de Gastos, consignada en un sector presupuestario independiente: …",
+            "opciones": {
+                "a": "AE540 92900 50002.",
+                "b": "FC540 92900 50002.",
+                "c": "PG540 92900 50002."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 192,
+            "pregunta": "T6 El Presupuesto General del Ayuntamiento de València está integrado, entre otros, por los presupuestos de los Organismos Autónomos municipales. ¿Cuál de los siguientes NO es uno de ellos?",
+            "opciones": {
+                "a": "Fundación Deportiva Municipal.",
+                "b": "Junta Central Fallera.",
+                "c": "Universitat de València."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 193,
+            "pregunta": "T6 En cuanto a lo no previsto en las Bases de ejecución de los presupuestos de los Organismos Autónomos Municipales, las Bases de ejecución del presupuesto del Ayuntamiento de València se considerarán de aplicación:",
+            "opciones": {
+                "a": "Supletoria",
+                "b": "Complementaria",
+                "c": "Sustitutoria"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 194,
+            "pregunta": "T6 En las transferencias de crédito, cuando la transferencia se realice entre aplicaciones de la misma área de gasto, ¿cuál es el órgano competente?",
+            "opciones": {
+                "a": "El Pleno.",
+                "b": "La concejalía delegada de Hacienda.",
+                "c": "La Junta de Gobierno Local."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 195,
+            "pregunta": "T6 La aprobación de los reconocimientos extrajudiciales de créditos corresponde…",
+            "opciones": {
+                "a": "A la Alcaldía.",
+                "b": "A la concejalía delegada de Hacienda.",
+                "c": "A la Junta de Gobierno Local."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 196,
+            "pregunta": "T6 La autoritzación del gasto será fiscalizada, con carácter previo a su aprobación, por…",
+            "opciones": {
+                "a": "El ST.",
+                "b": "La ADO.",
+                "c": "La IGAV."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 197,
+            "pregunta": "T6 La autorización es el acto mediante el cual se acuerda la realización de un gasto…",
+            "opciones": {
+                "a": "Determinado por una cuantía cierta o aproximada.",
+                "b": "Determinado por una cuantía incierta o aproximada.",
+                "c": "Indeterminado por una cuantía cierta o aproximada."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 198,
+            "pregunta": "T6 La incorporación de remanentes consiste en trasladar créditos…",
+            "opciones": {
+                "a": "A otra aplicación presupuestaria.",
+                "b": "Al ejercicio siguiente.",
+                "c": "Del Fondo de Contingencia."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 199,
+            "pregunta": "T6 Los créditos para gastos se encuentran inicialmente en la situación de…",
+            "opciones": {
+                "a": "Disponibles.",
+                "b": "No disponibles.",
+                "c": "Pendientes de utilización. TEST AUXILIAR ADMINISTRATIVO 29"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 200,
+            "pregunta": "T6 Los Estados de Ingresos y Gastos del Presupuesto municipal se ordenan…",
+            "opciones": {
+                "a": "Por áreas, por servicios y por secciones.",
+                "b": "Por corrientes, de capital, de transferencia y de inversión.",
+                "c": "Por programas, por categorías económicas y por unidades orgánicas."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 201,
+            "pregunta": "T6 Los gastos en los que la exigibilidad de la obligación pueda ser inmediata, originarán la tramitación del documento en fase…",
+            "opciones": {
+                "a": "ABC.",
+                "b": "AD.",
+                "c": "ADO."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 202,
+            "pregunta": "T6 No podrán librarse pagos a justificar con cargo al mismo concepto por importe superior a 100.000 € salvo que se refieran a gastos de…",
+            "opciones": {
+                "a": "Personal.",
+                "b": "Sanidad",
+                "c": "Servicios Sociales"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 203,
+            "pregunta": "T6 Según las Bases de ejecución del presupuesto, ¿qué supone la vinculación jurídica?",
+            "opciones": {
+                "a": "El cumplimiento de la norma jurídica que regula el gasto.",
+                "b": "El límite máximo de gasto.",
+                "c": "La prevalencia de la norma general, sobre la específica."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 204,
+            "pregunta": "T7 - El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su cosentimiento cuando:",
+            "opciones": {
+                "a": "Sea mayor de edad",
+                "b": "Sea mayor de 14 años",
+                "c": "Cuando sea mayor de 14 años y esté emancipado."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 205,
+            "pregunta": "T7 Las disposiciones del Título I de la Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la información pública y Buen Gobierno, al tenor del artículo 2, no se aplicarán a:",
+            "opciones": {
+                "a": "La Casa de su Majestad el Rey",
+                "b": "El Banco de España",
+                "c": "Las Sociedades Mercantiles"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 206,
+            "pregunta": "T8 - La solicitud para ek ejercicio del derecho de acceso a la información pública debe presentarse:",
+            "opciones": {
+                "a": "Únicamente por medios electrónicos",
+                "b": "Únicamente de manera presencial, personándose el interesado.",
+                "c": "Por cualquier medio que permita tener constancia de, por ejemplo, la identidad del solicitanto y la información que se solicita"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 207,
+            "pregunta": "T8 Es un principio de acción preventiva, entre otros:",
+            "opciones": {
+                "a": "Evitar los riesgos",
+                "b": "Dar las debidas instrucciones a los trabajadores",
+                "c": "Ambas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        },
+        {
+            "numero": 208,
+            "pregunta": "T8 Según la LO 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el principio de igualdad de trato entre mujeres y hombres supone",
+            "opciones": {
+                "a": "La ausencia de toda discriminación indirecta, por razón de nacimiento, origen, o sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+                "b": "La ausencia de toda discriminación directa por razón de nacimiento o sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+                "c": "La ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas y normativa local correspondiente)."
+        }
+    ]
+}

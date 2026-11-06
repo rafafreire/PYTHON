@@ -1,0 +1,904 @@
+
+[
+    {
+        "numero": 1,
+        "pregunta": "Según lo establecido en la Constitución Española de 1978, no es misión de las Fuerzas Armadas:",
+        "opciones": {
+            "A": "Garantizar la neutralidad de España.",
+            "B": "Garantizar la soberanía e independencia de España.",
+            "C": "Defender la integridad territorial de España.",
+            "D": "Defender el ordenamiento constitucional de España."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 2,
+        "pregunta": "Señale cuál de los siguientes enunciados es falso, de acuerdo con la Constitución Española de 1978:",
+        "opciones": {
+            "A": "La detención preventiva no podrá durar más de setenta y dos horas.",
+            "B": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos.",
+            "C": "La ley regulará un procedimiento de \"habeas corpus\" para producir la inmediata puesta en libertad de toda persona detenida ilegalmente.",
+            "D": "Toda persona tiene derecho a la libertad y a la seguridad."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 3,
+        "pregunta": "Según lo establecido en la Constitución Española de 1978, aprobada la reforma constitucional por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten:",
+        "opciones": {
+            "A": "Dentro de los diez días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+            "B": "Dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+            "C": "Dentro de los diez días siguientes a su aprobación, tres quintos de los miembros de cualquiera de las Cámaras.",
+            "D": "Dentro de los quince días siguientes a su aprobación, tres quintos de los miembros de cualquiera de las Cámaras."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 4,
+        "pregunta": "Según lo establecido en la Constitución Española de 1978, la persona del Rey:",
+        "opciones": {
+            "A": "Es inviolable, estando sujeta únicamente a responsabilidad por la comisión de actos estrictamente personales.",
+            "B": "Es inviolable y no está sujeta a responsabilidad.",
+            "C": "No es inviolable, estando sujeta a responsabilidad en los actos previstos en la Constitución.",
+            "D": "Es impecable y responsable."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 5,
+        "pregunta": "Según lo establecido en la Constitución Española de 1978, son leyes orgánicas:",
+        "opciones": {
+            "A": "Las que requieren el refrendo del Rey.",
+            "B": "Las que convocan elecciones generales.",
+            "C": "Las que refunden varios textos legales en uno solo.",
+            "D": "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 6,
+        "pregunta": "Según lo establecido en la Constitución Española de 1978, para la presentación de proposiciones de ley por iniciativa popular se exigirá:",
+        "opciones": {
+            "A": "No menos de 100.000 firmas acreditadas.",
+            "B": "No menos de 300.000 firmas acreditadas.",
+            "C": "No menos de 500.000 firmas acreditadas.",
+            "D": "Que se trate de materias tributarias, de carácter internacional o relativas a la prerrogativa de gracia."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 7,
+        "pregunta": "Según la Constitución Española de 1978, el Gobierno y cada uno de sus miembros están sometidos a las interpelaciones y preguntas que se le formulen en las Cámaras. Para esta clase de debate los Reglamentos establecerán un tiempo mínimo:",
+        "opciones": {
+            "A": "Diario",
+            "B": "Semanal",
+            "C": "Mensual",
+            "D": "Anual"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 8,
+        "pregunta": "Según la Constitución Española de 1978, la moción de censura deberá ser propuesta al menos por:",
+        "opciones": {
+            "A": "la décima parte de los diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+            "B": "la mayoría absoluta de los diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+            "C": "la mayoría simple de los diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+            "D": "la décima parte de los diputados, y habrá de incluir un candidato a la Presidencia del Congreso."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 9,
+        "pregunta": "Según la Constitución española de 1978, los demás miembros del Gobierno:",
+        "opciones": {
+            "A": "Serán nombrados por el Rey, a propuesta del Presidente de Congreso",
+            "B": "Serán nombrados por el Presidente del Congreso, a propuesta del Presidente de Gobierno",
+            "C": "Serán nombrados y separados por el Presidente de Gobierno, a propuesta del Presidente de Congreso",
+            "D": "Serán nombrados y separados por el Rey, a propuesta del Presidente de Gobierno"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 10,
+        "pregunta": "Según la Constitución española de 1978, el Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá y:",
+        "opciones": {
+            "A": "quince miembros nombrados por el Rey por un período de cinco años",
+            "B": "veinte miembros nombrados por el Rey por un período de cinco años",
+            "C": "quince miembros nombrados por el Rey por un período de cuatro años",
+            "D": "veinte miembros nombrados por el Rey por un período de cuatro años"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 11,
+        "pregunta": "Según lo establecido en la Constitución española de 1978, la alteración de los límites provinciales, requiere:",
+        "opciones": {
+            "A": "Aprobación por ley de Cortes Generales.",
+            "B": "Aprobación por ley de Cortes Generales, en forma de ley orgánica.",
+            "C": "Intervención de las Diputaciones y ley orgánica.",
+            "D": "Regulación por ley en los casos que proceda."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 12,
+        "pregunta": "Según el artículo 153 de la Constitución Española de 1978, el control de la actividad de la Administración de las Comunidades Autónomas lo ejercerá:",
+        "opciones": {
+            "A": "El Parlamento.",
+            "B": "El Rey.",
+            "C": "El Tribunal Superior de Justicia.",
+            "D": "La jurisdicción contencioso-administrativa."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 13,
+        "pregunta": "Según el artículo 140 de la Constitución Española de 1978 ¿Por qué tipo de sufragio se elige a los Concejales?",
+        "opciones": {
+            "A": "Por sufragio universal, igual, libre, directo y secreto, en la forma establecida por ley.",
+            "B": "Por sufragio universal, igual, libre y secreto, en la forma establecida por el Gobierno.",
+            "C": "Por sufragio universal, igual, libre, y secreto, en la forma establecida por la Constitución.",
+            "D": "Por sufragio universal, igual, libre, y secreto, en la forma establecida por el derecho."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 14,
+        "pregunta": "De conformidad con el Estatut d'Autonomia de la Comunitat Valenciana, la elaboración de la Carta de Derechos Sociales de la Comunidad Valenciana se llevará a cabo mediante:",
+        "opciones": {
+            "A": "Una Ley de Les Corts.",
+            "B": "Ley Orgánica.",
+            "C": "Ley del Consell",
+            "D": "Ley del Estado"
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 15,
+        "pregunta": "¿Cuál de las siguientes afirmaciones es incorrecta, de acuerdo con lo establecido en el Estatuto de Autonomía de la Comunitat Valenciana?",
+        "opciones": {
+            "A": "La Bandera de la Comunitat Valenciana es la tradicional Senyera compuesta por cuatro barras amarillas sobre fondo rojo, coronadas sobre franja azul junto al asta.",
+            "B": "Una Ley de Les Corts determinará la simbología heráldica propia de la Comunitat Valenciana que integra las tres provincias de Castellón, Valencia y Alicante.",
+            "C": "El idioma valenciano es el oficial en la Comunitat Valenciana, al igual que lo es el castellano, que es el idioma oficial del Estado. Todos tienen derecho a conocerlos y a usarlos y a recibir la enseñanza del, y en, idioma valenciano.",
+            "D": "Se delimitará por ley los territorios en los que predomine el uso de una y otra lengua, así como los que puedan ser exceptuados de la enseñanza y del uso de la lengua propia de la Comunitat Valenciana."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 16,
+        "pregunta": "Según el artículo 23.4 del Estatuto de Autonomía de la Comunitat Valenciana, el mandato de los diputados a determinados efectos finalizará:",
+        "opciones": {
+            "A": "Cuatro años después de las elecciones o el día de la disolución de la Cámara por el President.",
+            "B": "El día antes de las elecciones.",
+            "C": "El día que establezca el decreto del President por el que se disuelven Les Corts.",
+            "D": "El día antes de que se conformen las nuevas Corts."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 17,
+        "pregunta": "Según el artículo 29 del Estatut d'Autonomia, el Consell es el órgano colegiado de gobierno de la Generalitat:",
+        "opciones": {
+            "A": "Que ostenta únicamente la potestad ejecutiva.",
+            "B": "Que ostenta la potestad ejecutiva y reglamentaria.",
+            "C": "Que únicamente ostenta la potestad reglamentaria.",
+            "D": "Que ostenta la potestad ejecutiva, reglamentaria y judicial."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 18,
+        "pregunta": "Según el Estatut d'Autonomia, la iniciativa de la reforma del Estatuto corresponde:",
+        "opciones": {
+            "A": "Al Consell, a una tercera parte de los miembros de Les Corts, a dos grupos parlamentarios, al Congreso de los Diputados o al Senado.",
+            "B": "Al Consell, a una tercera parte de los miembros de Les Corts, a tres grupos parlamentarios o a las Cortes Generales.",
+            "C": "Al Consell, a una tercera parte de los miembros de Les Corts, a dos grupos parlamentarios o a las Cortes Generales.",
+            "D": "Solo al Consell en pleno por mayoría absoluta."
+        },
+        "respuesta_correcta": "Anulada",
+        "explicacion": null
+    },
+    {
+        "numero": 19,
+        "pregunta": "De conformidad con lo establecido en la Ley 5/1983, de 30 de diciembre, del Consell, para la elección del President de la Generalitat en primera votación:",
+        "opciones": {
+            "A": "Se requiere del consenso de todos los grupos políticos con representación parlamentaria de les Corts.",
+            "B": "Hace falta mayoría de tres quintos de los miembros de derecho de Les Corts.",
+            "C": "Hace falta mayoría absoluta de los miembros de derecho de Les Corts.",
+            "D": "Hace falta mayoría simple de los miembros de derecho de Les Corts."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 20,
+        "pregunta": "Entre las funciones que la Ley 5/1983, de 30 de diciembre, del Consell, atribuye al Presidente de la Generalitat, está la de:",
+        "opciones": {
+            "A": "Designar representante de la Comunitat Valenciana en el Patronato del Misteri d'Elx",
+            "B": "Designar representante de la Comunitat Valenciana en el Patronato del Archivo General de Indias",
+            "C": "Designar representante de la Comunitat Valenciana en el Real Patronato del Museo Nacional de El Prado.",
+            "D": "Designar representante de la Comunitat Valenciana en el Patronato del Archivo de la Corona de Aragón."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 21,
+        "pregunta": "De conformidad con lo establecido en la Ley 5/1983, de 30 de diciembre, del Consell, la Comisión de Secretarios Autonómicos y Subsecretarios:",
+        "opciones": {
+            "A": "Será presidida por el miembro del Consell que ostente la condición de portavoz del Consell.",
+            "B": "Será presidida por el miembro del Consell que ostente la condición de secretario del Consell.",
+            "C": "Será presidida por el miembro del Consell que designado al efecto por el President de la Generalitat.",
+            "D": "Al tratarse de un órgano colegiado carece de presidencia."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 22,
+        "pregunta": "De conformidad con lo establecido en la Ley 5/1983, de 30 de diciembre, del Consell, ejercer las facultades ordinarias en materia de contratación administrativa dentro de los límites legales presupuestarios, es función propia de:",
+        "opciones": {
+            "A": "Los Directores Generales",
+            "B": "Los Subsecretarios",
+            "C": "Los Secretarios Autonómicos",
+            "D": "Los Consellers."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 23,
+        "pregunta": "De conformidad con lo establecido en la Ley 5/1983 de 30 de diciembre, del Consell, el nivel directivo de las consellerias lo integran:",
+        "opciones": {
+            "A": "El Conseller y los secretarios autonómicos",
+            "B": "Los secretarios autonómicos y los subsecretarios",
+            "C": "Los subsecretarios y los secretarios generales Administrativos",
+            "D": "Los subsecretarios, directores generales y demás altos cargos que ostenten el rango de director general."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 24,
+        "pregunta": "De conformidad con lo establecido en la Ley 5/1983 de 30 de diciembre, del Consell, el nivel administrativo de una Conselleria se organiza en:",
+        "opciones": {
+            "A": "áreas, servicios, secciones, unidades y negociados.",
+            "B": "subdirecciones generales, servicios, secciones, unidades y negociados.",
+            "C": "áreas, servicios y negociados.",
+            "D": "subdirecciones generales, secciones y unidades."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 25,
+        "pregunta": "De acuerdo con lo establecido en el Tratado de Funcionamiento de la Unión Europea, para ejercer las competencias de la Unión, las instituciones adoptarán:",
+        "opciones": {
+            "A": "reglamentos, directivas, decisiones, recomendaciones y dictámenes.",
+            "B": "directivas y decisiones.",
+            "C": "reglamentos, decisiones y dictámenes.",
+            "D": "reglamentos, directivas, decisiones y dictámenes."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 26,
+        "pregunta": "De acuerdo con lo establecido en el Tratado de Funcionamiento de la Unión Europea, los reglamentos de la Unión Europea:",
+        "opciones": {
+            "A": "son actos normativos no aplicables a los estados miembros.",
+            "B": "son actos legislativos vinculantes, obligatorios en todos sus elementos y directamente aplicables en cada Estado miembro.",
+            "C": "son actos legislativos en los cuales se establecen objetivos que todos los países de la UE deben cumplir",
+            "D": "son actos administrativos de trámite de la Unión Europea."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 27,
+        "pregunta": "Los Tratados de la Unión Europea:",
+        "opciones": {
+            "A": "Forman parte del derecho primario de la Unión Europea.",
+            "B": "Forman parte del Derecho derivado de la Unión Europea.",
+            "C": "No forman parte del derecho primario de la Unión Europea.",
+            "D": "Ninguna respuesta es correcta."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 28,
+        "pregunta": "Según el artículo 10 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán:",
+        "opciones": {
+            "A": "revisables",
+            "B": "de sentencia firme",
+            "C": "anulables",
+            "D": "nulos y sin efecto"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 29,
+        "pregunta": "La Ley 9/2003, de 2 de Abril de la Generalitat, para la igualdad de mujeres y hombres, será de aplicación:",
+        "opciones": {
+            "A": "En el ámbito de la administración de la Generalitat Valenciana.",
+            "B": "En el ámbito de la administración de la Generalitat Valenciana, en todas las actuaciones referidas a la planificación y ejecución de actuaciones en materia de igualdad de oportunidades entre mujeres y hombres.",
+            "C": "en todo el ámbito territorial de la Comunidad Valenciana, en todas las actuaciones referidas a la planificación, acciones, gestión y ejecución de actuaciones en materia de igualdad de oportunidades entre mujeres y hombres.",
+            "D": "en todo el ámbito territorial nacional."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 30,
+        "pregunta": "Según la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, la violencia de género a que se refiere la presente Ley comprende:",
+        "opciones": {
+            "A": "todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+            "B": "todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones, pero no la privación arbitraria de libertad.",
+            "C": "solo los actos de violencia física, incluidas las agresiones a la libertad sexual.",
+            "D": "todo acto de violencia física y psicológica, sin incluir las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 31,
+        "pregunta": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la tramitación de urgencia se podrá acordar:",
+        "opciones": {
+            "A": "Solo de oficio, se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, cuando medien razones de interés público.",
+            "B": "Únicamente a petición del interesado, se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, cuando lo dicte el órgano administrativo.",
+            "C": "De oficio o a petición del interesado, se reducirán a la mitad los plazos establecidos para el procedimiento ordinario.",
+            "D": "De oficio o a petición del interesado, se reducirán a más de la mitad los plazos establecidos para el procedimiento ordinario."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 32,
+        "pregunta": "Según la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son:",
+        "opciones": {
+            "A": "Hábiles excluyéndose del cómputo los domingos.",
+            "B": "Hábiles excluyéndose del cómputo los domingos y festivos.",
+            "C": "Hábiles excluyéndose del cómputo los sábados, domingos y lo declarados festivos.",
+            "D": "Naturales."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 33,
+        "pregunta": "Según la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, es INCORRECTO que:",
+        "opciones": {
+            "A": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se notifiquen, salvo que en ellos se disponga otra cosa.",
+            "B": "La eficacia quedará demorada cuando así lo exija el contenido del acto.",
+            "C": "La eficacia quedará demorada cuando esté supeditada a la publicación del acto.",
+            "D": "La eficacia quedará demorada cuando esté supeditada a aprobación superior."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 34,
+        "pregunta": "Según el artículo 35 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+        "opciones": {
+            "A": "Los actos que otorguen derechos subjetivos o intereses legítimos.",
+            "B": "Los actos que acuerden el inicio del procedimiento por la imposibilidad material de continuarlo por causas sobrevenidas, así como los que acuerden el desistimiento por la Administración en procedimientos iniciados de parte.",
+            "C": "Los actos que acepten pruebas propuestas por los interesados.",
+            "D": "Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 35,
+        "pregunta": "De conformidad con lo dispuesto en el artículo 37.1 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones": {
+            "A": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+            "B": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, siempre que aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+            "C": "Las resoluciones administrativas de carácter particular podrán vulnerar lo establecido en una disposición de carácter general, siempre que aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+            "D": "Las resoluciones administrativas de carácter particular podrán vulnerar en cualquier caso lo establecido en una disposición de carácter general."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 36,
+        "pregunta": "Señale la respuesta correcta, en relación a la práctica de las notificaciones administrativas, regulada en el artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones": {
+            "A": "En ningún caso se efectuarán por medios no electrónicos las notificaciones en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.",
+            "B": "En los procedimientos iniciados a solicitud de los interesados, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales en aplicación de lo previsto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
+            "C": "Con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección del correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única.",
+            "D": "La falta de la práctica del aviso al dispositivo electrónico y/o dirección de correo electrónico del interesado informándole de la puesta a disposición de una notificación en la sede electónica de la Administración, determina la invalidez de la notificación."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 37,
+        "pregunta": "De conformidad con lo dispuesto en el artículo 49.1 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones": {
+            "A": "La nulidad o anulabilidad de un acto implicará la de los sucesivos en el procedimiento.",
+            "B": "La nulidad o anulabilidad de un acto implicará la de los sucesivos en el procedimiento, sean o no independientes del primero.",
+            "C": "La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.",
+            "D": "La nulidad o anulabilidad de un acto no implicará, en ningún caso, la de los sucesivos en el procedimiento."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 38,
+        "pregunta": "Según establece la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico son:",
+        "opciones": {
+            "A": "Anulables, excepto los que incurran en la desviación de poder.",
+            "B": "Nulos de pleno derecho, excepto los que incurran en la desviación de poder.",
+            "C": "Anulables, incluso los que incurran en la desviación de poder.",
+            "D": "Nulos de pleno derecho, incluso los que incurran en la desviación de poder."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 39,
+        "pregunta": "Según la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+        "opciones": {
+            "A": "Implicará la nulidad de pleno derecho, en todo caso.",
+            "B": "Implicará la anulabilidad del acto, en todo caso.",
+            "C": "Sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+            "D": "Implicará la nulidad de pleno derecho cuando dé lugar a la indefensión de los interesados."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 40,
+        "pregunta": "Conforme a lo establecido en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en:",
+        "opciones": {
+            "A": "15 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+            "B": "30 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+            "C": "45 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento.",
+            "D": "60 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 41,
+        "pregunta": "Según lo dispuesto en el artículo 95 de la Ley 39/2015, del procedimiento administrativo común de las administraciones públicas sobre la caducidad del procedimiento, señale la opción correcta:",
+        "opciones": {
+            "A": "La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados interrumpirán el plazo de prescripción.",
+            "B": "La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.",
+            "C": "La caducidad producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción",
+            "D": "Todas las respuestas son correctas."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 42,
+        "pregunta": "De conformidad con lo establecido en la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas podrán rectificar los errores materiales, de hecho, o aritméticos existentes en sus actos:",
+        "opciones": {
+            "A": "Mientras no haya transcurrido el plazo de prescripción, de oficio.",
+            "B": "En cualquier momento, y únicamente de oficio.",
+            "C": "Mientras no haya transcurrido el plazo de prescripción, de oficio o a instancia de los interesados.",
+            "D": "En cualquier momento, de oficio o a instancia de los interesados."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 43,
+        "pregunta": "Según la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso de alzada podrá interponerse:",
+        "opciones": {
+            "A": "Ante el órgano que dictó el acto que se impugna",
+            "B": "Ante el órgano competente para resolver el acto que se impugna.",
+            "C": "Ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+            "D": "Ante el orden jurisdiccional contencioso administrativo."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 44,
+        "pregunta": "De conformidad con lo establecido por la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, la declaración de lesividad:",
+        "opciones": {
+            "A": "Podrá ser objeto de los recursos que se estimen procedentes.",
+            "B": "Podrá ser recurrido en alzada.",
+            "C": "Podrá ser objeto de recurso de reposición.",
+            "D": "No será susceptible de recurso."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 45,
+        "pregunta": "Conforme a lo establecido por la Ley 39/2015, del procedimiento administrativo común de las Administraciones Públicas, el procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y:",
+        "opciones": {
+            "A": "A través de medios electrónicos, respetando los principios de transparencia, publicidad y buena fe.",
+            "B": "A través de medios electrónicos respetando los principios de transparencia y publicidad.",
+            "C": "A través de medios no electrónicos, respetando los principios de transparencia, publicidad y buena fe.",
+            "D": "A través de medios no electrónicos, respetando los principios de transparencia y publicidad."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 46,
+        "pregunta": "De conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de (señala la incorrecta):",
+        "opciones": {
+            "A": "Denominación y establecimiento de sus recursos humanos necesarios.",
+            "B": "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.",
+            "C": "Delimitación de sus funciones y competencias.",
+            "D": "Dotación de los créditos necesarios para su puesta en marcha y funcionamiento."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 47,
+        "pregunta": "De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la delegación de competencias, la encomienda de gestión, la delegación de firma y la suplencia:",
+        "opciones": {
+            "A": "Suponen alteración de la titularidad de la competencia y de los elementos determinantes de su ejercicio que en cada caso se prevén.",
+            "B": "No suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén.",
+            "C": "No suponen alteración de la titularidad de la competencia ni de los elementos determinantes de su ejercicio que en cada caso se prevén.",
+            "D": "Suponen alteración de la titularidad de la competencia, pero no de los elementos determinantes de su ejercicio que en cada caso se prevén."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 48,
+        "pregunta": "De conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se considerará incluido entre los medios electrónicos válidos para que los órganos colegiados celebren sesiones a distancia (señala la incorrecta):",
+        "opciones": {
+            "A": "El correo electrónico.",
+            "B": "El portal web del departamento competente.",
+            "C": "Las audioconferencias.",
+            "D": "Las videoconferencias."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 49,
+        "pregunta": "De conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público respecto a la delegación de competencias, señala la correcta:",
+        "opciones": {
+            "A": "Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegado.",
+            "B": "Salvo autorización expresa de una Ley, podrán delegarse las competencias que se ejerzan por delegación.",
+            "C": "La delegación una vez que el órgano delegante la haya conferido no será revocable.",
+            "D": "El acuerdo de delegación de aquellas competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dicho quórum o mayoría."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 50,
+        "pregunta": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos:",
+        "opciones": {
+            "A": "Inferiores competentes por razón de la materia y del territorio.",
+            "B": "Superiores competentes por razón de la materia y del territorio.",
+            "C": "Que establezca el órgano superior competente por razón de la materia y del territorio.",
+            "D": "Ninguna de las respuestas es correcta."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 51,
+        "pregunta": "Según la Ley 9/2017, de Contratos del Sector Público, el contrato que contenga prestaciones correspondientes a otro u otros de distinta clase, es un:",
+        "opciones": {
+            "A": "Contrato de obra.",
+            "B": "Contrato de suministro.",
+            "C": "Contrato de servicios.",
+            "D": "Contrato mixto."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 52,
+        "pregunta": "La Ley 9/2017 de Contratos del Sector Público, respecto a fraccionar un contrato con la finalidad de disminuir la cuantía del mismo, y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan, establece que:",
+        "opciones": {
+            "A": "Podrá fraccionarse.",
+            "B": "No podrá fraccionarse.",
+            "C": "Deberá fraccionarse.",
+            "D": "Excepcionalmente podrá fraccionarse."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 53,
+        "pregunta": "Según lo dispuesto en la Ley 9/2017, de Contratos del Sector Público, en toda contratación pública se incorporarán de manera transversal y preceptiva:",
+        "opciones": {
+            "A": "Criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato.",
+            "B": "Criterios éticos y de transparencia aunque no guarden relación con el contrato.",
+            "C": "Criterios éticos y de transparencia siempre que guarden relación con el objeto del contrato.",
+            "D": "Criterios sociales y medioambientales aunque no guarden relación con el objeto del contrato."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 54,
+        "pregunta": "Según lo dispuesto en la Ley 9/2017, de Contratos del Sector Público, el valor estimado del contrato, en el caso de obras, suministros y servicios, será determinado por el órgano de contratación, que tomará:",
+        "opciones": {
+            "A": "El importe total incluyendo el Impuesto sobre el Valor Añadido.",
+            "B": "El importe total sin incluir el Impuesto sobre el Valor Añadido, y sin incluir las eventuales prórrogas del contrato.",
+            "C": "El importe total sin incluir el Impuesto sobre el Valor Añadido, y teniendo en cuenta las eventuales prórrogas del contrato.",
+            "D": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 55,
+        "pregunta": "Señale cuál de los siguientes principios no está garantizado por la Ley de Contratos del Sector Público:",
+        "opciones": {
+            "A": "Libertad de acceso a las licitaciones.",
+            "B": "Discriminación y desigualdad de trato entre los licitadores.",
+            "C": "Publicidad y transparencia de los procedimientos.",
+            "D": "Eficiencia en la utilización de los fondos."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 56,
+        "pregunta": "Según el Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administración Electrónica de la Comunitat Valenciana, en relación con la utilización de los medios electrónicos en la actividad administrativa, los ciudadanos tienen los siguientes derechos:",
+        "opciones": {
+            "A": "Derecho a usar las tres lenguas oficiales en la Comunitat Valenciana.",
+            "B": "Derecho a obtener una dirección de correo postal facilitado por la Generalitat.",
+            "C": "Derecho a la representación electrónica.",
+            "D": "Todas son correctas."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 57,
+        "pregunta": "Según el Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administración Electrónica de la Comunitat Valenciana, aquella dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a la Generalitat en el ejercicio de sus competencias, se denomina:",
+        "opciones": {
+            "A": "Sede informática del Gobierno.",
+            "B": "Sede electrónica de la Generalitat.",
+            "C": "Sede informática de la Generalitat.",
+            "D": "Sede electrónica del Gobierno."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 58,
+        "pregunta": "Según lo establecido en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la Agencia Española de Protección de Datos inadmitirá las reclamaciones presentadas cuando:",
+        "opciones": {
+            "A": "No carezcan manifiestamente de fundamento.",
+            "B": "No sean abusivas.",
+            "C": "No versen sobre cuestiones de protección de datos personales.",
+            "D": "Todas son correctas."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 59,
+        "pregunta": "Según lo establecido en la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, no es un órgano ejecutivo competente en materia de función pública:",
+        "opciones": {
+            "A": "El President de la Generalitat.",
+            "B": "El Consell.",
+            "C": "La consellera o el conseller competente en materia de función pública.",
+            "D": "El Consell Interdepartamental de Retribucions."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 60,
+        "pregunta": "Conforme a lo establecido en el artículo 2 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, no es uno de los principios y fundamentos de actuación que ordenan la función pública valenciana:",
+        "opciones": {
+            "A": "Servicio a la ciudadanía y a los intereses generales.",
+            "B": "Ética profesional en el desempeño del servicio público.",
+            "C": "Participación en la determinación de las condiciones de trabajo.",
+            "D": "Servicio a las administraciones públicas en la regulación del empleo público."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 61,
+        "pregunta": "De acuerdo con lo dispuesto en el artículo 11 de la Ley 4/2021, señale cuál de las siguientes competencias no corresponde a l'Escola Valenciana d'Administració Pública, en relación con el personal empleado público:",
+        "opciones": {
+            "A": "Ejercer las restantes funciones que en materia de relaciones de puestos de trabajo y retribuciones del personal de la Administración de la Generalitat estén atribuidas conjuntamente a las consellerias competentes en materia de función pública y de presupuestos y gastos.",
+            "B": "Estudiar y proponer los métodos de selección más adecuados para el acceso a los distintos cuerpos y escalas del personal de la Generalitat, de modo que se garantice la selección del mejor talento y la igualdad de oportunidades.",
+            "C": "Convocar las bolsas para la provisión temporal de puestos de trabajo, mediante la selección del personal correspondiente de acuerdo con les directrices que al respecto establezca el departamento del Consell competente en materia de función pública.",
+            "D": "Promover, organizar y participar en congresos, seminarios, jornadas de estudio y otras actividades orientadas al intercambio y difusión de conocimientos y experiencias relacionadas con la administración pública, así como promover estudios e investigaciones en el ámbito de los recursos humanos y sobre la mejora e innovación del servicio público y realizar las publicaciones derivadas de todo ello."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 62,
+        "pregunta": "De conformidad con lo establecido en la Ley 4/2021, de 16 de abril, de la Generalitat, de la Función Pública Valenciana, es obligación del personal empleado público en el ejercicio de sus funciones:",
+        "opciones": {
+            "A": "Obedecer las instrucciones profesionales de sus superiores, aunque constituyan una infracción manifiesta del ordenamiento jurídico.",
+            "B": "Procurar la conservación de los documentos que se tramiten, salvo que el procedimiento haya caducado, en cuyo caso se destruirán inmediatamente.",
+            "C": "Observar las normas sobre seguridad y salud laboral.",
+            "D": "Velar por la conservación de los recursos y bienes públicos pudiéndolos utilizar en provecho propio o de personas allegadas."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 63,
+        "pregunta": "De acuerdo con lo establecido en el artículo 144 de la Ley 4/21, de la Función Pública Valenciana, cuando el personal funcionario de carrera de una administración pública, organismo público, consorcio o universidad pública que, en virtud de los procedimientos de transferencias, concurso o libre designación, obtenga destino en otra administración pública, será declarado en su administración pública, organismo público, consorcio o universidad pública de origen en la situación administrativa de:",
+        "opciones": {
+            "A": "Excedencia voluntaria automática.",
+            "B": "Servicio en otras Administraciones Públicas.",
+            "C": "Excedencia voluntaria por interés particular.",
+            "D": "Servicios Especiales"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 64,
+        "pregunta": "De acuerdo con lo establecido en el artículo 156 de la Ley 4/21, de la Función Pública Valenciana, las funcionarias declaradas en la situación de excedencia voluntaria por razón de violencia de género. Señalar la correcta:",
+        "opciones": {
+            "A": "Durante los tres primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, durante los dos primeros, las prestaciones familiares por hija o hijo a cargo.",
+            "B": "Durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, durante los tres primeros, las prestaciones familiares por hija o hijo a cargo.",
+            "C": "Durante los tres primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, durante los tres primeros, las prestaciones familiares por hija o hijo a cargo.",
+            "D": "Durante los tres primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, durante los seis primeros, las prestaciones familiares por hija o hijo a cargo."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 65,
+        "pregunta": "Según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, ¿cuál de las siguientes clasificaciones no aparecerá en el estado de gastos del presupuesto de la Generalitat Valenciana?",
+        "opciones": {
+            "A": "La clasificación orgánica",
+            "B": "La clasificación económica",
+            "C": "La clasificación por programas",
+            "D": "La clasificación financiera"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 66,
+        "pregunta": "Conforme a lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, señale quién aprueba el presupuesto de la Generalitat:",
+        "opciones": {
+            "A": "El Consell",
+            "B": "La vicepresidencia o vicepresidencias del Consell",
+            "C": "Les Corts",
+            "D": "La Conselleria con competencia en materia de hacienda"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 67,
+        "pregunta": "Según lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, señale la respuesta incorrecta. Los presupuestos de la Generalitat determinarán:",
+        "opciones": {
+            "A": "Las obligaciones económicas que, como máximo, prevén liquidar, y los derechos que, como máximo, pueden reconocer, durante el correspondiente ejercicio los sujetos del sector público administrativo.",
+            "B": "Los gastos e ingresos y las operaciones de inversión y financieras a realizar por las entidades del sector público empresarial y fundacional.",
+            "C": "Los objetivos a alcanzar en el ejercicio por cada uno de los gestores responsables de los programas con los recursos que el respectivo presupuesto les asigna.",
+            "D": "La estimación de los beneficios fiscales que afecten a los tributos de la Generalitat y a aquellos cuyo rendimiento se cede por el Estado a la Generalitat, detallando para cada tipo de impuesto el importe de los beneficios fiscales correspondientes a normativa estatal y a normativa de la Comunitat Valenciana."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 68,
+        "pregunta": "De conformidad con lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, la ejecución de los créditos consignados en los presupuestos comprenderá las siguientes operaciones.",
+        "opciones": {
+            "A": "Autorización del pago, compromiso o disposición del gasto, reconocimiento de la obligación, propuesta de pago, ordenación del pago y pago material.",
+            "B": "Retención del gasto, compromiso o disposición del gasto, reconocimiento de la obligación, propuesta de pago, ordenación del pago y pago material.",
+            "C": "Autorización del gasto, compromiso o disposición del gasto, reconocimiento de la obligación, propuesta de pago, ordenación del pago y pago material.",
+            "D": "Autorización del gasto, compromiso o disposición del gasto, reconocimiento del derecho, propuesta de pago, ordenación del pago y pago material."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 69,
+        "pregunta": "De conformidad con lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, en relación con la ordenación de pagos, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Corresponde a las personas titulares de las consellerias la ordenación general de pagos en el ámbito de la Administración de la Generalitat.",
+            "B": "Corresponde al Consell la ordenación general de pagos en el ámbito de la Administración de la Generalitat.",
+            "C": "Corresponde a la persona titular de la conselleria competente en materia de hacienda la ordenación general de pagos en el ámbito de la Administración de la Generalitat.",
+            "D": "Para el resto de sujetos que conforman el sector público administrativo la competencia corresponderá a la persona titular de la conselleria competente en materia de hacienda."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 70,
+        "pregunta": "Indique qué documento contable de los que a continuación se relacionan no es de gastos:",
+        "opciones": {
+            "A": "AD",
+            "B": "OK",
+            "C": "DR",
+            "D": "T"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 71,
+        "pregunta": "Indique cuál de las siguientes afirmaciones es incorrecta:",
+        "opciones": {
+            "A": "El capítulo I del presupuesto de gastos corresponde a gastos de personal",
+            "B": "El capítulo III del presupuesto de gastos corresponde a inversiones reales",
+            "C": "El capítulo IX del presupuesto de gastos corresponde a pasivos financieros",
+            "D": "El capítulo IV del presupuesto de gastos corresponde a transferencias corrientes"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 72,
+        "pregunta": "De conformidad con lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, en relación con las competencias en materia de gestión del gasto, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Corresponde a las personas titulares de las consellerias autorizar los gastos y efectuar la disposición de crédito de los servicios propios a su cargo, salvo los casos reservados por la ley a la competencia del Consell.",
+            "B": "Corresponde a las personas titulares de las consellerias autorizar los gastos y efectuar la disposición de crédito de los servicios propios a su cargo, salvo los casos reservados reglamentariamente a la competencia del Consell.",
+            "C": "Corresponde a las personas titulares de las consellerias autorizar los gastos y efectuar la disposición de crédito de los servicios propios a su cargo, salvo los casos reservados reglamentariamente a la competencia de la persona titular de la conselleria con competencia en materia de hacienda.",
+            "D": "Corresponde a la persona titular de la conselleria con competencia en materia de hacienda autorizar los gastos y efectuar la disposición de crédito de los servicios propios a su cargo, salvo los casos reservados por la ley a la competencia del Consell."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 73,
+        "pregunta": "¿Cuál de estos documentos contables mixtos del presupuesto de ingresos es inverso o es una anulación?",
+        "opciones": {
+            "A": "DD",
+            "B": "RL/",
+            "C": "IK",
+            "D": "DRK"
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 74,
+        "pregunta": "Señale la respuesta correcta: al hacer triple clic en una palabra de un texto escrito con LibreOffice Writer:",
+        "opciones": {
+            "A": "Se selecciona esa palabra.",
+            "B": "Se borra esa palabra.",
+            "C": "Se selecciona esa palabra y toda la frase que la contiene.",
+            "D": "La palabra cambia de mayúsculas a minúsculas, o viceversa."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 75,
+        "pregunta": "Indique qué combinación de teclas en LibreOffice Writer hace que se pueda cortar un texto seleccionado:",
+        "opciones": {
+            "A": "Control + C",
+            "B": "Control + V",
+            "C": "Control + X",
+            "D": "Control +"
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    }
+]
+

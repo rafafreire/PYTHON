@@ -1,0 +1,902 @@
+[
+    {
+        "numero": 1,
+        "pregunta": "De conformidad con lo dispuesto en el artículo 13 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, donde se recogen los derechos de las personas en sus relaciones con las Administraciones Públicas, señale cuál de los siguientes derechos es incorrecto:",
+        "opciones": {
+            "A": "A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+            "B": "A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+            "C": "A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.",
+            "D": "A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 2,
+        "pregunta": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, señale cuál de los siguientes enunciados es correcto:",
+        "opciones": {
+            "A": "Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración inferior a veinticuatro horas, en cuyo caso se expresarán en días.",
+            "B": "Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde aquel en que se produzca la estimación o la desestimación por silencio administrativo.",
+            "C": "El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento. Si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el primer día del mes siguiente.",
+            "D": "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 3,
+        "pregunta": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, señale cuál de los siguientes enunciados es incorrecto:",
+        "opciones": {
+            "A": "La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición del órgano instructor una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.",
+            "B": "La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares, así como a aquellos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.",
+            "C": "Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate. En ningún caso podrá ser objeto de ampliación un plazo ya vencido.",
+            "D": "Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 4,
+        "pregunta": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los actos de las administraciones públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que (señale la respuesta incorrecta):",
+        "opciones": {
+            "A": "Se produzca la suspensión de la ejecución del acto.",
+            "B": "Una disposición establezca lo contrario.",
+            "C": "Se trate de una resolución de un procedimiento de responsabilidad patrimonial contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+            "D": "Se necesite aprobación o autorización superior."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 5,
+        "pregunta": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, señale cuál de los siguientes enunciados es correcto:",
+        "opciones": {
+            "A": "Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+            "B": "Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.",
+            "C": "Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de dieciséis años que se encuentre en el domicilio y haga constar su identidad.",
+            "D": "Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el boletín oficial de la comunidad autónoma o de la provincia."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 6,
+        "pregunta": "De conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, señale el enunciado correcto:",
+        "opciones": {
+            "A": "Son anulables las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas recogidas en el artículo 47.",
+            "B": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en esta Ley.",
+            "C": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se notifiquen, salvo que en ellos se disponga otra cosa.",
+            "D": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 7,
+        "pregunta": "Según el Capítulo III del Título III de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se produce la nulidad de pleno derecho en los actos de las Administraciones Públicas que:",
+        "opciones": {
+            "A": "Incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+            "B": "Son dictados por órgano competente por razón de la materia.",
+            "C": "Lesionen los derechos y libertades susceptibles de amparo constitucional.",
+            "D": "Que no vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 8,
+        "pregunta": "De acuerdo con el artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, un acto que incurre en defecto de forma determinará:",
+        "opciones": {
+            "A": "La nulidad de pleno derecho, en todo caso.",
+            "B": "La anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+            "C": "La anulabilidad cuando el acto no carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+            "D": "La nulidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 9,
+        "pregunta": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la figura jurídica mediante la cual \"los actos nulos o anulables que contengan elementos constitutivos de otro distinto producirán los efectos de éste\", se denomina:",
+        "opciones": {
+            "A": "Conversión de actos viciados.",
+            "B": "Conservación de actos y trámites.",
+            "C": "Convalidación.",
+            "D": "Anulación del acto."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 10,
+        "pregunta": "Según el artículo 53 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto a los derechos de los interesados en el procedimiento administrativo, cuál de los siguientes derechos no es correcto:",
+        "opciones": {
+            "A": "A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+            "B": "A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario. En caso de que, excepcionalmente, deban presentar un documento original, tendrán derecho a obtener una copia autenticada de éste.",
+            "C": "A presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.",
+            "D": "A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 11,
+        "pregunta": "Según el artículo 56 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, indique la respuesta correcta:",
+        "opciones": {
+            "A": "Iniciado el procedimiento, el órgano administrativo competente para resolver podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.",
+            "B": "Instruido el procedimiento, el órgano administrativo competente para resolver podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.",
+            "C": "Iniciado el procedimiento, el órgano administrativo competente para instruir podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.",
+            "D": "Iniciado el procedimiento, el órgano administrativo competente para resolver podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la instrucción que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 12,
+        "pregunta": "Según el artículo 59 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto del inicio del procedimiento por propia iniciativa, indique la respuesta correcta:",
+        "opciones": {
+            "A": "Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de instrucción.",
+            "B": "Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de resolución.",
+            "C": "Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de revisión.",
+            "D": "Se entiende por propia iniciativa, la actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 13,
+        "pregunta": "Según el artículo 109 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto a la revocación de actos, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de caducidad, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+            "B": "Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+            "C": "Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación constituya dispensa o exención no permitida por las leyes, y sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+            "D": "Las Administraciones Públicas podrán revocar, mientras haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 14,
+        "pregunta": "Según el artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto al fin de la vía administrativa, señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "Ponen fin a la vía administrativa, las resoluciones de los recursos de alzada.",
+            "B": "Ponen fin a la vía administrativa, las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que un reglamento establezca lo contrario.",
+            "C": "Ponen fin a la vía administrativa, los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.",
+            "D": "Ponen fin a la vía administrativa, la resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 15,
+        "pregunta": "Según el artículo 106 de la Ley 39/2015 de Procedimiento Administrativo común de las administraciones públicas, señale la respuesta correcta en relación con los procedimientos de revisión de oficio de disposiciones y actos nulos:",
+        "opciones": {
+            "A": "Cuando el procedimiento se hubiera iniciado de oficio, el transcurso de tres meses desde el inicio sin dictarse resolución producirá la caducidad del mismo.",
+            "B": "Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo.",
+            "C": "Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución, se podrá entender la misma desestimada por silencio administrativo.",
+            "D": "Cuando el procedimiento se hubiera iniciado de oficio, el transcurso de tres meses desde su inicio sin dictarse resolución, se podrá entender la misma desestimada por silencio administrativo."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 16,
+        "pregunta": "Indique la respuesta correcta respecto a la competencia, según lo dispuesto en el artículo 8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+        "opciones": {
+            "A": "La competencia es renunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación.",
+            "B": "La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia suponen alteración de la titularidad de la competencia, aunque no de los elementos determinantes de su ejercicio que en cada caso se prevén.",
+            "C": "La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.",
+            "D": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos superiores competentes por razón de la materia y del territorio."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 17,
+        "pregunta": "Indique la respuesta correcta respecto a la delegación de firma, según artículo 12 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+        "opciones": {
+            "A": "Los titulares de los órganos administrativos podrán, en materias que no sean de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que no dependan de ellos, dentro de los límites señalados en el artículo 9.",
+            "B": "La delegación de firma alterará la competencia del órgano delegante y para su validez será necesaria su publicación.",
+            "C": "La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
+            "D": "En las resoluciones y actos que se firmen por delegación no es necesario constar esta circunstancia ni la autoridad de procedencia."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 18,
+        "pregunta": "Indique la respuesta correcta respecto a la encomienda de gestión, según lo dispuesto en el artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+        "opciones": {
+            "A": "La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades de Derecho Público de la misma o de distinta Administración, siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño.",
+            "B": "Las encomiendas de gestión podrán tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público. En tal caso, su naturaleza y régimen jurídico no se ajustará a lo previsto en ésta.",
+            "C": "La encomienda de gestión supone cesión de la titularidad de la competencia y de los elementos sustantivos de su ejercicio, no siendo responsabilidad del órgano o Entidad encomendante dictar cuantos actos o resoluciones de carácter jurídico den soporte o en los que se integre la concreta actividad material objeto de encomienda.",
+            "D": "En ningún caso, la Entidad u órgano encomendado tendrá la condición de encargado del tratamiento de los datos de carácter personal a los que pudiera tener acceso en ejecución de la encomienda de gestión, siéndole de aplicación lo dispuesto en la normativa de protección de datos de carácter personal."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 19,
+        "pregunta": "La Ley 9/2017, de 8 de noviembre, de contratos del sector público tiene como finalidad:",
+        "opciones": {
+            "A": "Garantizar que la contratación se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores.",
+            "B": "Asegurar, en conexión con el principio de estabilidad presupuestaria y control de los ingresos, una eficiente utilización de los fondos.",
+            "C": "Asegurar una eficiente utilización de los fondos, exclusivamente, mediante la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.",
+            "D": "Asegurar que, en toda contratación pública, se incorporen de manera transversal y progresiva, criterios sociales y medioambientales."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 20,
+        "pregunta": "De conformidad con la delimitación de los tipos contractuales que establece la Ley 9/2017, de 8 de noviembre, de contratos del sector público, la adquisición de un programa de ordenador a medida se calificará como un contrato:",
+        "opciones": {
+            "A": "De suministros, en todo caso.",
+            "B": "De servicios.",
+            "C": "De concesión de servicios, por su finalidad.",
+            "D": "Administrativo especial, ya que se trata de un encargo."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 21,
+        "pregunta": "De acuerdo con la Ley 9/2017, de 8 de noviembre, de contratos del sector público, es cierto que los partidos políticos:",
+        "opciones": {
+            "A": "Deberán aprobar unas instrucciones internas en materia de contratación.",
+            "B": "En los contratos sujetos a regulación armonizada deberán aplicar las normas de contratación establecidas en la ley.",
+            "C": "En todos los contratos deberán respetar, entre otros, el principio de integridad.",
+            "D": "Las instrucciones internas en materia de contratación deberán publicarse en el BOE."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 22,
+        "pregunta": "De acuerdo con el tenor literal del artículo 1 del Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administración Electrónica de la Comunitat Valenciana, el objeto del presente decreto es la regulación del régimen jurídico de la utilización por la Administración de la Generalitat de los medios:",
+        "opciones": {
+            "A": "Electrónicos, informáticos y telemáticos en el desarrollo de su actividad administrativa.",
+            "B": "Electrónicos, informáticos, digitales y generales en el desarrollo de su actividad administrativa.",
+            "C": "Electrónicos, informáticos y tecnológicos en el desarrollo de su actividad Administrativa.",
+            "D": "Electrónicos, automatizados y tecnológicos en el desarrollo de su actividad administrativa."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 23,
+        "pregunta": "Conforme al Decreto 220/2014, de 12 de diciembre, del Consell, por el que se aprueba el Reglamento de Administración Electrónica de la Comunitat Valenciana indique la respuesta correcta respecto al tablón de anuncios y edictos electrónico de la Generalitat:",
+        "opciones": {
+            "A": "La publicación en el tablón de anuncios y edictos electrónico no sustituirá a la publicación en el tablón de anuncios o edictos convencional, no obstante, se garantizará la igualdad de acceso electrónico a su contenido y no se precisará de identificación alguna.",
+            "B": "Si existe publicación convencional, esta prevalecerá sobre la publicación en el tablón de anuncios y edictos electrónico.",
+            "C": "La titularidad del tablón de anuncios y edictos electrónico de la Generalitat es única.",
+            "D": "Lo dispuesto en este Decreto, en cualquier caso, afectará a las publicaciones que se publiquen de actos y comunicaciones que deban realizarse en los tablones de anuncios o edictos de otras administraciones públicas."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 24,
+        "pregunta": "Conforme al literal del artículo 7.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea:",
+        "opciones": {
+            "A": "Mayor de 13 años.",
+            "B": "Mayor de 14 años.",
+            "C": "Mayor de 18 años.",
+            "D": "Mayor de 16 años."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 25,
+        "pregunta": "Conforme a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, indique la respuesta correcta:",
+        "opciones": {
+            "A": "La Presidencia y el Adjunto de la Agencia Española de Protección de Datos serán nombrados por el Consejo de Ministros por Orden Ministerial.",
+            "B": "La Agencia Española de Protección de datos se relaciona con el Gobierno a través del Ministerio del Interior.",
+            "C": "La Agencia Española de Protección de Datos es una autoridad administrativa independiente de ámbito estatal, de las previstas en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, con personalidad jurídica y plena capacidad pública y privada, que actúa con plena independencia de los poderes públicos en el ejercicio de sus funciones.",
+            "D": "La Agencia Española de Protección de Datos es una autoridad administrativa independiente de ámbito estatal, de las previstas en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, con personalidad jurídica y plena capacidad pública, que actúa en dependencia de los poderes públicos en el ejercicio de sus funciones."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 26,
+        "pregunta": "Conforme al artículo 7 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, corresponde al Consell:",
+        "opciones": {
+            "A": "Otorgar los títulos de personal funcionario de la Generalitat.",
+            "B": "Aprobar las relaciones de puestos de trabajo y otros instrumentos complementarios de gestión de la Administración de la Generalitat.",
+            "C": "Acordar la separación del servicio del personal funcionario de la Generalitat.",
+            "D": "Resolver las jubilaciones del personal de la Administración de la Generalitat."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 27,
+        "pregunta": "Conforme al artículo 1 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, el objeto de la presente ley es:",
+        "opciones": {
+            "A": "La ordenación y regulación de la función pública valenciana, así como de sus instrumentos de gestión y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d'Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal.",
+            "B": "La ordenación y gestión de la función pública valenciana, así como de sus instrumentos de organización y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d'Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal.",
+            "C": "La organización y gestión de la función pública valenciana, así como de sus instrumentos de ordenación y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d'Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal.",
+            "D": "La clasificación y gestión de la función pública valenciana, así como de sus instrumentos de organización y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d'Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 28,
+        "pregunta": "Conforme al artículo 6 de la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, entre los órganos ejecutivos competentes en materia de función pública, no se encuentra:",
+        "opciones": {
+            "A": "El Consell.",
+            "B": "El Consell Interdepartamental de Retribucions.",
+            "C": "El director o directora general competente en materia de función pública.",
+            "D": "La consellera o el conseller competente en materia de función pública."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 29,
+        "pregunta": "De acuerdo con el artículo 2.3 de la Ley 4/2015 de 16 de abril, de la Función Pública Valenciana el personal empleado público, en el desarrollo de sus funciones, para cumplir los objetivos asignados actuará de acuerdo con los principios de (indique la respuesta incorrecta):",
+        "opciones": {
+            "A": "Imparcialidad.",
+            "B": "Organización.",
+            "C": "Buena fe.",
+            "D": "Profesionalidad."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 30,
+        "pregunta": "En relación con la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, indique la respuesta correcta:",
+        "opciones": {
+            "A": "La pérdida de dos grados en el sistema de carrera profesional y la privación del derecho a ser evaluado para el ascenso de grado, por un periodo de hasta un año, son algunas de las sanciones que pueden imponerse por la comisión de faltas graves.",
+            "B": "El personal empleado público que se encuentre en situación administrativa distinta a la de servicio activo podrá incurrir en responsabilidad disciplinaria por las faltas que, en su caso, pueda cometer dentro de su respectiva situación administrativa.",
+            "C": "El procedimiento disciplinario deberá ser resuelto y notificarse la resolución que proceda a la persona interesada, en el plazo máximo de seis meses desde su iniciación.",
+            "D": "En el procedimiento disciplinario, el periodo de información y actuaciones previas no podrá tener una duración superior a 15 días."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 31,
+        "pregunta": "En relación con la Ley 4/2021, de 16 de abril, de la Función Pública Valenciana, indique la respuesta correcta:",
+        "opciones": {
+            "A": "Las sanciones impuestas por faltas muy graves prescribirán a los 2 años.",
+            "B": "Podrán ser objeto de cancelación las anotaciones realizadas en el Registro de Personal de las sanciones de separación del servicio del personal funcionario de carrera o revocación del nombramiento del personal funcionario interino.",
+            "C": "Cuando no sea posible el cumplimiento de la sanción en el momento de dictarse la resolución por hallarse en una situación que lo impida, esta se hará efectiva cuando el cambio de situación lo permita, salvo que haya transcurrido el plazo de prescripción.",
+            "D": "Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad, no se suspenderá su tramitación, pero se pondrá en conocimiento del Ministerio Fiscal."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 32,
+        "pregunta": "En relación con la Ley 4/2021 de 16 de abril, de la Función Pública Valenciana, indique la respuesta correcta:",
+        "opciones": {
+            "A": "El personal funcionario de carrera en situación administrativa distinta a la de servicio activo podrá cambiar de situación administrativa siempre que reúna los requisitos exigidos en cada caso, sin necesidad de reingreso previo al servicio activo.",
+            "B": "La funcionaria en excedencia voluntaria por razón de violencia de género, durante los seis primeros meses, tendrá derecho a percibir las retribuciones íntegras y, en su caso, durante los tres primeros, las prestaciones familiares por hija o hijo a cargo.",
+            "C": "El personal funcionario en situación de excedencia voluntaria por cuidado de familiares no podrá participar en los cursos de formación que organice la Administración.",
+            "D": "El tiempo de permanencia en la situación de excedencia voluntaria por agrupación familiar será computable a efectos de promoción profesional, antigüedad y derechos en el Régimen de Seguridad Social que sea aplicable."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 33,
+        "pregunta": "En relación con la Ley 4/2021 de 16 de abril, de la Función Pública Valenciana, indique la respuesta correcta:",
+        "opciones": {
+            "A": "El personal declarado en la situación administrativa de excedencia forzosa tiene derecho a percibir las retribuciones de carácter básico y las retribuciones complementarias vinculadas a la carrera administrativa y al puesto de trabajo.",
+            "B": "El personal funcionario declarado en la situación administrativa de excedencia forzosa tiene derecho a percibir las retribuciones básicas, el complemento de carrera, el nivel competencial adquirido o en proceso de reconocimiento si no se tuviera ninguno, así como el cincuenta por ciento del componente de desempeño del complemento del puesto de trabajo.",
+            "C": "El personal declarado en la situación administrativa de excedencia forzosa tiene derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hija o hijo a cargo.",
+            "D": "El puesto de trabajo obtenido con destino definitivo se reservará durante los dos primeros años de duración de la excedencia voluntaria por cuidado de familiares."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 34,
+        "pregunta": "De los documentos que se relacionan a continuación, según la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, cuál debe acompañar al proyecto de ley de presupuestos de la Generalitat:",
+        "opciones": {
+            "A": "Informe de impacto de género.",
+            "B": "Memoria de los beneficios no fiscales que afecten a los tributos de la Generalitat.",
+            "C": "Distribución de los ingresos en programas por objetivos.",
+            "D": "Estados sin consolidar de los presupuestos."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 35,
+        "pregunta": "De acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, señale la respuesta incorrecta en relación con los documentos que se deben remitir a Les Corts acompañando el proyecto de ley de presupuestos:",
+        "opciones": {
+            "A": "Detalle de las plantillas de la Administración de la Generalitat y organismos autónomos, adecuada a la estructura orgánica.",
+            "B": "La liquidación que se prevé efectuar en el presupuesto presentado y un estado de ejecución del vigente.",
+            "C": "Estados consolidados de los presupuestos.",
+            "D": "Memoria explicativa del articulado del proyecto de ley."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 36,
+        "pregunta": "De acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, ¿quién elaborará el anteproyecto del presupuesto de ingresos de la Administración de la Generalitat?:",
+        "opciones": {
+            "A": "El Consell.",
+            "B": "La conselleria respectiva.",
+            "C": "Les Corts.",
+            "D": "La conselleria con competencias en materia de hacienda."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 37,
+        "pregunta": "De conformidad con lo establecido en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, señale a quién corresponde la ordenación general de pagos en el ámbito de la Administración de la Generalitat:",
+        "opciones": {
+            "A": "A los habilitados de cada conselleria.",
+            "B": "Al titular de la conselleria competente en materia de hacienda.",
+            "C": "A las Subsecretarías de cada conselleria.",
+            "D": "A las personas titulares de cada conselleria."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 38,
+        "pregunta": "Señale la respuesta correcta de acuerdo con lo dispuesto en la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones:",
+        "opciones": {
+            "A": "El compromiso o disposición del gasto es el acto mediante el que se declara la existencia de un crédito exigible contra la Hacienda Pública de la Generalitat.",
+            "B": "El compromiso o disposición del gasto inicia el procedimiento de ejecución del gasto.",
+            "C": "La aprobación del gasto es el acto por el que se autoriza la realización de un gasto por cuantía cierta o aproximada, reservándose, a tal fin, la totalidad o una parte de un crédito presupuestario.",
+            "D": "La aprobación del gasto es un acto con relevancia jurídica para terceros."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 39,
+        "pregunta": "De acuerdo con la Ley 1/2015, de 6 de febrero, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, las fases de gestión del presupuesto de ingresos son las siguientes:",
+        "opciones": {
+            "A": "Compromiso de ingreso, reconocimiento del derecho y propuesta de ingreso.",
+            "B": "Reconocimiento del derecho e ingreso material.",
+            "C": "Compromiso de ingreso, reconocimiento del derecho e ingreso material.",
+            "D": "Reconocimiento del derecho y propuesta de ingreso."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 40,
+        "pregunta": "El Decreto 77/2019, de 7 de junio, del Consell, de regulación del procedimiento de gestión del presupuesto de la Generalitat, establece que el crédito del Capítulo VI se gestionará a través de:",
+        "opciones": {
+            "A": "Los proyectos incluidos en el anexo de inversiones reales.",
+            "B": "Las líneas incluidas en el anexo de inversiones reales.",
+            "C": "Las líneas incluidas en el anexo de subvenciones corrientes.",
+            "D": "Las líneas incluidas en el anexo de subvenciones de capital."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 41,
+        "pregunta": "El Decreto 77/2019, de 7 de junio, del Consell, de regulación del procedimiento de gestión del presupuesto de la Generalitat, es de aplicación:",
+        "opciones": {
+            "A": "A la Administración de la Generalitat.",
+            "B": "A la Administración de la Generalitat y a sus organismos autónomos.",
+            "C": "A la Administración de la Generalitat y a los sujetos y entidades que conforman el sector público instrumental de la Generalitat.",
+            "D": "A la Presidencia de la Generalitat y a las distintas consellerias."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 42,
+        "pregunta": "De acuerdo con el Decreto 77/2019, de 7 de junio, del Consell, de regulación del procedimiento de gestión del presupuesto de la Generalitat, las retribuciones del personal objeto de contratación temporal o nombramiento interino para sustituir los procesos de riesgo durante el embarazo, se imputarán al concepto:",
+        "opciones": {
+            "A": "142.",
+            "B": "143.",
+            "C": "145.",
+            "D": "146."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 43,
+        "pregunta": "En relación a LibreOffice Writer ¿cuál de las siguientes afirmaciones es correcta?:",
+        "opciones": {
+            "A": "La combinación de teclas Ctrl+W cierra la ventana.",
+            "B": "La combinación de teclas Ctrl+C corta el texto seleccionado.",
+            "C": "La combinación de teclas Ctrl+E selecciona el texto de un párrafo.",
+            "D": "La combinación de teclas Ctrl+B, muestra el diálogo de Buscar y Reemplazar."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 44,
+        "pregunta": "¿Cuál de los siguientes resultados proporcionará la operación de LibreOffice Calc =CONTARA(A1:A6) situada en una celda?",
+        "opciones": {
+            "A": "Sumará los valores de las celdas A1 hasta la A6.",
+            "B": "Sumará los valores de las celdas A1 y A6.",
+            "C": "Contará cuántas celdas entre la A1 y la A6 contienen valores.",
+            "D": "Contará cuántas celdas hay entre A1 y A6."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 45,
+        "pregunta": "Trabajando en LibreOffice Calc ¿cuál de las siguientes fórmulas escribiremos para obtener el producto del valor de la celda B2 por el valor de la celda B3?",
+        "opciones": {
+            "A": "PRODUCTO(B2:B3)",
+            "B": "=B2*B3",
+            "C": "B2*B3",
+            "D": "=B2*B3"
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 46,
+        "pregunta": "La Constitución Española de 1978 garantiza:",
+        "opciones": {
+            "A": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+            "B": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+            "C": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+            "D": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la retroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 47,
+        "pregunta": "Según la Constitución Española de 1978, todos tienen derecho a sindicarse libremente, si bien:",
+        "opciones": {
+            "A": "La Ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.",
+            "B": "La Ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales nacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.",
+            "C": "La Ley deberá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.",
+            "D": "La Ley no podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. La libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 48,
+        "pregunta": "De acuerdo con la Constitución Española de 1978, indique la respuesta correcta:",
+        "opciones": {
+            "A": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y capacidad que, en ningún caso, tendrá alcance confiscatorio.",
+            "B": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en todo caso, tendrá alcance confiscatorio.",
+            "C": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y capacidad que, en todo caso, tendrá alcance confiscatorio.",
+            "D": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 49,
+        "pregunta": "Según la Constitución Española de 1978, indique la respuesta correcta:",
+        "opciones": {
+            "A": "Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.",
+            "B": "Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrará el Congreso de los Diputados, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.",
+            "C": "Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.",
+            "D": "Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre. En su defecto, lo nombrarán las Cortes Generales, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 50,
+        "pregunta": "Según la Constitución Española de 1978, indique la respuesta correcta:",
+        "opciones": {
+            "A": "Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+            "B": "Las elecciones tendrán lugar entre los treinta días y setenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+            "C": "Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los treinta días siguientes a la celebración de las elecciones.",
+            "D": "Las elecciones tendrán lugar entre los treinta días y setenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los treinta días siguientes a la celebración de las elecciones."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 51,
+        "pregunta": "Según la Constitución Española de 1978, aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, su Presidente dará inmediata cuenta del mismo al Presidente del Senado, el cual lo someterá a la deliberación de éste. Indique la respuesta correcta:",
+        "opciones": {
+            "A": "El Senado en el plazo de dos meses, a partir del día siguiente de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.",
+            "B": "El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos tres meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.",
+            "C": "El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría simple. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos tres meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.",
+            "D": "El Senado en el plazo de dos meses, a partir del día de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo. El veto deberá ser aprobado por mayoría absoluta. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos dos meses desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 52,
+        "pregunta": "Según la Constitución Española de 1978, el Gobierno se compone:",
+        "opciones": {
+            "A": "Exclusivamente del Presidente y los Vicepresidentes.",
+            "B": "Exclusivamente del Presidente y los Ministros.",
+            "C": "Del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+            "D": "Del Presidente, de los Vicepresidentes, en todo caso, de los Ministros y de los demás miembros que establezca la ley."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 53,
+        "pregunta": "De acuerdo con la Constitución Española de 1978, el Gobierno responde en su gestión política:",
+        "opciones": {
+            "A": "Mancomunadamente ante las Cortes Generales.",
+            "B": "Subsidiariamente ante el Senado.",
+            "C": "Solidariamente ante el Congreso de los Diputados.",
+            "D": "No responde en ningún caso solidariamente."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 54,
+        "pregunta": "Según la Constitución Española de 1978, el Gobierno cesante continuará en funciones:",
+        "opciones": {
+            "A": "Sin límite de tiempo.",
+            "B": "Hasta la toma de posesión del nuevo Gobierno.",
+            "C": "Hasta la celebración de nuevas elecciones.",
+            "D": "No puede continuar en funciones en ningún caso."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 55,
+        "pregunta": "Según establece la Constitución Española de 1978, el Ministerio Fiscal:",
+        "opciones": {
+            "A": "Tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los españoles y del interés general tutelado por la ley, de oficio o a petición de los interesados.",
+            "B": "Ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación e independencia jerárquica y con sujeción, en todo caso, a los de coordinación e imparcialidad.",
+            "C": "Tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de la Justicia y procurar la satisfacción del interés nacional.",
+            "D": "Ejerce sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 56,
+        "pregunta": "La Constitución Española de 1978, en su título VI, \"Del Poder Judicial\", establece:",
+        "opciones": {
+            "A": "Los ciudadanos podrán ejercer la acción jurídica y participar en la Administración popular mediante la institución del Jurado, en la forma y con respecto a aquellos procesos penales que la ley determina, así como en los Tribunales consuetudinarios y tradicionales.",
+            "B": "Los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia mediante la institución del Jurado, en la forma y con respecto a todo tipo de procesos que la ley determina, así como en los Tribunales consuetudinarios y tradicionales.",
+            "C": "La policía judicial depende de los Jueces, de los Tribunales y del Ministerio Fiscal en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, en los términos que la ley establezca.",
+            "D": "La policía judicial depende de los Jueces, de los Tribunales y del Ministerio del Interior en sus funciones de averiguación del delito y descubrimiento y aseguramiento del detenido, en los términos que la ley establezca."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 57,
+        "pregunta": "Según el Título IX de la Constitución Española de 1978, señale la respuesta correcta:",
+        "opciones": {
+            "A": "Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.",
+            "B": "El Congreso podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a cinco meses.",
+            "C": "Los miembros del Tribunal Constitucional serán designados por un período de doce años y se renovarán por terceras partes cada tres.",
+            "D": "Las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado con los votos particulares, si los hubiere. Tienen el valor de cosa juzgada a partir del día de su publicación y no cabe recurso alguno contra ellas."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 58,
+        "pregunta": "Según lo establecido en el Título VIII de la Constitución Española de 1978, las Cortes Generales, mediante ley orgánica, podrán, por motivos de interés nacional:",
+        "opciones": {
+            "A": "Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial supere el de una provincia y reúna las condiciones del apartado 1 del artículo 143.",
+            "B": "Autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143.",
+            "C": "Autorizar o acordar, en su caso, un Estatuto de autonomía para territorios que estén integrados en la organización provincial.",
+            "D": "Redactar y aprobar, en su caso, un Estatuto de autonomía para territorios que no estén integrados en la organización provincial."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 59,
+        "pregunta": "De acuerdo con la Constitución Española de 1978, las Comunidades Autónomas podrán asumir competencias en las siguientes materias:",
+        "opciones": {
+            "A": "Los puertos y aeropuertos que desarrollen actividades comerciales.",
+            "B": "Fomento y coordinación general de la investigación científica y técnica.",
+            "C": "Legislación sobre propiedad intelectual e industrial.",
+            "D": "Los montes y aprovechamientos forestales."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 60,
+        "pregunta": "Señale la respuesta correcta, según lo establecido en el Título VIII de la Constitución Española de 1978:",
+        "opciones": {
+            "A": "El Estado se organiza territorialmente en municipios y comarcas, en provincias y en Comunidades Autónomas.",
+            "B": "El Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aún en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general. Corresponde a las Cortes Generales, por mayoría de dos tercios de cada Cámara, la apreciación de esta necesidad.",
+            "C": "Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149.",
+            "D": "Aprobado un proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional de las Cortes Generales, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 61,
+        "pregunta": "De acuerdo con Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana, la Ley Electoral Valenciana garantizará un número mínimo de Diputados por cada circunscripción provincial, indique la respuesta correcta:",
+        "opciones": {
+            "A": "10 diputados.",
+            "B": "15 diputados.",
+            "C": "20 diputados.",
+            "D": "5 diputados."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 62,
+        "pregunta": "De acuerdo con Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana, Les Corts adoptan acuerdos con la presencia, al menos, de:",
+        "opciones": {
+            "A": "Un tercio de los Diputados y Diputadas.",
+            "B": "La mitad más uno de los Diputados y Diputadas.",
+            "C": "Un tercio más uno de los Diputados y Diputadas.",
+            "D": "La mayoría de los grupos parlamentarios."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 63,
+        "pregunta": "De acuerdo con Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunidad Valenciana, el presidente del Tribunal Superior de Justicia de la Comunitat Valenciana será nombrado por el Rey a propuesta de:",
+        "opciones": {
+            "A": "El Consell.",
+            "B": "El Consejo General del Poder Judicial.",
+            "C": "El presidente de la Generalitat.",
+            "D": "La Conselleria de Justicia."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 64,
+        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, al President de la Generalitat, como más alto representante de la Comunitat Valenciana, le corresponden las siguientes funciones. Señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "Designar representante de la Comunitat Valenciana en el Patronato del Archivo de la Corona de Aragón.",
+            "B": "Solicitar de la Administración del Estado, previo acuerdo de les Corts, la transferencia o delegación de competencias previstas en los apartados 2 y 3 del artículo 60 del Estatut d'Autonomia de la Comunitat Valenciana.",
+            "C": "Nombrar los altos cargos de la Comunitat Valenciana que las Leyes determinen.",
+            "D": "Representar a la Comunitat Valenciana en el Comité de las Regiones de la Unión Europea, de conformidad con lo previsto en el artículo 61.3.c) del Estatut d'Autonomia."
+        },
+        "respuesta_correcta": "B",
+        "explicacion": null
+    },
+    {
+        "numero": 65,
+        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, en uso de sus funciones ejecutivas y administrativas, compete al Consell. Señale la respuesta correcta:",
+        "opciones": {
+            "A": "El ejercicio de las facultades que el Estatuto de Autonomía o Ley de Les Corts le atribuya en lo que se refiere a la actividad de las Diputaciones Provinciales y demás entes locales..",
+            "B": "Ejercer la potestad reglamentaria, de acuerdo con la Constitución Española, el Estatut d'Autonomia de la Comunitat Valenciana y las Leyes.",
+            "C": "Proponer a Les Corts la creación de personas jurídicas públicas y privadas o, en su caso, crearlas, para el ejercicio de competencias de la Generalitat.",
+            "D": "Acordar la comparecencia y personación en los recursos y en las cuestiones de inconstitucionalidad que afecten a la Comunitat Valenciana."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 66,
+        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, el President electo comenzará a ejercer sus funciones:",
+        "opciones": {
+            "A": "A partir del día de la publicación en el «Boletin Oficial del Estado y en el <<Diario Oficial de la Comunitat Valenciana de su nombramiento por el Rey.",
+            "B": "A partir del día siguiente de la publicación en el «Boletin Oficial del Estado>>> de su nombramiento por el Rey.",
+            "C": "A partir del día de la publicación en el «Boletin Oficial del Estado>> de su nombramiento por el Rey.",
+            "D": "A partir del día siguiente de la publicación en el «Boletin Oficial del Estado y en el <<<Diario Oficial de la Comunitat Valenciana>> de su nombramiento por el Rey."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 67,
+        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, los consellers como miembros del Consell y Jefes de Departamento tienen las siguientes funciones. Señale la respuesta incorrecta:",
+        "opciones": {
+            "A": "Disponer los gastos propios de los servicios de su conselleria dentro de los límites legales y presupuestarios y la ordenación de pagos correspondientes.",
+            "B": "Ejercer la potestad reglamentaria en las materias propias de su conselleria, en forma de Órdenes de la Conselleria.",
+            "C": "Proponer al Consell, para su aprobación, la estructura y organización de sus respectivas Consellerias.",
+            "D": "Formular motivadamente el proyecto de Presupuesto de la Conselleria."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 68,
+        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, son funciones de los Directores Generales. Señale la respuesta correcta:",
+        "opciones": {
+            "A": "Vigilar, fiscalizar y supervisar el funcionamiento de todas las dependencias a su cargo.",
+            "B": "Elaborar proyectos o planes de actuación y programas de necesidades de la Consellería.",
+            "C": "Resolver los recursos que se interpongan contra las Resoluciones de los Centros Directivos que estén bajo su dependencia y cuyos actos no agoten la vía administrativa.",
+            "D": "Proponer normas generales sobre adquisición de material y cuantas disposiciones afecten al funcionamiento de los servicios."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 69,
+        "pregunta": "Según la Ley 5/1983, de 30 de diciembre, del Consell, ¿ante quien se exigirá la responsabilidad penal y civil del president de la Generalitat y de los miembros del Consell?. Señale la respuesta correcta",
+        "opciones": {
+            "A": "Ante el Tribunal Supremo.",
+            "B": "Ante la Audiencia Nacional.",
+            "C": "Ante el Tribunal Superior de Justicia de la Comunitat Valenciana o, en su caso, ante el Tribunal Supremo.",
+            "D": "Ante el Tribunal Superior de Justicia de la Comunitat Valenciana."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 70,
+        "pregunta": "De conformidad con el Tratado de la Unión europea (TUE), indique la respuesta correcta:",
+        "opciones": {
+            "A": "El ejercicio de las competencias de la Unión se rige por los principios de solidaridad y proporcionalidad.",
+            "B": "En virtud del principio de atribución toda competencia no atribuida a los Estados miembros corresponde a la Unión en los Tratados.",
+            "C": "La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea de 7 de diciembre de 2000, la cual tendrá el mismo valor jurídico que los Tratados.",
+            "D": "En virtud del principio de proporcionalidad, el contenido y la forma de la acción de la Unión podrá exceder de lo necesario para alcanzar los objetivos de los Tratados."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    },
+    {
+        "numero": 71,
+        "pregunta": "En relación con la legislación de la Unión Europea, son instrumentos jurídicos vinculantes:",
+        "opciones": {
+            "A": "Reglamento, Directiva y Decisión.",
+            "B": "Reglamento, Recomendación y Dictamen.",
+            "C": "Directiva, Dictamen y Decisión.",
+            "D": "Directiva, Reglamento y Recomendación."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 72,
+        "pregunta": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, indique cuándo entran en vigor las Directivas publicadas en el DOUE:",
+        "opciones": {
+            "A": "En la fecha que fijen o en su defecto a los 10 días desde su publicación.",
+            "B": "A los 15 días de su publicación.",
+            "C": "A los 30 días de su publicación.",
+            "D": "En la fecha que fijen o en su defecto a los 20 días desde su publicación."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 73,
+        "pregunta": "En el Título Preliminar de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, se articula un principio rector que establece:",
+        "opciones": {
+            "A": "Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.",
+            "B": "Consagrar derechos de las mujeres, exigibles ante las Administraciones Públicas, y así asegurar una atención jurídica integral.",
+            "C": "Garantizar derechos relativos a la asistencia sanitaria para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social.",
+            "D": "Promover la participación de las entidades y asociaciones para fortalecer el marco penal y procesal vigente para asegurar una protección integral."
+        },
+        "respuesta_correcta": "A",
+        "explicacion": null
+    },
+    {
+        "numero": 74,
+        "pregunta": "Según la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en su Título Preliminar, ¿qué artículos de la Constitución Española están citados, y en base a cuáles se desarrolla esta ley?",
+        "opciones": {
+            "A": "Artículos 11.1 y 23 de la Constitución Española.",
+            "B": "Artículos 8.2 y 13 de la Constitución Española.",
+            "C": "Artículos 10.2 y 23 de la Constitución Española.",
+            "D": "Artículos 9.2 y 14 de la Constitución Española."
+        },
+        "respuesta_correcta": "D",
+        "explicacion": null
+    },
+    {
+        "numero": 75,
+        "pregunta": "De acuerdo con el literal del artículo 42 de la Ley 9/2003, de 2 de abril, para la igualdad entre mujeres y hombres, la Generalitat velará, de manera específica, por:",
+        "opciones": {
+            "A": "El cumplimiento del deber de guardar silencio en casos de acoso sexual.",
+            "B": "El cumplimiento de todos los compromisos acordados en las juntas de personal en materia de igualdad.",
+            "C": "El cumplimiento del principio de igualdad y no discriminación en la publicidad en los medios de comunicación social o cualquier otro medio de difusión.",
+            "D": "El cumplimiento del principio de igualdad en los centros de trabajo."
+        },
+        "respuesta_correcta": "C",
+        "explicacion": null
+    }
+]

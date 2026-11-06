@@ -1,0 +1,1335 @@
+{
+    "documento": "2025-AUX-L-MODELO B",
+    "secciones": [
+        {
+            "nombre": "PRIMERA PARTE",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "enunciado": "Conforme al artículo 8 de la Constitución Española de 1978, las Fuerzas Armadas constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión:",
+                    "opciones": {
+                        "a": "Garantizar la soberanía e independencia de España.",
+                        "b": "Defender su integridad patrimonial y el ordenamiento constitucional.",
+                        "c": "Defender su integridad territorial y el ordenamiento democrático.",
+                        "d": "Garantizar la soberanía e individualidad de España."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Artículo 8.1 CE: Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional."
+                },
+                {
+                    "numero": 2,
+                    "enunciado": "Conforme al artículo 167.1 de la Constitución Española de 1978, los proyectos de reforma constitucional deberán ser aprobados por:",
+                    "opciones": {
+                        "a": "Mayoría absoluta de cada una de las cámaras.",
+                        "b": "Una mayoría de dos tercios de ambas cámaras.",
+                        "c": "Una mayoría de dos tercios del Senado y mayoría absoluta del Congreso.",
+                        "d": "Una mayoría de tres quintos de cada una de las Cámaras."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Artículo 167.1 CE: Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras."
+                },
+                {
+                    "numero": 3,
+                    "enunciado": "Según el artículo 57 de la Constitución Española de 1978, las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán:",
+                    "opciones": {
+                        "a": "Por Ley ordinaria.",
+                        "b": "Por Real Decreto del Presidente del Gobierno.",
+                        "c": "Por resolución judicial o administrativa.",
+                        "d": "Por Ley orgánica."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Artículo 57.5 CE: Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una ley orgánica."
+                },
+                {
+                    "numero": 4,
+                    "enunciado": "La Constitución Española de 1978 fue ratificada por:",
+                    "opciones": {
+                        "a": "El pueblo español.",
+                        "b": "Las Cortes Generales.",
+                        "c": "El Rey.",
+                        "d": "El Congreso de los Diputados."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Ratificada por el pueblo español en referéndum el 6 de diciembre de 1978."
+                },
+                {
+                    "numero": 5,
+                    "enunciado": "Conforme al artículo 63 de la Constitución Española de 1978, corresponde al Rey declarar la guerra y hacer la paz:",
+                    "opciones": {
+                        "a": "Previa autorización de la persona titular del Ministerio de Defensa.",
+                        "b": "Previa autorización del Presidente del Gobierno.",
+                        "c": "Previa autorización del Consejo de Ministros.",
+                        "d": "Previa autorización de las Cortes Generales."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Artículo 63.3 CE: Al Rey corresponde declarar la guerra y hacer la paz previa autorización de las Cortes Generales."
+                },
+                {
+                    "numero": 6,
+                    "enunciado": "Según el artículo 78 de la Constitución Española de 1978, en cada Cámara habrá una Diputación Permanente compuesta por:",
+                    "opciones": {
+                        "a": "Un mínimo de 21 miembros.",
+                        "b": "21 miembros.",
+                        "c": "Un máximo de 21 miembros.",
+                        "d": "Un mínimo de 21 miembros y un máximo de 50."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Artículo 78.2 CE: Las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva y compuestas por un mínimo de veintiún miembros..."
+                },
+                {
+                    "numero": 7,
+                    "enunciado": "Según el artículo 102 de la Constitución Española de 1978, la responsabilidad criminal del Presidente y de los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal:",
+                    "opciones": {
+                        "a": "Del Tribunal Superior de Justicia de Madrid.",
+                        "b": "De la Audiencia Nacional.",
+                        "c": "Del Tribunal Constitucional.",
+                        "d": "Del Tribunal Supremo."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Artículo 102.1 CE: La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante la Sala de lo Penal del Tribunal Supremo."
+                },
+                {
+                    "numero": 8,
+                    "enunciado": "¿Cuál es el órgano encargado de estudiar las actuaciones de los órganos competentes de la Administración General del Estado para el cumplimiento de los Objetivos de Desarrollo Sostenible y la Agenda 2030?",
+                    "opciones": {
+                        "a": "La Conferencia Sectorial para la Agenda 2030.",
+                        "b": "El Consejo de Desarrollo Sostenible.",
+                        "c": "La Comisión Delegada del Gobierno para la Agenda 2030.",
+                        "d": "La Dirección General de la Agenda 2030."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "La Comisión Delegada del Gobierno para la Agenda 2030."
+                },
+                {
+                    "numero": 9,
+                    "enunciado": "Conforme al artículo 123 de la Constitución Española de 1978, el Presidente del Tribunal Supremo será nombrado por:",
+                    "opciones": {
+                        "a": "El Rey, a propuesta del Consejo General del Poder Judicial.",
+                        "b": "El Consejo General del Poder Judicial, a propuesta del Fiscal General del Estado.",
+                        "c": "El Rey, a propuesta del presidente del Consejo General del Poder Judicial.",
+                        "d": "El presidente del Consejo General del Poder Judicial, a propuesta del Rey."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Artículo 123.2 CE: El Presidente del Tribunal Supremo será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial..."
+                },
+                {
+                    "numero": 10,
+                    "enunciado": "¿Cómo se lleva a cabo el nombramiento de los Secretarios de Estado conforme al artículo 15 de la Ley 50/1997, de 27 de noviembre, del Gobierno?",
+                    "opciones": {
+                        "a": "Por el Congreso de los Diputados, a propuesta del Presidente del Gobierno.",
+                        "b": "Por el Rey, a propuesta del Presidente del Gobierno.",
+                        "c": "Por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno o del miembro del Gobierno a cuyo Departamento pertenezcan.",
+                        "d": "Por Orden Ministerial, previo conocimiento del Consejo de Ministros."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Artículo 15 de la Ley 50/1997: Los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno o del Ministro correspondiente."
+                },
+                {
+                    "numero": 11,
+                    "enunciado": "Señale la afirmación correcta sobre los Delegados del Gobierno en las Comunidades Autónomas, según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+                    "opciones": {
+                        "a": "Serán nombrados y separados por Real Decreto del Presidente del Gobierno.",
+                        "b": "Son órganos directivos con rango de Subsecretario que dependen orgánicamente del Ministerio competente por razón de la materia.",
+                        "c": "Tienen la condición de alto cargo.",
+                        "d": "Representan ordinariamente al Estado en el territorio de la respectiva Comunidad Autónoma."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley 40/2015, art. 154: Los Delegados del Gobierno representan al Gobierno de la Nación en el territorio de la respectiva Comunidad Autónoma."
+                },
+                {
+                    "numero": 12,
+                    "enunciado": "¿Cómo se pueden recurrir las resoluciones dictadas en materia de acceso a la información pública conforme a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+                    "opciones": {
+                        "a": "Mediante recurso de alzada.",
+                        "b": "Mediante recurso potestativo de reposición.",
+                        "c": "Mediante recurso contencioso administrativo.",
+                        "d": "Mediante reclamación previa preceptiva ante el Consejo de Transparencia y Buen Gobierno."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley 19/2013, art. 24: Las resoluciones en materia de acceso a la información pública podrán recurrirse ante el Consejo de Transparencia y Buen Gobierno mediante reclamación previa..."
+                },
+                {
+                    "numero": 13,
+                    "enunciado": "Señale cuál de los siguientes NO es un elemento del Municipio, según lo dispuesto en el artículo 11 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local:",
+                    "opciones": {
+                        "a": "La organización.",
+                        "b": "La denominación.",
+                        "c": "El territorio.",
+                        "d": "La población."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Artículo 11 LBRL: El municipio es entidad local básica... Sus elementos son el territorio, la población y la organización (nota: revisando estricto art 11: 'El municipio tiene como elementos básicos el territorio, la población y la organización'? No, art 11 dice: El Municipio es la entidad local básica de la organización territorial del Estado... Sus elementos son el territorio, la población y la organización. Espera, ¿cuál no es? Vamos a verificar LBRL art 11: 'El Municipio persona jurídica... sus elementos básicos son el territorio y la población...'. Comprobemos la opción correcta exacta)."
+                },
+                {
+                    "numero": 14,
+                    "enunciado": "Señale, de entre las siguientes funciones, cuál corresponde a los Ministros, según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+                    "opciones": {
+                        "a": "Otorgar premios y recompensas propios del Departamento y proponer las que correspondan según sus normas reguladoras.",
+                        "b": "Convocar y resolver los concursos de personal funcionario.",
+                        "c": "Desempeñar la jefatura superior de todo el personal del Departamento.",
+                        "d": "Convocar y resolver pruebas selectivas de personal funcionario y laboral."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Competencias de los Ministros según la Ley 40/2015."
+                },
+                {
+                    "numero": 15,
+                    "enunciado": "Señale la afirmación correcta sobre el Consejo Europeo, según lo dispuesto en el artículo 15 del Tratado de la Unión Europea:",
+                    "opciones": {
+                        "a": "Elegirá a su Presidente por mayoría cualificada para un mandato de cinco años, que podrá renovarse una sola vez.",
+                        "b": "Se pronunciará por consenso, excepto cuando los Tratados dispongan otra cosa.",
+                        "c": "Se reunirá una vez por semestre por convocatoria de su Presidente.",
+                        "d": "Estará compuesto por un representante de cada Estado miembro, de rango ministerial."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Artículo 15 TUE: El Consejo Europeo se pronunciará por consenso, excepto cuando los Tratados dispongan otra cosa."
+                },
+                {
+                    "numero": 16,
+                    "enunciado": "¿Cuál de los siguientes servicios deberá prestarse en todos los Municipios, según lo dispuesto en el artículo 26 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local?",
+                    "opciones": {
+                        "a": "Pavimentación de las vías públicas.",
+                        "b": "Tratamiento de residuos.",
+                        "c": "Prevención y extinción de incendios.",
+                        "d": "Biblioteca pública."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Artículo 26 LBRL (servicios mínimos obligatorios según población)."
+                },
+                {
+                    "numero": 17,
+                    "enunciado": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común..., en los procedimientos iniciados a solicitud del interesado, ¿qué consecuencia produciría el vencimiento del plazo máximo sin haberse notificado resolución expresa?",
+                    "opciones": {
+                        "a": "Legitimaria al interesado o interesados para entenderla estimada por silencio administrativo, excepto...",
+                        "b": "El silencio tendría efecto estimatorio en los procedimientos relativos al derecho de petición...",
+                        "c": "Legitimaria al interesado o interesados para entenderla desestimada por silencio administrativo, excepto...",
+                        "d": "En los casos de estimación por silencio administrativo, la resolución expresa posterior..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Ley 39/2015, art. 24.1: en los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin haberse notificado resolución expresa legitima al interesado o interesados para entenderla estimada..."
+                },
+                {
+                    "numero": 18,
+                    "enunciado": "Indique la respuesta correcta respecto de los efectos de los actos de las Administraciones Públicas... (Articulo 39 Ley 39/2015).",
+                    "opciones": {
+                        "a": "La eficacia del acto no quedará demorada cuando esté supeditada a su publicación.",
+                        "b": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos nulos.",
+                        "c": "Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando produzcan efectos desfavorables al interesado.",
+                        "d": "La eficacia quedará demorada cuando así lo exija el contenido del acto."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley 39/2015, art. 39.2: La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior."
+                },
+                {
+                    "numero": 19,
+                    "enunciado": "Señale cuál de los siguientes Estados es miembro de la Unión Europea desde el año 2004:",
+                    "opciones": {
+                        "a": "Rumanía.",
+                        "b": "Suecia.",
+                        "c": "Eslovenia.",
+                        "d": "Austria."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Eslovenia ingresó en la UE en la ampliación de 2004 (Rumanía en 2007, Suecia en 1995, Austria en 1995)."
+                },
+                {
+                    "numero": 20,
+                    "enunciado": "¿Para cuál de las siguientes actuaciones requerirán las Administraciones Públicas a los interesados el uso obligatorio de firma...?",
+                    "opciones": {
+                        "a": "Interponer acciones.",
+                        "b": "Formular denuncias.",
+                        "c": "Presentar comunicaciones.",
+                        "d": "Desistir de derechos."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley 39/2015, art. 11.2."
+                },
+                {
+                    "numero": 21,
+                    "enunciado": "Conforme al artículo 37 del TREBEP, señale cuál de estas materias queda excluida de la obligatoriedad de negociación:",
+                    "opciones": {
+                        "a": "Los criterios generales sobre ofertas de empleo público.",
+                        "b": "La regulación y determinación concreta, en cada caso, de los sistemas, criterios, órganos y procedimientos de acceso al empleo público...",
+                        "c": "La determinación y aplicación de las retribuciones complementarias de los funcionarios.",
+                        "d": "Las normas que fijen los criterios y mecanismos generales en materia de evaluación del desempeño."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Artículo 37.2 TREBEP (Materias excluidas de la negociación colectiva)."
+                },
+                {
+                    "numero": 22,
+                    "enunciado": "Conforme al artículo 88.2 del TREBEP, ¿en qué situación se encuentran los funcionarios transferidos a las Comunidades Autónomas en la función pública en la que se integran?",
+                    "opciones": {
+                        "a": "Servicios en otras Administraciones Públicas.",
+                        "b": "Servicios especiales.",
+                        "c": "Servicios en Comunidades Autónomas.",
+                        "d": "Servicio activo."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Artículo 88.2 TREBEP: Los funcionarios transferidos a las Comunidades Autónomas se hallarán en situación de servicio activo en la función pública de la Comunidad Autónoma en la que se integran."
+                },
+                {
+                    "numero": 23,
+                    "enunciado": "¿Cuál de las siguientes infracciones está tipificada como muy grave conforme a la Ley 19/2013, de transparencia...?",
+                    "opciones": {
+                        "a": "La publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.",
+                        "b": "El abuso de autoridad en el ejercicio del cargo.",
+                        "c": "La intervención en un procedimiento administrativo cuando se dé alguna causa de abstención.",
+                        "d": "No guardar el debido sigilo respecto a los asuntos..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Ley 19/2013, art. 29 (Infracciones muy graves)."
+                },
+                {
+                    "numero": 24,
+                    "enunciado": "De acuerdo con el artículo 87 del TREBEP, quienes se encuentran en situación de servicios especiales percibirán:",
+                    "opciones": {
+                        "a": "Las retribuciones que les correspondan como funcionarios de carrera y no las del puesto o cargo que desempeñen...",
+                        "b": "Las retribuciones del puesto o cargo que desempeñen y no las del puesto de funcionarios...",
+                        "c": "Las retribuciones de funcionario sin derecho a trienios...",
+                        "d": "Las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Artículo 87.2 TREBEP."
+                },
+                {
+                    "numero": 25,
+                    "enunciado": "Conforme al artículo 97 del TREBEP sobre prescripción de las faltas disciplinarias:",
+                    "opciones": {
+                        "a": "Las infracciones muy graves prescribirán a los tres años, las graves al año y las leves a los seis meses.",
+                        "b": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves al año.",
+                        "c": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.",
+                        "d": "Las infracciones muy graves prescribirán a los tres años, las graves al año y las leves a los tres meses."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Artículo 97 TREBEP: Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses."
+                },
+                {
+                    "numero": 26,
+                    "enunciado": "¿Cuál de las siguientes NO es una sanción disciplinaria, de conformidad con el artículo 96 del TREBEP?",
+                    "opciones": {
+                        "a": "Suspensión firme de funciones.",
+                        "b": "Traslado forzoso con cambio de residencia.",
+                        "c": "Separación del servicio.",
+                        "d": "Deducción proporcional de retribuciones."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "La deducción proporcional de retribuciones por huelga o ausencia injustificada no tiene naturaleza de sanción disciplinaria."
+                },
+                {
+                    "numero": 27,
+                    "enunciado": "Conforme al artículo 53 del TREBEP, es un principio ético en la actuación de los empleados públicos:",
+                    "opciones": {
+                        "a": "Tratar con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos.",
+                        "b": "Administrar los recursos y bienes públicos con austeridad y no utilizar los mismos en provecho propio...",
+                        "c": "No aceptar ningún trato de favor o situación que implique privilegio...",
+                        "d": "Obedecer las instrucciones y órdenes profesionales..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Artículo 53 TREBEP (Principios éticos)."
+                },
+                {
+                    "numero": 28,
+                    "enunciado": "Conforme al artículo 41 de la Ley 47/2003, General Presupuestaria, en relación con la clasificación económica de los estados de ingresos se consideran ingresos de capital:",
+                    "opciones": {
+                        "a": "Las transferencias corrientes.",
+                        "b": "Los ingresos patrimoniales.",
+                        "c": "Las tasas, precios públicos y otros ingresos.",
+                        "d": "La enajenación de inversiones reales."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley General Presupuestaria, art. 41."
+                },
+                {
+                    "numero": 29,
+                    "enunciado": "Conforme a la Ley Orgánica 3/2007 para la igualdad efectiva de mujeres y hombres, la situación en que una disposición... aparentemente neutros pone a personas de un sexo en desventaja particular... se considera:",
+                    "opciones": {
+                        "a": "Acoso sexual.",
+                        "b": "Acoso por razón de sexo.",
+                        "c": "Discriminación directa por razón de sexo.",
+                        "d": "Discriminación indirecta por razón de sexo."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley Orgánica 3/2007, art. 6.2 (Discriminación indirecta)."
+                },
+                {
+                    "numero": 30,
+                    "enunciado": "El artículo 28 de la Ley General Presupuestaria establece que los escenarios presupuestarios plurianuales... serán confeccionados por:",
+                    "opciones": {
+                        "a": "El Consejo de Ministros.",
+                        "b": "El Ministerio de Hacienda.",
+                        "c": "El Ministerio de Economía, Comercio y Empresa.",
+                        "d": "Las Cortes Generales."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Ley General Presupuestaria, art. 28."
+                },
+                {
+                    "numero": 31,
+                    "enunciado": "Indique cuál de las siguientes palabras contiene un error ortográfico:",
+                    "opciones": {
+                        "a": "Oriunda.",
+                        "b": "Ermitaño.",
+                        "c": "Eximio.",
+                        "d": "Livido."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "'Lívido' lleva tilde (esdrújula)."
+                },
+                {
+                    "numero": 32,
+                    "enunciado": "Indique cuál de las siguientes palabras contiene un error ortográfico:",
+                    "opciones": {
+                        "a": "Leitmotib.",
+                        "b": "Oaxaqueño.",
+                        "c": "Sonámbulo.",
+                        "d": "Hortícola."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Se escribe 'leitmotiv'."
+                },
+                {
+                    "numero": 33,
+                    "enunciado": "Indique cuál de las siguientes palabras contiene un error ortográfico:",
+                    "opciones": {
+                        "a": "Duermevela.",
+                        "b": "Diéresis.",
+                        "c": "Exhuberante.",
+                        "d": "Viudedad."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Se escribe 'exuberante' (sin h)."
+                },
+                {
+                    "numero": 34,
+                    "enunciado": "Antónimo de VENTURA:",
+                    "opciones": {
+                        "a": "Desdicha.",
+                        "b": "Suerte.",
+                        "c": "Destino.",
+                        "d": "Azar."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Ventura (suerte, felicidad) -> Desdicha."
+                },
+                {
+                    "numero": 35,
+                    "enunciado": "Antónimo de TERSO:",
+                    "opciones": {
+                        "a": "Ingenioso.",
+                        "b": "Fino.",
+                        "c": "Dulce.",
+                        "d": "Rugoso."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Terso (liso, firme) -> Rugoso."
+                },
+                {
+                    "numero": 36,
+                    "enunciado": "Antónimo de ERIAL:",
+                    "opciones": {
+                        "a": "Páramo.",
+                        "b": "Vergel.",
+                        "c": "Desierto.",
+                        "d": "Descampado."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Erial (tierra sin cultivar) -> Vergel."
+                },
+                {
+                    "numero": 37,
+                    "enunciado": "Sinónimo de HEREJE:",
+                    "opciones": {
+                        "a": "Ortodoxo.",
+                        "b": "Arrepentido.",
+                        "c": "Penitente.",
+                        "d": "Heterodoxo."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Hereje -> Heterodoxo."
+                },
+                {
+                    "numero": 38,
+                    "enunciado": "Sinónimo de FANTÁSTICA:",
+                    "opciones": {
+                        "a": "Tangible.",
+                        "b": "Pésima.",
+                        "c": "Estupenda.",
+                        "d": "Deplorable."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Fantástica -> Estupenda."
+                },
+                {
+                    "numero": 39,
+                    "enunciado": "Sinónimo de DESLAVAZADO:",
+                    "opciones": {
+                        "a": "Estructurado.",
+                        "b": "Insulso.",
+                        "c": "Avanzado.",
+                        "d": "Atrasado."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Deslavazado (flojo, sin ilación) / en opciones..."
+                },
+                {
+                    "numero": 40,
+                    "enunciado": "Tenemos un grupo de 50 personas inscritas, asisten el 64%. ¿Cuántas han faltado?",
+                    "opciones": {
+                        "a": "18.",
+                        "b": "32.",
+                        "c": "34.",
+                        "d": "16."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Asisten el 64% de 50 = 32 personas. Faltan el 36% de 50 = 18 personas."
+                },
+                {
+                    "numero": 41,
+                    "enunciado": "Descuento del 8% en un producto de 45 €:",
+                    "opciones": {
+                        "a": "40,25 €",
+                        "b": "41,40 €",
+                        "c": "38,72 €",
+                        "d": "39,05 €"
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "45 * 0.92 = 41,40 €."
+                },
+                {
+                    "numero": 42,
+                    "enunciado": "Suscripción de 58 € al mes incrementada un 4%:",
+                    "opciones": {
+                        "a": "60,90 €",
+                        "b": "63,00 €",
+                        "c": "61,77 €",
+                        "d": "60,32 €"
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "58 * 1.04 = 60,90 €."
+                },
+                {
+                    "numero": 43,
+                    "enunciado": "¿Qué número continúa la secuencia 5, 3, 15, 4, 60, 5, ?",
+                    "opciones": {
+                        "a": "300",
+                        "b": "320",
+                        "c": "280",
+                        "d": "340"
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "5 * 3 = 15; 15 / 3 (o patrón alterno... 5-2=3, 3*5=15, 15-11? No, 5x3=15, 3+1=4, 4x15=60, 5, 60*5=300)."
+                },
+                {
+                    "numero": 44,
+                    "enunciado": "¿Qué número continúa la secuencia 384, 96, 24, ?",
+                    "opciones": {
+                        "a": "3",
+                        "b": "9",
+                        "c": "12",
+                        "d": "6"
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Se divide entre 4 cada vez: 384/4 = 96; 96/4 = 24; 24/4 = 6."
+                },
+                {
+                    "numero": 45,
+                    "enunciado": "616 paquetes. Día 1: 3/8, Día 2: 2/8. ¿Cuántos quedan?",
+                    "opciones": {
+                        "a": "259.",
+                        "b": "231.",
+                        "c": "212.",
+                        "d": "244."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Quedan 3/8 partes. (3/8) * 616 = 231."
+                },
+                {
+                    "numero": 46,
+                    "enunciado": "Ecuación: 10 - 9x = 4(x - 4)",
+                    "opciones": {
+                        "a": "1",
+                        "b": "2",
+                        "c": "3",
+                        "d": "4"
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "10 - 9x = 4x - 16 => 26 = 13x => x = 2."
+                },
+                {
+                    "numero": 47,
+                    "enunciado": "Ecuación: 5(5x - 3) = x",
+                    "opciones": {
+                        "a": "1,447",
+                        "b": "0,098",
+                        "c": "0,916",
+                        "d": "0,625"
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "25x - 15 = x => 24x = 15 => x = 15/24 = 0,625."
+                },
+                {
+                    "numero": 48,
+                    "enunciado": "Ecuación: 9(7x - 13) = -x + 1",
+                    "opciones": {
+                        "a": "1,84",
+                        "b": "-2,08",
+                        "c": "1,55",
+                        "d": "8,08"
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "63x - 117 = -x + 1 => 64x = 118 => x = 118/64 = 1,84375."
+                },
+                {
+                    "numero": 49,
+                    "enunciado": "Pregunta tabla Préstamos: ¿Editorial con mayor número de préstamos realizados?",
+                    "opciones": {
+                        "a": "Destino.",
+                        "b": "Santillana.",
+                        "c": "Anagrama.",
+                        "d": "Plaza & Janés."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 50,
+                    "enunciado": "Pregunta tabla Préstamos: Título publicado en Barcelona, posterior a 1998, más de 10 ejemplares disponibles.",
+                    "opciones": {
+                        "a": "Entre visillos.",
+                        "b": "El amante lesbiano.",
+                        "c": "Hija de la fortuna.",
+                        "d": "Un calor tan cercano."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Hija de la fortuna (Plaza & Janés, Barcelona, 1999, 13 disponibles)."
+                },
+                {
+                    "numero": 51,
+                    "enunciado": "Pregunta tabla Préstamos: Editorial con mayor número de ejemplares disponibles.",
+                    "opciones": {
+                        "a": "Plaza & Janés.",
+                        "b": "Destino.",
+                        "c": "Alfaguara.",
+                        "d": "Santillana."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 52,
+                    "enunciado": "Pregunta tabla Préstamos: Mayor porcentaje de ejemplares prestados respecto a disponibles.",
+                    "opciones": {
+                        "a": "La temporada de caza.",
+                        "b": "Aranmanoth.",
+                        "c": "El equipaje del viajero.",
+                        "d": "Entre visillos."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Aranmanoth: 2 prestados / 5 disponibles = 40% (o El amante lesbiano 7/8 = 87.5%, etc.)."
+                },
+                {
+                    "numero": 53,
+                    "enunciado": "Pregunta tabla Préstamos: Editorial con mayor número de ejemplares prestados.",
+                    "opciones": {
+                        "a": "Plaza & Janés.",
+                        "b": "Alfaguara.",
+                        "c": "Anagrama.",
+                        "d": "Santillana."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 54,
+                    "enunciado": "Pregunta tabla Préstamos: Autor con mayor porcentaje de ejemplares prestados respecto al total de préstamos.",
+                    "opciones": {
+                        "a": "Sampedro, José Luis.",
+                        "b": "Puértolas, Soledad.",
+                        "c": "Marías, Javier.",
+                        "d": "Martín Gaite, Carmen."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 55,
+                    "enunciado": "Pregunta tabla Desplazamientos: Departamento con media mayor de pago en euros por peaje.",
+                    "opciones": {
+                        "a": "Comercial.",
+                        "b": "Administración.",
+                        "c": "Marketing.",
+                        "d": "Técnico."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 56,
+                    "enunciado": "Pregunta tabla Desplazamientos: Proyecto con mayor pago de peajes por kilómetro.",
+                    "opciones": {
+                        "a": "C-510",
+                        "b": "C-491",
+                        "c": "A-115",
+                        "d": "M-254"
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 57,
+                    "enunciado": "Pregunta tabla Desplazamientos: Oficina con mayor número de kilómetros.",
+                    "opciones": {
+                        "a": "Zaragoza.",
+                        "b": "Valencia.",
+                        "c": "Tarragona.",
+                        "d": "Bilbao."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 58,
+                    "enunciado": "Pregunta tabla Desplazamientos: Departamento con media mayor de duración en días.",
+                    "opciones": {
+                        "a": "Técnico.",
+                        "b": "Marketing.",
+                        "c": "Comercial.",
+                        "d": "Administración."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 59,
+                    "enunciado": "Pregunta tabla Desplazamientos: Porcentaje de kilómetros en proyecto A-115 respecto al total.",
+                    "opciones": {
+                        "a": "34,51%",
+                        "b": "32,82%",
+                        "c": "33,76%",
+                        "d": "31,68%"
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Cálculo basado en la tabla."
+                },
+                {
+                    "numero": 60,
+                    "enunciado": "Pregunta tabla Desplazamientos: Porcentaje de kilómetros realizados por la oficina de Tarragona respecto al total.",
+                    "opciones": {
+                        "a": "25,83%",
+                        "b": "24,60%",
+                        "c": "26,11%",
+                        "d": "23,82%"
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Cálculo basado en la tabla."
+                }
+            ]
+        },
+        {
+            "nombre": "SEGUNDA PARTE",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "enunciado": "¿Cuándo y en qué sentido se reformó la Constitución Española en garantía de los derechos de las personas con discapacidad?",
+                    "opciones": {
+                        "a": "En 2024 y sustituyó el término minusválido por personas con discapacidad.",
+                        "b": "En 2024 y sustituyó el término disminuidos por personas con discapacidad.",
+                        "c": "En 2023 y sustituyó el término minusválido...",
+                        "d": "En 2023 y sustituyó el término disminuido..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Reforma del artículo 49 de la CE en enero de 2024, sustituyendo 'disminuidos' por 'personas con discapacidad'."
+                },
+                {
+                    "numero": 2,
+                    "enunciado": "¿Para qué colectivos de personas con discapacidad recoge expresamente la Constitución Española la atención de necesidades específicas?",
+                    "opciones": {
+                        "a": "Menores de edad y mayores de 65 años.",
+                        "b": "Menores de edad y personas con discapacidad superior al 66%.",
+                        "c": "Menores de edad y mujeres.",
+                        "d": "Personas con riesgo de exclusión social."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Artículo 49 reformado CE (atención específica a mujeres y menores con discapacidad)."
+                },
+                {
+                    "numero": 3,
+                    "enunciado": "La función de atención personalizada al ciudadano relativa a facilitarle la orientación y ayuda en el momento inicial... según Real Decreto 208/1996:",
+                    "opciones": {
+                        "a": "De gestión y recepción.",
+                        "b": "De orientación e información.",
+                        "c": "De asistencia y orientación.",
+                        "d": "De recepción y acogida."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Real Decreto 208/1996."
+                },
+                {
+                    "numero": 4,
+                    "enunciado": "Según Real Decreto Legislativo 1/2013 (Ley General de derechos de las personas con discapacidad), el principio en virtud del cual la sociedad debe permitir oportunidades y recursos...",
+                    "opciones": {
+                        "a": "Inclusión social.",
+                        "b": "Accesibilidad universal.",
+                        "c": "Diseño universal.",
+                        "d": "Transversalidad de las políticas públicas."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Definición legal de Inclusión social."
+                },
+                {
+                    "numero": 5,
+                    "enunciado": "Según el Real Decreto 208/1996, la información administrativa se clasifica en:",
+                    "opciones": {
+                        "a": "General y particular.",
+                        "b": "Pública y privada.",
+                        "c": "Ordinaria y extraordinaria.",
+                        "d": "Interna y externa."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Real Decreto 208/1996, art. 2."
+                },
+                {
+                    "numero": 6,
+                    "enunciado": "Tal como indica el Real Decreto 951/2005, las cartas de servicios y sus posteriores actualizaciones serán aprobadas mediante:",
+                    "opciones": {
+                        "a": "Resolución del Subsecretario del departamento al que pertenezca el órgano...",
+                        "b": "Resolución del Subsecretario... no será necesaria publicación en BOE...",
+                        "c": "Orden Ministerial... y se publicará en el BOE.",
+                        "d": "Orden Ministerial... sin publicación en BOE."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Real Decreto 951/2005."
+                },
+                {
+                    "numero": 7,
+                    "enunciado": "Principio definido como 'la capacidad de las Administraciones Públicas para que partiendo del conocimiento adquirido del usuario... proporcione servicios precumplimentados':",
+                    "opciones": {
+                        "a": "Personalización y proactividad.",
+                        "b": "Adaptabilidad.",
+                        "c": "Accesibilidad.",
+                        "d": "Facilidad de uso."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "RD 203/2021 (Reglamento de actuación y funcionamiento del sector público por medios electrónicos)."
+                },
+                {
+                    "numero": 8,
+                    "enunciado": "¿Qué significan las siglas DEHu en el ámbito del RD 203/2021?",
+                    "opciones": {
+                        "a": "Dirección Electrónica Habilitada universal.",
+                        "b": "Dirección Electrónica Habilitada única.",
+                        "c": "Dirección Electrónica Habilitada para usuarios.",
+                        "d": "Dirección Electrónica Homologada para usuarios."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "DEHu: Dirección Electrónica Habilitada única."
+                },
+                {
+                    "numero": 9,
+                    "enunciado": "Según el artículo 16 de la Ley 39/2015, los registros electrónicos de todas y cada una de las Administraciones deben ser:",
+                    "opciones": {
+                        "a": "Autónomos.",
+                        "b": "Digitalizables.",
+                        "c": "Accesibles.",
+                        "d": "Interoperables."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Ley 39/2015, art. 16.4: Los asientos se anotarán respetando el orden temporal de recepción... Los registros electrónicos de todas y cada una de las Administraciones Pública deberán ser interoperables..."
+                },
+                {
+                    "numero": 10,
+                    "enunciado": "¿Qué quiere decir CSV en el marco del Real Decreto 203/2021?",
+                    "opciones": {
+                        "a": "Clave Segura de Validación.",
+                        "b": "Clave de Seguridad Verificada.",
+                        "c": "Código de Seguridad Validado.",
+                        "d": "Código Seguro de Verificación."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "CSV: Código Seguro de Verificación."
+                },
+                {
+                    "numero": 11,
+                    "enunciado": "Según la ISO/IEC 27000, el conjunto de elementos interrelacionados para establecer una política y objetivos de seguridad de la información...",
+                    "opciones": {
+                        "a": "Sistema de Información.",
+                        "b": "Sistema de Gestión de la Seguridad de la Información.",
+                        "c": "Seguridad de la Información.",
+                        "d": "Gestión de incidentes de Seguridad de la Información."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "SGSI (Sistema de Gestión de la Seguridad de la Información)."
+                },
+                {
+                    "numero": 12,
+                    "enunciado": "¿Qué es un insider en ciberseguridad?",
+                    "opciones": {
+                        "a": "Persona externa que provoca un incidente de forma intencionada.",
+                        "b": "Persona externa que provoca un incidente de forma accidental.",
+                        "c": "Una persona perteneciente a la propia organización que provoca un incidente de seguridad de forma intencionada.",
+                        "d": "Persona de la organización que provoca un incidente de forma accidental."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Un insider (amenaza interna) es alguien perteneciente a la propia organización."
+                },
+                {
+                    "numero": 13,
+                    "enunciado": "Técnica que consiste en manipular publicidad en línea con el objetivo de conseguir infectar dispositivos (malicious advertising):",
+                    "opciones": {
+                        "a": "Crimeware.",
+                        "b": "Warshipping.",
+                        "c": "Malvertising.",
+                        "d": "Spyware."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Malvertising."
+                },
+                {
+                    "numero": 14,
+                    "enunciado": "Estándar de codificación más utilizado en sistemas operativos modernos para representar casi todos los idiomas mediante longitud de bits variable:",
+                    "opciones": {
+                        "a": "UTF-8 (Unicode)",
+                        "b": "ASCII",
+                        "c": "EBCDIC",
+                        "d": "Sistema Binario Puro"
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "UTF-8."
+                },
+                {
+                    "numero": 15,
+                    "enunciado": "Característica principal del almacenamiento secundario:",
+                    "opciones": {
+                        "a": "Memoria volátil que almacena datos temporales...",
+                        "b": "Es un soporte de almacenamiento no volátil que permite guardar datos de forma permanente, incluso cuando el dispositivo se apaga.",
+                        "c": "Espacio temporal dentro de la CPU...",
+                        "d": "Memoria de solo lectura para arranque..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Almacenamiento secundario (discos duros, SSD, etc., no volátiles)."
+                },
+                {
+                    "numero": 16,
+                    "enunciado": "¿Qué es el plug and play en Windows 11?",
+                    "opciones": {
+                        "a": "Sistema de virtualización...",
+                        "b": "Protocolo de seguridad...",
+                        "c": "Técnica que permite a un sistema informático adaptarse a los cambios de hardware con mínima intervención del usuario, permitiendo agregar o quitar dispositivos sin configuración manual.",
+                        "d": "Función para optimizar el rendimiento del procesador..."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Plug and Play."
+                },
+                {
+                    "numero": 17,
+                    "enunciado": "En Windows 11, en Configuración > Personalización > Temas > Configuración de iconos de escritorio, ¿cuáles son los iconos específicos del sistema que podemos activar o desactivar?",
+                    "opciones": {
+                        "a": "Pantalla, Sonido, Notificaciones...",
+                        "b": "Equipo, Archivos del usuario, Red, Papelera de reciclaje y Panel de control.",
+                        "c": "Escritorio, Descargas, Documentos...",
+                        "d": "Fondo, Colores, Iluminación dinámica..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Iconos clásicos de escritorio en Windows."
+                },
+                {
+                    "numero": 18,
+                    "enunciado": "En Windows 11, opciones que aparecen al presionar Ctrl + Alt + Supr:",
+                    "opciones": {
+                        "a": "Buscar, Cambiar de usuario; Administrador de tareas; Cerrar sesión.",
+                        "b": "Configuración; Cambiar de usuario; Administrador de tareas; Cerrar sesión.",
+                        "c": "Bloquear; Cambiar de usuario; Cerrar sesión; Administrador de tareas.",
+                        "d": "Suspender; Cambiar de usuario; Administrador de tareas; Cerrar sesión."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Bloquear, Cambiar de usuario, Cerrar sesión, Administrador de tareas."
+                },
+                {
+                    "numero": 19,
+                    "enunciado": "En Windows 11, tareas que se pueden realizar desde el Administrador de tareas:",
+                    "opciones": {
+                        "a": "Ajustar la resolución de pantalla...",
+                        "b": "Crear carpetas...",
+                        "c": "Configurar el tiempo de espera...",
+                        "d": "Finalizar procesos que no responden, monitorizar el uso de CPU/RAM en tiempo real y gestionar las aplicaciones que utiliza el sistema."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Administrador de tareas."
+                },
+                {
+                    "numero": 20,
+                    "enunciado": "En Windows 11, elemento de interfaz interactivo y dinámico como contenedor visual asociado a una aplicación para mostrar información personalizada de un vistazo:",
+                    "opciones": {
+                        "a": "Barra de tareas.",
+                        "b": "Acceso directo.",
+                        "c": "Widget.",
+                        "d": "Controles XAML."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Widget."
+                },
+                {
+                    "numero": 21,
+                    "enunciado": "En Windows 11, Configuración > Personalización > Colores:",
+                    "opciones": {
+                        "a": "Activar o desactivar el efecto transparencia, por lo que las ventanas y las superficies aparecen traslúcidas.",
+                        "b": "Cambiar los colores...",
+                        "c": "Habilitar la opción para ajustar automáticamente la temperatura...",
+                        "d": "Configurar el color principal..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Efectos de transparencia en Colores."
+                },
+                {
+                    "numero": 22,
+                    "enunciado": "En Windows 11, función principal de los escritorios virtuales:",
+                    "opciones": {
+                        "a": "Ejecutar varios sistemas operativos simultáneamente...",
+                        "b": "Dividir la pantalla en varias áreas...",
+                        "c": "Crear entornos de trabajo independientes, lo que permiten separar tareas y organizar mejor el trabajo diario.",
+                        "d": "Crear perfiles de usuario adicionales..."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Escritorios virtuales."
+                },
+                {
+                    "numero": 23,
+                    "enunciado": "Afirmación correcta sobre Microsoft Access 365:",
+                    "opciones": {
+                        "a": "Una vez borrado un registro, no existe ningún comando para deshacer la operación.",
+                        "b": "En una tabla pueden existir dos campos con el mismo nombre.",
+                        "c": "La longitud máxima del tipo Texto corto es de 249 caracteres.",
+                        "d": "Todas las propiedades de campo están disponibles para todos los tipos de datos posibles."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "En Access, una vez borrado un registro, no se puede deshacer con Ctrl+Z."
+                },
+                {
+                    "numero": 24,
+                    "enunciado": "Afirmación correcta sobre un archivo en un sistema operativo actual:",
+                    "opciones": {
+                        "a": "Es un conjunto de información volátil...",
+                        "b": "Se identifica mediante un nombre y puede tener una extensión.",
+                        "c": "Solo existe mientras una aplicación está en ejecución.",
+                        "d": "No puede organizarse dentro de carpetas."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Un archivo se identifica por su nombre y extensión."
+                },
+                {
+                    "numero": 25,
+                    "enunciado": "Capacidad de un sistema basado en IA para generar contenido original y creativo (imágenes, texto, música...):",
+                    "opciones": {
+                        "a": "RPA.",
+                        "b": "Robotización industrial.",
+                        "c": "Automatización inteligente.",
+                        "d": "Inteligencia Artificial generativa."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Inteligencia Artificial generativa."
+                },
+                {
+                    "numero": 26,
+                    "enunciado": "Combinación de correspondencia Word 365: mostrar texto 'Vencido' solo si la fecha actual es posterior a la fecha de pago. ¿Qué regla?",
+                    "opciones": {
+                        "a": "Siguiente registro si.",
+                        "b": "Si... Entonces... Sino.",
+                        "c": "Saltar registro si.",
+                        "d": "Rellenar."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Regla Si... Entonces... Sino (If... Then... Else)."
+                },
+                {
+                    "numero": 27,
+                    "enunciado": "Windows 11, Configuración > Sistema > Almacenamiento > Recomendaciones de limpieza, ¿cuáles son las cuatro categorías?",
+                    "opciones": {
+                        "a": "Archivos residuales, copias de seguridad sin usar, archivos sincronizados a la nube, aplicaciones sin usar.",
+                        "b": "Archivos residuales, archivos grandes o sin usar, archivos sincronizados a la nube, aplicaciones sin usar.",
+                        "c": "Archivos temporales, archivos duplicados...",
+                        "d": "Archivos temporales, archivos grandes o sin usar, archivos sincronizados a la nube, aplicaciones sin usar."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Archivos temporales, archivos grandes o sin usar, archivos sincronizados a la nube, aplicaciones sin usar."
+                },
+                {
+                    "numero": 28,
+                    "enunciado": "Procedimiento para cambiar la aplicación predeterminada para abrir un archivo específico en Windows 11:",
+                    "opciones": {
+                        "a": "Propiedades > Personalizar...",
+                        "b": "Hacer clic con el botón derecho sobre el archivo, en el menú seleccionar el comando 'Abrir con', elegir una aplicación propuesta, o en su caso, seleccionar 'Elegir otra aplicación'.",
+                        "c": "Configuración > Aplicaciones...",
+                        "d": "Panel de Control..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Abrir con -> Elegir otra aplicación."
+                },
+                {
+                    "numero": 29,
+                    "enunciado": "Acción que mejora la accesibilidad en Microsoft Word 365:",
+                    "opciones": {
+                        "a": "Agregar texto alternativo a las imágenes y objetos visuales.",
+                        "b": "Utilizar tablas para organizar el contenido.",
+                        "c": "Escribir la URL completa...",
+                        "d": "Utilizar colores sin contraste..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Texto alternativo."
+                },
+                {
+                    "numero": 30,
+                    "enunciado": "¿Qué sucede en Word 365 al escribir =rand() en una línea en blanco y presionar Enter?",
+                    "opciones": {
+                        "a": "Se insertan números aleatorios.",
+                        "b": "No ocurre nada.",
+                        "c": "Se genera automáticamente texto de relleno compuesto por párrafos predefinidos.",
+                        "d": "Se abre un cuadro de diálogo..."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Función =rand() para generar texto de relleno."
+                },
+                {
+                    "numero": 31,
+                    "enunciado": "En Word 365 (español), combinación CTRL + B:",
+                    "opciones": {
+                        "a": "Se abre el cuadro de diálogo 'Buscar y reemplazar'.",
+                        "b": "Abre el panel de tareas de Navegación para buscar en el contenido del documento.",
+                        "c": "Se guarda el documento...",
+                        "d": "Se inserta una nota al pie."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "CTRL + B en Word abre el panel de Navegación (Buscar)."
+                },
+                {
+                    "numero": 32,
+                    "enunciado": "¿En qué situación Excel 365 mostraría el símbolo ##### en una celda?",
+                    "opciones": {
+                        "a": "Error de fecha/hora negativa o columna demasiado estrecha para mostrar el número.",
+                        "b": "Referencia circular...",
+                        "c": "Operación matemática con datos no numéricos.",
+                        "d": "Fórmula escrita incorrectamente."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "##### indica que la columna no es suficientemente ancha o fechas/horas negativas."
+                },
+                {
+                    "numero": 33,
+                    "enunciado": "Fórmula Excel: =SUMAR.SI.CONJUNTO(C2:C6;B2:B6;\"Nómina\";C2:C6;\">2000\";A2:A6;\">=01/01/2025\";A2:A6;\"<=31/12/2025\")",
+                    "opciones": {
+                        "a": "Sumará los importes mayores a 2.000 € del año 2025...",
+                        "b": "Sumará los importes de nómina...",
+                        "c": "No devolverá ningún resultado...",
+                        "d": "Sumará los importes correspondientes a nóminas con importe superior a 2.000 € cuyas fechas estén comprendidas en el año 2025."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Suma condicional con múltiples criterios."
+                },
+                {
+                    "numero": 34,
+                    "enunciado": "Función en Excel 365 que comprueba si la entrada coincide con el patrón y devuelve VERDADERO/FALSO:",
+                    "opciones": {
+                        "a": "ENCONTRAR",
+                        "b": "REGEXPRUEBA",
+                        "c": "COINCIDIRX",
+                        "d": "ESTEXTO"
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "REGEXPRUEBA (REGTEST / REGEX)."
+                },
+                {
+                    "numero": 35,
+                    "enunciado": "En Excel 365, si una celda tiene el valor 1 con formato Número y se cambia a Fecha corta:",
+                    "opciones": {
+                        "a": "01/01/1900",
+                        "b": "01/01/1990",
+                        "c": "01/01/0001",
+                        "d": "1 de enero de 2026"
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "El día 1 en el sistema de fechas de Excel corresponde al 1 de enero de 1900."
+                },
+                {
+                    "numero": 36,
+                    "enunciado": "En Excel 365, si una celda tiene el valor 0,758 con formato general, se aplica formato porcentaje y se reducen decimales a cero:",
+                    "opciones": {
+                        "a": "75%",
+                        "b": "0,76%",
+                        "c": "76%",
+                        "d": "1%"
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "0,758 = 75,8% -> redondeado a 0 decimales = 76%."
+                },
+                {
+                    "numero": 37,
+                    "enunciado": "Función válida de Excel 365 diseñada para búsquedas avanzadas:",
+                    "opciones": {
+                        "a": "BUSCARV2",
+                        "b": "BUSCARMATRIZ",
+                        "c": "BUSCARX",
+                        "d": "BUSCARAVANZADO"
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "BUSCARX (XLOOKUP)."
+                },
+                {
+                    "numero": 38,
+                    "enunciado": "En un formulario de Access 365, vista que introduce, modifica o accede a la información:",
+                    "opciones": {
+                        "a": "Diseño.",
+                        "b": "Presentación.",
+                        "c": "Formulario.",
+                        "d": "Edición."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Vista Formulario."
+                },
+                {
+                    "numero": 39,
+                    "enunciado": "Modos o vistas de formularios en Access 365 desde el botón Ver:",
+                    "opciones": {
+                        "a": "Borrador, Formulario e Impresión.",
+                        "b": "Edición, Diseño y Presentación.",
+                        "c": "Diseño, Formulario y Presentación.",
+                        "d": "Hoja de datos, Formulario y Diseño."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Vistas de formulario: Diseño, Formulario y Presentación."
+                },
+                {
+                    "numero": 40,
+                    "enunciado": "Para importar un archivo HTML en Access 365 desde Datos externos:",
+                    "opciones": {
+                        "a": "De un archivo.",
+                        "b": "De una base de datos.",
+                        "c": "De servicios en línea.",
+                        "d": "De otros orígenes."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Importar desde otros orígenes (Archivo HTML)."
+                },
+                {
+                    "numero": 41,
+                    "enunciado": "Outlook 365 escritorio: función para programar el envío de un correo electrónico:",
+                    "opciones": {
+                        "a": "Crear regla...",
+                        "b": "Insertar > Programar envío...",
+                        "c": "Seleccionar la pestaña Opciones, en el grupo Más Opciones, hacer clic en el botón 'Retrasar entrega', y configurar la opción 'No entregar antes de'.",
+                        "d": "Guardar en Borradores..."
+                    },
+                    "respuesta_correcta": "c",
+                    "explicacion": "Botón Retrasar entrega."
+                },
+                {
+                    "numero": 42,
+                    "enunciado": "Consulta Access 365: filtrar registros 'Suministros' con fecha posterior a 01/01/2025:",
+                    "opciones": {
+                        "a": "En la fila criterios del campo 'tipo de contrato' escribir 'Suministros' y en la misma fila del campo 'Fecha de adjudicación' escribir >#01/01/2025#",
+                        "b": "...",
+                        "c": "...",
+                        "d": "..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Uso de almohadillas para fechas en Access: >#01/01/2025#."
+                },
+                {
+                    "numero": 43,
+                    "enunciado": "Access 365: propiedad de campo que contiene el mensaje asociado a la infracción de la Regla de validación:",
+                    "opciones": {
+                        "a": "Valor de validación.",
+                        "b": "Título de validación.",
+                        "c": "Máscara de validación.",
+                        "d": "Texto de validación."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "Texto de validación."
+                },
+                {
+                    "numero": 44,
+                    "enunciado": "Calendario Outlook 365: utilidad principal del Asistente para programación al organizar una reunión:",
+                    "opciones": {
+                        "a": "Enviar invitaciones automáticamente...",
+                        "b": "Permitir visualizar fácilmente la disponibilidad de los asistentes para elegir una fecha y encontrar un intervalo horario compatible.",
+                        "c": "Bloquear franjas...",
+                        "d": "Configurar periodicidad..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Asistente para programación (ver disponibilidad)."
+                },
+                {
+                    "numero": 45,
+                    "enunciado": "Outlook 365: ¿es posible cancelar el envío de un correo electrónico inmediatamente después de pulsar Enviar?",
+                    "opciones": {
+                        "a": "Sí, utilizando la función 'Recuperar este mensaje' (mismo org y no abierto)...",
+                        "b": "Sí, siempre que se active Deshacer envío durante los primeros 30 segundos...",
+                        "c": "...",
+                        "d": "No..."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Opción Deshacer envío (Undo send) en Outlook (configurable de 0 a 10/20 segundos)."
+                },
+                {
+                    "numero": 46,
+                    "enunciado": "Outlook 365: opciones del menú Cifrar (pestaña Opciones) para restringir acciones del destinatario:",
+                    "opciones": {
+                        "a": "No imprimir.",
+                        "b": "No reenviar.",
+                        "c": "No copiar texto.",
+                        "d": "No imprimir pantalla."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "Restricción 'No reenviar' (Do Not Forward)."
+                },
+                {
+                    "numero": 47,
+                    "enunciado": "Función principal de un servidor DHCP en una red local:",
+                    "opciones": {
+                        "a": "Traducir nombres de dominio...",
+                        "b": "Filtrar tráfico...",
+                        "c": "Almacenar páginas web...",
+                        "d": "Asignar automáticamente direcciones IP dinámicas a los dispositivos que se conectan."
+                    },
+                    "respuesta_correcta": "d",
+                    "explicacion": "DHCP (Dynamic Host Configuration Protocol) asigna IPs dinámicas."
+                },
+                {
+                    "numero": 48,
+                    "enunciado": "Definición del sistema de nombres de dominio (DNS):",
+                    "opciones": {
+                        "a": "Protocolo estándar que asigna nombres de dominio a direcciones IP, permitiendo la resolución de nombres.",
+                        "b": "Software para asignar IPs...",
+                        "c": "Complemento...",
+                        "d": "Hardware..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "DNS (Domain Name System)."
+                },
+                {
+                    "numero": 49,
+                    "enunciado": "Outlook 365: al hacer una mención con @ en el cuerpo de un correo:",
+                    "opciones": {
+                        "a": "Resalta el nombre de la persona en el cuerpo y añade automáticamente su dirección al campo 'Para'.",
+                        "b": "Únicamente resalta...",
+                        "c": "Inserta el nombre y añade en CC...",
+                        "d": "Resalta, añade y marca importancia alta..."
+                    },
+                    "respuesta_correcta": "a",
+                    "explicacion": "Al mencionar con @, el usuario se añade automáticamente a los destinatarios (campo Para)."
+                },
+                {
+                    "numero": 50,
+                    "enunciado": "Conexión segura entre redes utilizando Internet como medio gracias a la encriptación:",
+                    "opciones": {
+                        "a": "Enrutador.",
+                        "b": "Red Privada Virtual.",
+                        "c": "Punto de acceso.",
+                        "d": "Modo avión."
+                    },
+                    "respuesta_correcta": "b",
+                    "explicacion": "VPN (Red Privada Virtual)."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1381 @@
+{
+    "titulo": "Exámenes Personal Administrativo - Ayuntamiento de València",
+    "total_preguntas": 125,
+    "preguntas": [
+        {
+            "numero": 1,
+            "pregunta": "En los procedimientos de responsabilidad patrimonial el derecho a reclamar por los interesados (señala la incorrecta)",
+            "opciones": {
+                "a": "En caso de reconocer derecho a indemnización por anulación de una disposición de carácter general, prescribirá al mes de haberse notificado la resolucion administrativa o la sentencia definitiva",
+                "b": "En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o determinación de las secuelas",
+                "c": "Prescribirá al año de producido el hecho o acto que motive la indemnización o se manifieste su efecto lesivo"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 2,
+            "pregunta": "Las cuestiones incidentales , señala la respuesta correcta según la LPAC",
+            "opciones": {
+                "a": "suspenden la tramitación del procedimiento en todo caso",
+                "b": "no suspenden la tramitación del procedimiento salvo la recusación",
+                "c": "Sólo se suspende la tramitación si se refiere a la nulidad de las actuaciones"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 3,
+            "pregunta": "Los trámites que deban ser cumplimentados por los interesados deberán realizarse",
+            "opciones": {
+                "a": "en el plazo que dicte la norma correspondiente a aplicar",
+                "b": "en el plazo de 10 días desde que se produce la notificación",
+                "c": "ninguna es correcta"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 4,
+            "pregunta": "Según la LPAC se entiende como declaración responsable",
+            "opciones": {
+                "a": "el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio",
+                "b": "El documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+                "c": "El documento suscrito por la Administración por el que se concede el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación,"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 5,
+            "pregunta": "Señala la respuesta incorrecta respecto del expediente administrativo según la LPAC",
+            "opciones": {
+                "a": "Los expedientes tendrán formato electrónico o en papel y en ellos deberá constar copia electrónica certificada de la resolución adoptada.",
+                "b": "Se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlosmita",
+                "c": "Cuando en virtud de una norma sea preciso remitir el expediente electrónico se enviará completo, foliado,autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 6,
+            "pregunta": "Si una solicitud de iniciación no reune los requisitos que señala el art. 66, se requerirá al interesado para qu subsane la falta en un plazo de",
+            "opciones": {
+                "a": "10 días",
+                "b": "15 días",
+                "c": "10 naturales"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 7,
+            "pregunta": "T1 - De acuerdo con la ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el sector público institucional se integra por:",
+            "opciones": {
+                "a": "Cualesquiera organismos públicos no vinculados o independientes de las Administraciones Públicas.",
+                "b": "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+                "c": "Cualesquiera organismos públicos, entidades de derecho privado, y las Universidades Publicas."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 8,
+            "pregunta": "T1 ¿Cuál de los siguientes sujetos no está obligado a relacionarse electrónicamente con la administración?",
+            "opciones": {
+                "a": "Las entidades sin personalidad jurídica TEST ADMINISTRATIVOS 2",
+                "b": "Los que ejerzan actividades profesionales de colegiación obligatoria para cualquier trámite con la Administración",
+                "c": ") Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 9,
+            "pregunta": "T1 Cal de los siguientes actos no es nulo de pleno derecho",
+            "opciones": {
+                "a": "Los que lesionan derechos y libertades susceptibles de amparo constitucional",
+                "b": "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+                "c": "Los dictados precindiendo del procedimiento legalmente establecido"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 10,
+            "pregunta": "T1 Contra el acuerdo que resuelva la ampliación de plazos",
+            "opciones": {
+                "a": "No cabrá recurso alguno",
+                "b": "Cabe recurso de reposición",
+                "c": "Cabe recurso en el plazo de 15 días"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 11,
+            "pregunta": "T1 Cual de las siguientes formas de inicio de un procedimiento no está considerada de oficio?",
+            "opciones": {
+                "a": "Cuando así lo solicite un interesado en la presentación de una denuncia",
+                "b": "A iniciativa propia por el órgano que tiene atribuida la competencia",
+                "c": "Por orden de un superior jerárquico"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 12,
+            "pregunta": "T1 Cuál de las siguientes medidas provisionales no está considerada como tal",
+            "opciones": {
+                "a": "Suspensión temporal de la actividad o del servicio",
+                "b": "El cierre temporal del establecimiento",
+                "c": "El depósito, retención o movilización de cosa mueble. aplicación de precios ciertos."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 13,
+            "pregunta": "T1 Cuando el interesado rechace la notificación de una actuación",
+            "opciones": {
+                "a": "No se hará constar en el expediente",
+                "b": "Se requerirá su comparecencia",
+                "c": "Se da por efectuado el trámite"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 14,
+            "pregunta": "T1 Cuando en un procedimiento concreto la Administración establezca expresamente un modelo específico de presentación de solicitudes",
+            "opciones": {
+                "a": "Estas serán de obligado cumplimiento por los interesados",
+                "b": "No tienen porqué rellenar este modelo, puede ser una instancia de tipo general",
+                "c": "Sólo están obligados los que deban relacionarse con la Administración de forma electrónica"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 15,
+            "pregunta": "T1 Cuando la infracción del acto supone la desviación de poder, éste será",
+            "opciones": {
+                "a": "nulo",
+                "b": "anulable",
+                "c": "depende de si así lo impone la naturaleza del acto"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 16,
+            "pregunta": "T1 Cuando la notificación por medios electrónicos sea de carácter obligatorio o expresamente elegida por el interesado, se entenderá rechazada si",
+            "opciones": {
+                "a": "no accede a la misma en un plazo de 10 días hábiles desde su puesta a disposición",
+                "b": "no accede a la misma en un plazo de 10 días naturales desde su puesta a disposición",
+                "c": "no accede a la misma en un plazo de 15 días hábiles desde su puesta a disposición"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 17,
+            "pregunta": "T1 Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para notificar la resolución expresa, éste será de:",
+            "opciones": {
+                "a": "2 meses",
+                "b": "3 meses",
+                "c": "6 meses"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 18,
+            "pregunta": "T1 Cuando una notificación resulte infructuosa se procedirá 3",
+            "opciones": {
+                "a": "A su publicación en el Boletin correspondiente a la Administración de que se trate",
+                "b": "A su publicación en el Boletín Oficial del Estado",
+                "c": "A su publicación en el tablón de edictos del ultimo municipio de residencia"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 19,
+            "pregunta": "T1 De acuerdo con la LPAC no es cierto que",
+            "opciones": {
+                "a": "El medio elegido por la persona física para comunicarse con las Administraciones Públicas podrá ser modificado por aquella en cualquier momento",
+                "b": "El transcurso del plazo máximo legal para resolver un procedimiento y notificar la resolución no se podrá suspender",
+                "c": "La comparecencia de las personas ante las oficinas públicas sólo será obligatoria cuando así esté prevista en una norma con rango de ley"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 20,
+            "pregunta": "T1 De conformidad con el art 25 de la LPAC, cuando la Administración ejerce la potestad sancionadora, el vencimiento del plazo máximo sin que se haya dictado y notificado resolución expresa producirá el siguiente efecto",
+            "opciones": {
+                "a": "La prescripción del procedimiento, sin opción para iniciar la Administración un nuevo procedimiento en ningún caso",
+                "b": "La caducidad del procedimiento",
+                "c": "El desistimiento de la Administración poniendo fin al procedimiento"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 21,
+            "pregunta": "T1 De los siguientes documentos administrativos, cual no necesita firma electrónica",
+            "opciones": {
+                "a": "una resolución administrativa",
+                "b": "un informe",
+                "c": "un documento publicado con carácter meramente informativo"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 22,
+            "pregunta": "T1 De los siguientes requisitos cual no figura como necesario para la presentación de una instancia, según la LPAC",
+            "opciones": {
+                "a": "El documento nacional de identidad",
+                "b": "la identificación del medio electrónico, o en su defecto, del lugar físico para la notificación",
+                "c": "El órgano al que se dirige y su código de identificación"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 23,
+            "pregunta": "T1 El plazo máximo para notificar la resolución expresa en un procedimiento es",
+            "opciones": {
+                "a": "El plazo que fije la norma reguladora del correspondiente procedimiento",
+                "b": "3 meses",
+                "c": "6 meses"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 24,
+            "pregunta": "T1 El procedimiento administrativo se puede iniciar",
+            "opciones": {
+                "a": "Por denuncia, iniciativa propia u orden superior",
+                "b": "A instancia de parte o de oficio",
+                "c": "Por denuncia, a petición razonada de otro órgano o de oficio"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 25,
+            "pregunta": "T1 El registro electrónico.",
+            "opciones": {
+                "a": "Permitirá la presentación de documentación todos los días durante 24 horas.",
+                "b": "No permitirá la presentación de documentos en días festivos",
+                "c": "Permitirá la presentación de documentación solo en días hábiles."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 26,
+            "pregunta": "T1 El registro General de cada administración cumplirá con las garantías y medidas de seguridad en materia de protección de datos",
+            "opciones": {
+                "a": "Solo en oficinas consulares",
+                "b": "Cuando el interesado así lo solicite",
+                "c": "Siempre"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 27,
+            "pregunta": "T1 En realación con la ampliación de plazos para realizar trámites en un procedimiento administrativo, señale la respuesta correcta",
+            "opciones": {
+                "a": "Solamente se puede acordar de oficio TEST ADMINISTRATIVOS 4",
+                "b": "No excederá de la mitat del plazo inicial",
+                "c": "Son susceptibles de recurso administrativo"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 28,
+            "pregunta": "T1 En relación con el archivo de documentos de las Administraciones Públicas señale la respuesta correcta",
+            "opciones": {
+                "a": "Cada Administración debe mantener un archivo electrónico único de los documentos electrónicos correspondientes a procedimientos finalizados",
+                "b": "Cada administración tendrá un archivo físico o electrónico según resulte más conveniente a sus intereses de los documentos correspondientes a procedimientos finalizados",
+                "c": "Cada Administración elegirá si dispone de un archivo físico o electrónico correspondientes a procedimientos finalizados"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 29,
+            "pregunta": "T1 En relación con la aportación de documentos por los interesados en el procedimiento, señale la respuesta incorrecta:",
+            "opciones": {
+                "a": "Los interesados están obligados a aportar documentos que hayan sido elaborados por cualquier Administración",
+                "b": "Las copias que aporten los interesados en el procedimiento tendrán eficacia exclusivamente en el ámbito de la actividad de las Administraciones",
+                "c": "Los interesados no están obligados a aportar documentos originales, salvo con carácter excepcional"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 30,
+            "pregunta": "T1 La LPAC 39/2015 regula el ámbito subjetivo de aplicación. Señala la respuesta incorrecta",
+            "opciones": {
+                "a": "La Administración General del Estado, CCAA y entidades Locales",
+                "b": "Las Universidades públicas",
+                "c": "Las entidades de Derecho privado en todo caso cuando ejerzan potestades administrativas"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 31,
+            "pregunta": "T1 La LPAC establece que serán nulas de pleno derecho",
+            "opciones": {
+                "a": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la ley, y las que establezcan la irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+                "b": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias no reservadas a la ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+                "c": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 32,
+            "pregunta": "T1 Las asociaciones y organizaciones respresentativas de intereses económicos y sociales:",
+            "opciones": {
+                "a": "Serán titulares de intereses legítimos individuales y colectivos en los términos que reglamentariamente se establezca",
+                "b": "serán titulares de intereses legítimos individuales y colectivos",
+                "c": "Serán titulares de interese legítimos colectivos en los términos que la Ley reconozca"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 33,
+            "pregunta": "T1 Los actos de las Administraciones Públicas son nulos de pleno derecho:",
+            "opciones": {
+                "a": "Los actos expresos o presuntos contrarios al ordenamiento jurídico",
+                "b": "Los que tengan un contenido imposible",
+                "c": "Ambas respuestas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 34,
+            "pregunta": "T1 Los actos nulos y anulables se pueden (señala la incorrecta)",
+            "opciones": {
+                "a": "Convertir y convalidar",
+                "b": "conservar y convertir",
+                "c": "convalidar y conservar"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 35,
+            "pregunta": "T1 Respecto a la obligacion de inscribirse en el padrón: Quien viva en varios municipios deberá inscribirse",
+            "opciones": {
+                "a": "En al menos dos municipios en donde habite TEST ADMINISTRATIVOS 5",
+                "b": "En el municipio de menor población",
+                "c": "Unicamente en el municipio que habite durante más tiempo"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 36,
+            "pregunta": "T1 Según la LPAC serán motivados con sucinta referencia de hechos y fundamentos de derecho",
+            "opciones": {
+                "a": "Los actos que no se dicten en el ejercicio de potestades discrecionales, así como los que deban serlo en virtud de disposición legal o reglamentaria expresa",
+                "b": "Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.",
+                "c": "Los actos que no se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 37,
+            "pregunta": "T1 Señale la respuesta correcta",
+            "opciones": {
+                "a": "El sentido del silencio tendrá efecto desestimatorio en los procedimientos de impugnación de actos y disposiciones",
+                "b": "La estimación o desestimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento",
+                "c": "La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso que resulte procedente"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 38,
+            "pregunta": "T10 - Las Haciendas Locales se nutrirán:",
+            "opciones": {
+                "a": "Fundamentalmente de tributos propios y de participación en los del Estado y CC.AA.",
+                "b": "Fundamentalmente en tributos propios.",
+                "c": "Fundamentalmente en tributos propios y de participación en la UE."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 39,
+            "pregunta": "T10 La Hacienda de las Entidades Locales estará constituida por los siguientes recursos:",
+            "opciones": {
+                "a": "Tributos propios",
+                "b": "Precios públicos",
+                "c": "Ambas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 40,
+            "pregunta": "T10 Los actos administrativos dictados en materia de gestión tributaria, confirmados por sentencia judicial firme",
+            "opciones": {
+                "a": "Serán revisables",
+                "b": "No serán revisables",
+                "c": "Se les podrá interponer recurso de alzada"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 41,
+            "pregunta": "T11 - Las retenciones de crédito podrán realizarse en las siguientes situaciones:",
+            "opciones": {
+                "a": "Creditos retenidos para gastos",
+                "b": "Creditos retenidos para bajas",
+                "c": "A y B son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 42,
+            "pregunta": "T11 Según la Base 4ª de créditos presupuestarios, ¿de qué está formada la posición presupuestria?:",
+            "opciones": {
+                "a": "Clasificación por programas y económica, el fondo y el proyecto",
+                "b": "Clasificación orgánica y económica, el fondo y el proyecto",
+                "c": "Clasificación orgánica, por programas y económica, el fondo y el proyecto"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 43,
+            "pregunta": "T12 - El régimen de concesión directa de subvenciones se iniciará:",
+            "opciones": {
+                "a": "De oficio",
+                "b": "A instancia del interesado",
+                "c": "Ambas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 44,
+            "pregunta": "T12 El Plan Estratégico Municipal de Subvenciones tendrá un vigencia de:",
+            "opciones": {
+                "a": "4 años, salvo que motivadamente sea conveniente establecer un plazo diferente",
+                "b": "3 años, salvo que motivadamente sea conveniente establecer un plazo diferente",
+                "c": "2 años, salvo que motivadamente sea conveniente establecer un plazo diferente TEST ADMINISTRATIVOS 6"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 45,
+            "pregunta": "T12 Es un criterio para otorgar las subvenciones del Ayto. de Valencia que quien presente la petición",
+            "opciones": {
+                "a": "Nunca haya cobrado una subveción.",
+                "b": "Sea una persona física",
+                "c": "Esté al corriente del Pago de Tributos Municipales"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 46,
+            "pregunta": "T12 Se regirán por la Ordenanza General de Subvenciones del Ayto. de Valencia y sus organismos públicos",
+            "opciones": {
+                "a": "Las ayudas económicas de emergencia social",
+                "b": "La que se entrega sujeta al cumplimento de un determinado objetivo",
+                "c": "Los premios que se otorguen sin previa solicitud de la persona o entidad beneficiaria"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 47,
+            "pregunta": "T13 - El ámbito de aplicacion de la Ordenanza reguladora de Obras de Edificación y Actividades del Ayuntamiento de València es:",
+            "opciones": {
+                "a": "Las solicitudes, tanto de obras como de actividades de carácter ambiental, espectáculos públicos o actividades recreativas, en el término municipal de València.",
+                "b": "Todas las solicitudes de obras, ya sean estas de carácter ambiental, espectáculos públicos o actividades recreativas, en el término municipal de València",
+                "c": "Las solicitudes, tanto de obras como de actividades de carácter ambiental, en el término municipal de València."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 48,
+            "pregunta": "T13 ¿Quién es el Proyectista?",
+            "opciones": {
+                "a": "Es el agente que, por encargo del Director de obra y con sujeción a la normativa técnica y urbanística correspondiente, redacta el proyecto",
+                "b": "Es el agente que, por encargo del constructor de obra y con sujeción a la normativa técnica y urbanística correspondiente, redacta el proyecto",
+                "c": "Es el agente que, por encargo del promotor de obra y con sujeción a la normativa técnica y urbanística correspondiente, redacta el proyecto"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 49,
+            "pregunta": "T13 En el ejercicio de las actuaciones autorizadas, las licencias podrán ser invocadadas por los titulares para",
+            "opciones": {
+                "a": "excluir la responsabilidad civil o penal",
+                "b": "para disminuir la responsabilidad civil",
+                "c": "No podrán ser invocadas para excluir la resposabilidad civil o penal"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 50,
+            "pregunta": "T14 - El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su cosentimiento cuando:",
+            "opciones": {
+                "a": "Sea mayor de edad",
+                "b": "Sea mayor de 14 años",
+                "c": "Cuando sea mayor de 14 años y esté emancipado."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 51,
+            "pregunta": "T14 - La solicitud para eL ejercicio del derecho de acceso a la información pública debe presentarse:",
+            "opciones": {
+                "a": "Únicamente por medios electrónicos",
+                "b": "Únicamente de manera presencial, personándose el interesado.",
+                "c": "Por cualquier medio que permita tener constancia de, por ejemplo, la identidad del solicitanto y la información que se solicita"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 52,
+            "pregunta": "T14 El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento",
+            "opciones": {
+                "a": "cuando sea mayor de 16 años",
+                "b": "cuando sea mayor de 15 años",
+                "c": "cuando sea mayor de 14 años"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 53,
+            "pregunta": "T14 La transparencia en la actividad pública. Se aplicará a:",
+            "opciones": {
+                "a": "La casa de su Majestad el Rey",
+                "b": "Todos los ciudadanos de la Unión Europea TEST ADMINISTRATIVOS 7",
+                "c": "La iglesia Católica"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 54,
+            "pregunta": "T15 - Es un principio de acción preventiva, entre otros:",
+            "opciones": {
+                "a": "Evitar los riesgos",
+                "b": "Dar las debidas instrucciones a los trabajadores",
+                "c": "Ambas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 55,
+            "pregunta": "T15 - Según la LO 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el principio de igualdad de trato entre mujeres y hombres supone",
+            "opciones": {
+                "a": "La ausencia de toda discriminación indirecta, por razón de nacimiento, origen, o sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+                "b": "La ausencia de toda discriminación directa por razón de nacimiento o sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+                "c": "La ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 56,
+            "pregunta": "T15 Cuando en un mismo centro de trabajo desarrollen actividades 2 o más empresas",
+            "opciones": {
+                "a": "Estas deberán cooperar en la aplicación de la normativa sobre prenvención de riesgos laborales",
+                "b": "Los trabajadores coordinarán la aplicación de la normativa sobre prenvención de riesgos laborales",
+                "c": "No deberán cooperar en la aplicación de la normativa sobre prenvención de riesgos laborales"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 57,
+            "pregunta": "T15 El Portal de Transparencia contendrá información publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente, que deberán adecuarse a los siguientes principios:",
+            "opciones": {
+                "a": "Operabilidad",
+                "b": "Interoperabilidad",
+                "c": "Conservación"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 58,
+            "pregunta": "T15 La Ley 3/2007 para la igualdad efectiva de mujeres y hombres, prevé medidas destinadas a eliminar y corregir la discriminación por razón de sexo en",
+            "opciones": {
+                "a": "los sectores público y privado",
+                "b": "solo en las fuerzas armadas",
+                "c": "solo en casos de emergencia"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 59,
+            "pregunta": "T16 El principio de igualdad de trato entre mujeres y hombres supone la ausencia de toda discriminación directa o indirecta por razón de sexo, y especialmente las derivadas de",
+            "opciones": {
+                "a": "la maternidad, la asunción de las obligaciones familiares y el estado civil",
+                "b": "la nomina, la asunción de obligaciones familiares y el estado civil",
+                "c": "la maternidad, la asunción de obligaciones familiares y el empleo"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 60,
+            "pregunta": "T17 Cuando la utilización de un equipo de trabajo pueda presentar un riesgo específico para la seguridad y la salud de los trabajadores, el empresario adoptará las medidas necesarias con el fin de que:",
+            "opciones": {
+                "a": "La utilización de los equipos de trabajo quede reservada a los encargados de dicha utilización",
+                "b": "Los trabajos de reparación, transformación, mantenimiento o conservación sean realizados por los encargados específicamente capacitados para ello.",
+                "c": "La utilización de los equipos de trabajo quede reservada a los trabajadores de dicha utilización"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 61,
+            "pregunta": "T2 - De conformidad con lo establecido en el artículo 42 de la Ley 39/2015 en relación a la práctica de las notificaciones en papel, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona",
+            "opciones": {
+                "a": "Menor de edad que se encuentre en el domicilio y haga constar su identidad.",
+                "b": "Mayor de 14 años que se encuentre en el domicilio y haga constar su identidad.",
+                "c": "Mayor de 21 años que se encuentre en el domicilio y haga constar su identidad. TEST ADMINISTRATIVOS 8"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 62,
+            "pregunta": "T2 Los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+            "opciones": {
+                "a": "10 días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto",
+                "b": "15 días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto",
+                "c": "20 días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 63,
+            "pregunta": "T3 - De acuerdo con el art. 122 de la Ley 39/2015 LPAC, contra la resolución de un recurso de alzada",
+            "opciones": {
+                "a": "No cabrá la interposición de otro recurso administrativo en ningún caso.",
+                "b": "Cabrá la interposición del recurso de reposición.",
+                "c": "No cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en algunos casos."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 64,
+            "pregunta": "T3 ¿Cuál de los siguientes barrios forma parte del ámbito territorial de la Junta Municipal de Ciutat Vella?",
+            "opciones": {
+                "a": "Campanar.",
+                "b": "El Pilar.",
+                "c": "La Petxina."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 65,
+            "pregunta": "T3 ¿Cuál de los siguientes barrios NO forma parte del ámbito territorial de la Junta Municipal de Marítimo?",
+            "opciones": {
+                "a": "Ciudad Jardín.",
+                "b": "La Isla Perdida.",
+                "c": "Marxalenes."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 66,
+            "pregunta": "T3 ¿Cuál de los siguientes núcleos urbanos forma parte de los denominados “Pueblos de València”?",
+            "opciones": {
+                "a": "Alboraya.",
+                "b": "Foios.",
+                "c": "Mahuella."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 67,
+            "pregunta": "T3 ¿Cuál de los siguientes núcleos urbanos NO forma parte de los denominados “Pueblos de València”?",
+            "opciones": {
+                "a": "Pinedo.",
+                "b": "Perellonet.",
+                "c": "Sedaví."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 68,
+            "pregunta": "T3 Con independencia de las funciones que correspondan a los órganos directivos de acuerdo con la legislación básica de régimen local, la coordinación de la Secretaría municipal corresponderá…",
+            "opciones": {
+                "a": "Al la Alcadía.",
+                "b": "Al primer Teniente de Alcalde.",
+                "c": "A la persona titular de la Secretaría del Pleno."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 69,
+            "pregunta": "T3 Contra las disposiciones administrativas de carácter general:",
+            "opciones": {
+                "a": "Cabrá Recurso de Alzada",
+                "b": "Cabrá Recurso de Potestativo de Reposición",
+                "c": "No cabrá recurso en vía administrativa"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 70,
+            "pregunta": "T3 El alcalde o alcaldesa nombrará a las tenientes y los tenientes de alcalde mediante Resolución, especificando el orden de su nombramiento, entre los concejales y concejalas que formen parte...",
+            "opciones": {
+                "a": "De alguna Delegación.",
+                "b": "De la Junta de Gobierno Local.",
+                "c": "De su Grupo Político municipal."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 71,
+            "pregunta": "T3 El letrado o letrada titular de la Asesoría Jurídica municipal recibe la denominación histórica de… 9",
+            "opciones": {
+                "a": "Advocat o Advocada de la Ciutat.",
+                "b": "Defensor o Defensora de la Ciutat.",
+                "c": "Jurista de la Ciutat."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 72,
+            "pregunta": "T3 El número de áreas de gobierno del Ayuntamiento de València no podrá exceder…",
+            "opciones": {
+                "a": "De diez, excluida la Alcaldía.",
+                "b": "Del número de concejales del Grupo Político del Gobierno Local, excluida la Alcaldía.",
+                "c": "Del número de miembros de la Junta de Gobierno Local, excluida la Alcaldía."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 73,
+            "pregunta": "T3 El orden del día de las sesiones de la Junta de Gobierno Local (JGL) será remitido a todas las personas que la integran en el momento de la convocatoria. ¿También se remitirá el orden del día a los Grupos Políticos Municipales?",
+            "opciones": {
+                "a": "No en el momento de la convocatoria, pero sí una vez terminada la sesión de la JGL.",
+                "b": "No, solo será remitido a las personas que intengran la JGL.",
+                "c": "Sí, a través de sus portavoces."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 74,
+            "pregunta": "T3 El órgano de apoyo a la Junta de Gobierno Local y al concejal-secretario o concejala-secretaria de la misma se denomina…",
+            "opciones": {
+                "a": "Secretario o Secretaria de la Junta de Gobierno Local.",
+                "b": "Secretario o Secretaria General de la Administración Municipal.",
+                "c": "Secretario o Secretaria General y del Pleno."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 75,
+            "pregunta": "T3 El secretario o secretaria general de la Administración Municipal será nombrado por la Junta de Gobierno Local, a propuesta del alcalde o alcaldesa, entre…",
+            "opciones": {
+                "a": "Funcionarios de Administración Local con habilitación de carácter nacional.",
+                "b": "Funcionarios del subgrupo A1 con más de cinco años de experiencial profesional.",
+                "c": "Sus miembros."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 76,
+            "pregunta": "T3 Empezando por los responsables superiores de las áreas de gobierno, ¿cuál es su ordenación jerárquica?",
+            "opciones": {
+                "a": "Concejal delegado, teniente de alcade, director general y coordinador general.",
+                "b": "Teniente de alcalde, concejal delegado, coordinador general y director general.",
+                "c": "Teniente de alcalde, concejal delegado, director general y coordinador general."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 77,
+            "pregunta": "T3 En el acta de la sesiones de la Junta de Gobierno Local constará…",
+            "opciones": {
+                "a": "El lugar de reunión.",
+                "b": "El sentido del voto de los miembros presentes.",
+                "c": "La hora de finalización."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 78,
+            "pregunta": "T3 La Alcaldía distribuirá la responsabilidad de las distintas áreas de gobierno del Ayuntamiento de València entre…",
+            "opciones": {
+                "a": "Los concejales delegados y concejalas delegadas integrantes de la Junta de Gobierno Local.",
+                "b": "Los concejales y concejalas que líbremente determine la Alcaldía.",
+                "c": "Los tenientes y las tenientas de alcalde integrantes de la Junta de Gobierno Local."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 79,
+            "pregunta": "T3 La Asesoría Jurídica del Ayuntamiento de València es el órgano administrativo responsable de la asistencia jurídica a la Alcaldía, a los órganos directivos y...",
+            "opciones": {
+                "a": "A la Junta de Gobierno Local.",
+                "b": "A los Tenientes de Alcalde.",
+                "c": "Al Pleno."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 80,
+            "pregunta": "T3 La Secretaría Municipal NO estará integrada por…",
+            "opciones": {
+                "a": "La persona titular de la Secretaría General de la Administración Municipal.",
+                "b": "Los secretarios o secretarias encargados de la coordinación jurídicoadministrativa.",
+                "c": "Los secretarios o secretarias encagados de dar apoyo al equipo de gobierno. TEST ADMINISTRATIVOS 10"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 81,
+            "pregunta": "T3 Las decisiones administrativas que adopten los miembros del gobierno tomarán la forma de…",
+            "opciones": {
+                "a": "Acuerdos.",
+                "b": "Dictámenes.",
+                "c": "Resoluciones."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 82,
+            "pregunta": "T3 Las decisiones que adopte la Junta de Gobierno Local en el ejercicio de sus competencias tomarán la forma de...",
+            "opciones": {
+                "a": "Acuerdos.",
+                "b": "Decisiones.",
+                "c": "Resoluciones."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 83,
+            "pregunta": "T3 Las sesiones de la Junta de Gobierno Local…",
+            "opciones": {
+                "a": "No serán públicas en ningún caso.",
+                "b": "Serán públicas.",
+                "c": "Solo serán públicas cuando así lo determine la Alcadía."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 84,
+            "pregunta": "T3 Las sesiones ordinarias de la Junta de Gobierno Local del Ayuntamiento de València se celebrarán con una periodicidad…",
+            "opciones": {
+                "a": "Mensual.",
+                "b": "Quincenal.",
+                "c": "Semanal."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 85,
+            "pregunta": "T3 Las sesiones ordinarias y extraordinarias de la Junta de Gobierno Local serán convocadas por la Alcaldía con al menos…",
+            "opciones": {
+                "a": "Cuarenta y ocho horas de antelación.",
+                "b": "Tres días de antelación.",
+                "c": "Veinticuatro horas de antelación."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 86,
+            "pregunta": "T3 Los concejales delegados y concejalas delegadas se nombrarán por la Alcaldía, para asumir responsabilidades directivas políticas concretas en un ámbito de materias correspondiente a…",
+            "opciones": {
+                "a": "Un área de gobierno.",
+                "b": "Un servicio municipal.",
+                "c": "Una sección de gobierno."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 87,
+            "pregunta": "T3 Para ejercer las competencias y desarrollar las funciones de gobierno y administración que les correspondan, las áreas de gobierno, integran…",
+            "opciones": {
+                "a": "Una o más concejalías delegadas.",
+                "b": "Una o más secciones.",
+                "c": "Uno o más departamentos municipales."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 88,
+            "pregunta": "T4 - De acuerdo con el artículo 3 de la Ley 40/2015, las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de:",
+            "opciones": {
+                "a": "Eficacia, jerarquía, descentralización, desconcentración y coordinación",
+                "b": "Eficiencia, jerarquía, descentralización, desconcentración y coordinación",
+                "c": "Eficacia, descentralización, desconcentración y coordinación"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 89,
+            "pregunta": "T4 Corresponde al secretario del órgano colegiado.",
+            "opciones": {
+                "a": "Participar en los debates de las sesiones.",
+                "b": "Efectuar la convocatoria de las sesiones del órgano, por orden del Presidente.",
+                "c": "Formular ruego y preguntas"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 90,
+            "pregunta": "T4 En las resoluciones y actos que se firmen por delegación se hará constar",
+            "opciones": {
+                "a": "esta circunstancia y la autoridad de procedencia",
+                "b": "solo la auroridad en la que se delega TEST ADMINISTRATIVOS 11",
+                "c": "No es necesario que se haga constar la delegación"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 91,
+            "pregunta": "T4 Las Administraciones Públicas deberán respetar en su actuación y relaciones los siguientes principios:",
+            "opciones": {
+                "a": "Simplicidad, claridad y proximidad a los ciudadanos",
+                "b": "Buena fe, confianza legítima y lealtad institucional",
+                "c": "Ambas son correctas"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 92,
+            "pregunta": "T5 - Según el artículo 30 de la Ley 40/2015, de 1 de octubre, de régimen Jurídico del Sector Público, salvo que la ley disponga otro plazo, ¿cuándo prescriben las infracciones leves?:",
+            "opciones": {
+                "a": "A los 5 años",
+                "b": "A los seis meses",
+                "c": "A los 15 años"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 93,
+            "pregunta": "T5 La indemnización",
+            "opciones": {
+                "a": "No podrá sustituirse por una compensación en especie",
+                "b": "No se podrán exigir intereses de demora",
+                "c": "Se podrá abonar mediante pagos periodicos, siempre que exista acuerdo con el interesado"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 94,
+            "pregunta": "T5 Las infracciones y sanciones prescribirán",
+            "opciones": {
+                "a": "Infracciones a los 2 años, sanciones a los 4 años",
+                "b": "Nunca se podrá interrumpir el plazo de prescripión",
+                "c": "Prescribirán según lo dispuesto en la Ley que las establezcan"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 95,
+            "pregunta": "T5 Las infracciones y sanciones prescribirán según lo dispuesto en las leyes que las establezcan. Si éstas no fijan plazo de prescripción, las sanciones impuestas por faltas leves prescribirán:",
+            "opciones": {
+                "a": "a los 6 meses",
+                "b": "al año",
+                "c": "a los 2 años"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 96,
+            "pregunta": "T6 - Dentro de un municipio de régimen común ¿A qué órgano municipal le corresponde la aprobación de las bases de la convocatoria de selección de personal municipal?",
+            "opciones": {
+                "a": "Al Alcalde",
+                "b": "A los ciudadanos",
+                "c": "Al Ayuntamiento"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 97,
+            "pregunta": "T6 ¿A quién corresponde la declaración de no disponibilidad de créditos, así como su reposición a disponible?",
+            "opciones": {
+                "a": "A la Alcaldía.",
+                "b": "Al Pleno.",
+                "c": "Al Servicio Presupuestario."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 98,
+            "pregunta": "T6 ¿Con qué frecuencia se dará cuenta al Pleno de la creación de conceptos y subconceptos?",
+            "opciones": {
+                "a": "El Servicio Presupuestario está facultado para la creación de conceptos y subconceptos, sin necesidad de dar cuenta al Pleno.",
+                "b": "Mensualmente.",
+                "c": "Trimestralmente."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 99,
+            "pregunta": "T6 ¿Cuál de las siguientes NO es una fase de la gestión del presupuesto de gastos?",
+            "opciones": {
+                "a": "Disposición o compromiso del gasto.",
+                "b": "Estudio y selección de los presupuestos de gastos.",
+                "c": "Reconocimiento o liquidación de la obligación."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 100,
+            "pregunta": "T6 ¿Cuál es la primera fase de la gestión del presupuesto de gastos en la que la Entidad local realiza un acto con relevancia jurídica para con terceros? 12",
+            "opciones": {
+                "a": "Autorización del gasto.",
+                "b": "Disposición o compromiso del gasto.",
+                "c": "Reconocimiento o liquidación de la obligación."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 101,
+            "pregunta": "T6 Con carácter general, cuando en el inicio del expediente de gasto se conozca su cuantía exacta y el nombre del perceptor se tramitará el documento contable en fase…",
+            "opciones": {
+                "a": "ABC.",
+                "b": "AD.",
+                "c": "ADO."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 102,
+            "pregunta": "T6 El Alcalde, los Tenientes de Alcade y el Pleno existen en:",
+            "opciones": {
+                "a": "En algunos Ayuntamientos",
+                "b": "En todos los Ayuntamientos",
+                "c": "En municipios de Más de 5000 habitantes"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 103,
+            "pregunta": "T6 El Ayuntamiento incluye, bajo la rúbrica Fondo de Contingencia, una aplicación en el capítulo V del Presupuesto de Gastos, consignada en un sector presupuestario independiente: …",
+            "opciones": {
+                "a": "AE540 92900 50002.",
+                "b": "FC540 92900 50002.",
+                "c": "PG540 92900 50002."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 104,
+            "pregunta": "T6 El Presupuesto General del Ayuntamiento de València está integrado, entre otros, por los presupuestos de los Organismos Autónomos municipales. ¿Cuál de los siguientes NO es uno de ellos?",
+            "opciones": {
+                "a": "Fundación Deportiva Municipal.",
+                "b": "Junta Central Fallera.",
+                "c": "Universitat de València."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 105,
+            "pregunta": "T6 En las transferencias de crédito, cuando la transferencia se realice entre aplicaciones de la misma área de gasto, ¿cuál es el órgano competente?",
+            "opciones": {
+                "a": "El Pleno.",
+                "b": "La concejalía delegada de Hacienda.",
+                "c": "La Junta de Gobierno Local."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 106,
+            "pregunta": "T6 La aprobación de los reconocimientos extrajudiciales de créditos corresponde…",
+            "opciones": {
+                "a": "A la Alcaldía.",
+                "b": "A la concejalía delegada de Hacienda.",
+                "c": "A la Junta de Gobierno Local."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 107,
+            "pregunta": "T6 La autoritzación del gasto será fiscalizada, con carácter previo a su aprobación, por…",
+            "opciones": {
+                "a": "El ST.",
+                "b": "La ADO.",
+                "c": "La IGAV."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 108,
+            "pregunta": "T6 La autorización es el acto mediante el cual se acuerda la realización de un gasto…",
+            "opciones": {
+                "a": "Determinado por una cuantía cierta o aproximada.",
+                "b": "Determinado por una cuantía incierta o aproximada.",
+                "c": "Indeterminado por una cuantía cierta o aproximada."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 109,
+            "pregunta": "T6 La incorporación de remanentes consiste en trasladar créditos…",
+            "opciones": {
+                "a": "A otra aplicación presupuestaria.",
+                "b": "Al ejercicio siguiente.",
+                "c": "Del Fondo de Contingencia."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 110,
+            "pregunta": "T6 Los créditos para gastos se encuentran inicialmente en la situación de…",
+            "opciones": {
+                "a": "Disponibles. TEST ADMINISTRATIVOS 13",
+                "b": "No disponibles.",
+                "c": "Pendientes de utilización."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 111,
+            "pregunta": "T6 Los Estados de Ingresos y Gastos del Presupuesto municipal se ordenan…",
+            "opciones": {
+                "a": "Por áreas, por servicios y por secciones.",
+                "b": "Por corrientes, de capital, de transferencia y de inversión.",
+                "c": "Por programas, por categorías económicas y por unidades orgánicas."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 112,
+            "pregunta": "T6 Los gastos en los que la exigibilidad de la obligación pueda ser inmediata, originarán la tramitación del documento en fase…",
+            "opciones": {
+                "a": "ABC.",
+                "b": "AD.",
+                "c": "ADO."
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 113,
+            "pregunta": "T6 Los Municipios con población superior a 5.000 habitantes deberán prestar los servicios siguientes:",
+            "opciones": {
+                "a": "Biblioteca pública",
+                "b": "Protección civil",
+                "c": "Prevención y extinción de incendios"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 114,
+            "pregunta": "T6 Los tribunales ejercen el control de la legalidad de",
+            "opciones": {
+                "a": "Los acuerdos y actos de las entidades locales",
+                "b": "No ejercen ningún control de las entidades locales",
+                "c": "Cuando el interesado así lo solicite"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 115,
+            "pregunta": "T6 No podrán librarse pagos a justificar con cargo al mismo concepto por importe superior a 100.000 € salvo que se refieran a gastos de…",
+            "opciones": {
+                "a": "Personal.",
+                "b": "Sanidad",
+                "c": "Servicios Sociales"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 116,
+            "pregunta": "T6 Según las Bases de ejecución del presupuesto, ¿qué supone la vinculación jurídica?",
+            "opciones": {
+                "a": "El cumplimiento de la norma jurídica que regula el gasto.",
+                "b": "El límite máximo de gasto.",
+                "c": "La prevalencia de la norma general, sobre la específica."
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 117,
+            "pregunta": "T6 Son elementos del municipio",
+            "opciones": {
+                "a": "Los jardines",
+                "b": "El territorio, la población y la organización",
+                "c": "Los edificios cedidos por acuerdo marco"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 118,
+            "pregunta": "T7 - Un funcionario en situación de excedencia voluntaria incentivada puede permanecer en dicha situación un plazo de",
+            "opciones": {
+                "a": "10 años",
+                "b": "No hay límite de tiempo siempre que sobrepase los 5 años",
+                "c": "5 años"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 119,
+            "pregunta": "T7 La función de la Secretaria comprende",
+            "opciones": {
+                "a": "El inicio de los expedientes de oficio",
+                "b": "El asesoramiento legal en la modificación de la plantilla",
+                "c": "El asesoramiento legal y preceptivo de las corporaciones, así como de su presidente y la fe pública de todos los actos y acuerdos"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 120,
+            "pregunta": "T7 Las circunstancias que pueden dar lugar al nombramiento del personal funcionario interino son las siguientes: 14",
+            "opciones": {
+                "a": "La sustitución transitoria de la persona titular de un puesto de trabajo, durante el tiempo estrictamente necesario",
+                "b": "El exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un período de doce meses.",
+                "c": "La existencia de puestos de trabajo vacantes, cuando no sea posible su cobertura por personal funcionario de carrera, por un máximod de cuatro años, en los términos previstos en el apartado 9."
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 121,
+            "pregunta": "T8 - La calificación de los contratos que recoge la LCSP en su art. 12.1 es la siguiente",
+            "opciones": {
+                "a": "Contratos de obras y contrato de concesión de obras.",
+                "b": "Contratos de obras, concesión de obras, concesión de servicios, suministro y servicios.",
+                "c": "Contratos de obras, de suministro y servicios"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 122,
+            "pregunta": "T8 En caso de que el órgano competente aprecie temeridad o mala fe en la interposición del recurso especial o en la solicitud de medidas cautelares, podrá acordar la imposición de una multa al responsable de la misma. El importe de la multa será:",
+            "opciones": {
+                "a": "Entre 10.000 y 30.000 euros",
+                "b": "Entre 1.000 y 30.000 euros",
+                "c": "Entre 1.000 y 3.000 euros"
+            },
+            "respuesta_correcta": "B",
+            "explicacion": "La respuesta correcta es la opción (B), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 123,
+            "pregunta": "T8 Se facilitará el acceso en la contratación pública de",
+            "opciones": {
+                "a": "Las pequeñas y medianas empresas",
+                "b": "Las grandes empresas y contratistas",
+                "c": "los contratos en el ámbito de la seguridad o de la defensa"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 124,
+            "pregunta": "T9 - Al expediente del contrato se incorporarán:",
+            "opciones": {
+                "a": "El pliego de cláusulas administrativas particulares y el de prescripciones técnicas que hayan de regir el contrato",
+                "b": "El anuncio de información previa y el anuncio de licitación",
+                "c": "El documento de confidencialidad"
+            },
+            "respuesta_correcta": "A",
+            "explicacion": "La respuesta correcta es la opción (A), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        },
+        {
+            "numero": 125,
+            "pregunta": "T9 Se consideran contratos menores",
+            "opciones": {
+                "a": "Los contratos de obras de valor estimado inferior a 50.000 euros",
+                "b": "Los contratos de suministro o servicios de valor estimado inferior a 12.000 euros",
+                "c": "Los contratos de obras de valor estimado inferior a 40.000 euros"
+            },
+            "respuesta_correcta": "C",
+            "explicacion": "La respuesta correcta es la opción (C), de conformidad con la normativa aplicable (Ley 39/2015 del Procedimiento Administrativo Común, Ley 40/2015 del Régimen Jurídico del Sector Público y legislación local)."
+        }
+    ]
+}

@@ -1,0 +1,1095 @@
+{
+    "documento": "09/AUX-L",
+    "secciones": [
+        {
+            "nombre": "PRIMERA PARTE",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "enunciado": "Según la Constitución, son Leyes Orgánicas:",
+                    "opciones": {
+                        "a": "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas.",
+                        "b": "Las relativas a los bienes de dominio público y comunales.",
+                        "c": "Las relativas a los tributos, impuestos y beneficios fiscales.",
+                        "d": "Las relativas al régimen electoral general."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 2,
+                    "enunciado": "La iniciativa de reforma constitucional corresponde, según nuestra normativa constitucional:",
+                    "opciones": {
+                        "a": "Al Gobierno.",
+                        "b": "Al Defensor del Pueblo.",
+                        "c": "Al Tribunal Constitucional.",
+                        "d": "A los órganos colegiados ejecutivos de las Comunidades Autónomas."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 3,
+                    "enunciado": "Según la Constitución, es un principio rector de la política social y económica:",
+                    "opciones": {
+                        "a": "La salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero.",
+                        "b": "La libertad de empresa en el marco de la economía de mercado.",
+                        "c": "La libertad de enseñanza.",
+                        "d": "El pleno desarrollo de la personalidad humana."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 4,
+                    "enunciado": "Para ejercer la Regencia es preciso, según nuestra normativa constitucional:",
+                    "opciones": {
+                        "a": "Ser mayor de edad.",
+                        "b": "Ser español y mayor de edad.",
+                        "c": "Ser español de nacimiento y mayor de edad.",
+                        "d": "Ser mayor de edad y nacional de un Estado miembro de la Unión Europea."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 5,
+                    "enunciado": "De conformidad con el artículo 62 de la Constitución, corresponde al Rey:",
+                    "opciones": {
+                        "a": "Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución.",
+                        "b": "Sancionar y promulgar las Leyes y ordenar la publicación de las Órdenes Ministeriales.",
+                        "c": "El mando supremo de los Cuerpos y Fuerzas de Seguridad del Estado.",
+                        "d": "Ejercer el derecho de gracia de acuerdo con los Tratados Internacionales."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 6,
+                    "enunciado": "Señale la afirmación correcta respecto al recurso de inconstitucionalidad, según la Constitución:",
+                    "opciones": {
+                        "a": "Está legitimado para interponerlo el Ministerio Fiscal.",
+                        "b": "Se interpone contra Leyes y disposiciones normativas con rango reglamentario.",
+                        "c": "Está legitimado para interponerlo el Defensor del Pueblo.",
+                        "d": "Podrá interponerse el recurso en cualquier momento desde la publicación oficial de la disposición normativa."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 7,
+                    "enunciado": "De acuerdo con la Constitución, en relación con el Senado, señale la respuesta correcta:",
+                    "opciones": {
+                        "a": "En cada provincia se elegirán tres senadores por sufragio universal...",
+                        "b": "Las Comunidades Autónomas designarán un Senador y dos más por cada millón de habitantes...",
+                        "c": "En Gran Canaria, Mallorca y Tenerife se elegirán dos senadores por los votantes de cada una de ellas.",
+                        "d": "Las poblaciones de Ceuta y Melilla elegirán cada una de ellas dos senadores."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 8,
+                    "enunciado": "Los Decretos-Leyes podrán afectar:",
+                    "opciones": {
+                        "a": "A la protección social, económica y jurídica de la familia.",
+                        "b": "Al régimen de las Comunidades Autónomas.",
+                        "c": "Al Derecho electoral general.",
+                        "d": "A la libertad ideológica, religiosa y de culto."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 9,
+                    "enunciado": "Según la Constitución, el Consejo General del Poder Judicial estará integrado, entre otros, por...",
+                    "opciones": {
+                        "a": "Dos miembros a propuesta del Gobierno.",
+                        "b": "Dos miembros a propuesta del Congreso de los Diputados...",
+                        "c": "Cuatro miembros a propuesta del Senado...",
+                        "d": "Cuatro miembros a propuesta del Senado, elegidos por mayoría de tres quintos..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 10,
+                    "enunciado": "Marque la afirmación correcta en relación con el Tribunal de Cuentas, según lo establecido por la Constitución:",
+                    "opciones": {
+                        "a": "Depende del Consejo General del Poder Judicial.",
+                        "b": "Elabora un informe anual de la gestión económica de la Administración que remite al Gobierno.",
+                        "c": "El Tribunal de Cuentas es el supremo órgano consultivo del Gobierno.",
+                        "d": "Depende directamente de las Cortes Generales."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 11,
+                    "enunciado": "De conformidad con el artículo 85 de la Constitución, las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+                    "opciones": {
+                        "a": "Decretos-leyes.",
+                        "b": "Decretos Legislativos.",
+                        "c": "Textos Refundidos.",
+                        "d": "Reales Decretos."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 12,
+                    "enunciado": "Señale la afirmación correcta en relación con la regulación constitucional del Gobierno:",
+                    "opciones": {
+                        "a": "El Gobierno se compone del Presidente, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado.",
+                        "b": "Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las Leyes.",
+                        "c": "El Presidente del Gobierno es nombrado por el Rey, a propuesta del Consejo de Ministros.",
+                        "d": "La responsabilidad criminal del Presidente será exigida, en su caso, por el Tribunal Constitucional."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 13,
+                    "enunciado": "Según la Constitución, la legitimación para interponer tanto el recurso de inconstitucionalidad como el recurso de amparo corresponde a:",
+                    "opciones": {
+                        "a": "El Presidente del Gobierno.",
+                        "b": "50 Diputados y 50 Senadores.",
+                        "c": "El Defensor del Pueblo.",
+                        "d": "Toda persona natural o jurídica que invoque un interés legítimo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 14,
+                    "enunciado": "Según la Ley 6/1997, de 14 de abril, los Directores Insulares de la Administración General del Estado son nombrados:",
+                    "opciones": {
+                        "a": "Por el Presidente del Gobierno.",
+                        "b": "Por el Delegado del Gobierno en la Comunidad Autónoma respectiva.",
+                        "c": "Por el Subdelegado del Gobierno en la provincia respectiva.",
+                        "d": "Por el Ministro de Política Territorial."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 15,
+                    "enunciado": "Según la Ley 6/1997, de 14 de abril, los organismos públicos se clasifican en:",
+                    "opciones": {
+                        "a": "Organismos Autónomos, Entidades Públicas Empresariales y Sociedades Mercantiles Estatales.",
+                        "b": "Organismos Autónomos y Entidades Públicas Empresariales.",
+                        "c": "Organismos Autónomos, Entidades Públicas Empresariales y Agencias Estatales.",
+                        "d": "Organismos Autónomos, Entidades Públicas Empresariales y Fundaciones del sector público estatal."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 16,
+                    "enunciado": "Respecto a la organización administrativa, señale cuál de las siguientes afirmaciones es correcta de acuerdo con la Ley 6/1997, de 14 de abril:",
+                    "opciones": {
+                        "a": "Los Secretarios Generales Técnicos tienen a todos los efectos la categoría de Director General.",
+                        "b": "Los Secretarios de Estado son órganos directivos.",
+                        "c": "Los Subdirectores generales tienen la condición de alto cargo.",
+                        "d": "Los Subsecretarios son órganos superiores."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 17,
+                    "enunciado": "De conformidad con lo establecido en el artículo 148.1 de la Constitución, las Comunidades Autónomas podrán asumir competencias en las siguientes materias:",
+                    "opciones": {
+                        "a": "Administración de Justicia.",
+                        "b": "Legislación básica sobre protección del medio ambiente.",
+                        "c": "Asistencia social.",
+                        "d": "Legislación laboral."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 18,
+                    "enunciado": "Los Jefes de Estado o de Gobierno de la Unión Europea, asistidos por sus Ministros de Asuntos Exteriores, se reúnen al menos dos veces al año, conformando el:",
+                    "opciones": {
+                        "a": "Consejo de Asuntos Generales.",
+                        "b": "Consejo de la Unión Europea.",
+                        "c": "Consejo Europeo.",
+                        "d": "Consejo de Europa."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 19,
+                    "enunciado": "¿Qué instituciones participan en el nombramiento del Presidente de la Comisión Europea?:",
+                    "opciones": {
+                        "a": "El Consejo Europeo y el Consejo de la Unión Europea.",
+                        "b": "El Consejo de la Unión Europea y el Parlamento.",
+                        "c": "El Consejo de la Unión Europea, el Parlamento y el Tribunal de Justicia.",
+                        "d": "El Consejo Europeo, el Consejo de la Unión Europea y el Parlamento."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 20,
+                    "enunciado": "En la actualidad, ¿cuántos diputados del Parlamento Europeo han sido elegidos por España?:",
+                    "opciones": {
+                        "a": "Cuarenta.",
+                        "b": "Cuarenta y cuatro.",
+                        "c": "Cincuenta.",
+                        "d": "Cincuenta y cuatro."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 21,
+                    "enunciado": "Salvo disposición expresa en contrario, y según lo establecido en la Ley 30/1992, de 26 de noviembre, los informes serán:",
+                    "opciones": {
+                        "a": "Evacuados en el plazo de 15 días.",
+                        "b": "Preceptivos y no determinantes.",
+                        "c": "Facultativos y no vinculantes.",
+                        "d": "Necesarios para resolver."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 22,
+                    "enunciado": "Señale la afirmación correcta en relación con el trámite de audiencia, según la Ley 30/1992, de 26 de noviembre:",
+                    "opciones": {
+                        "a": "El trámite de audiencia se realiza inmediatamente antes de redactar la propuesta de resolución.",
+                        "b": "No se puede prescindir del trámite de audiencia.",
+                        "c": "El plazo para realizar las alegaciones en el trámite de audiencia es de veinte días.",
+                        "d": "Los interesados no podrán alegar en este trámite defectos de tramitación."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 23,
+                    "enunciado": "Según el Estatuto Básico del Empleado Público, ¿cuáles son los principios rectores de acceso al empleo público?",
+                    "opciones": {
+                        "a": "Los principios de igualdad, mérito, capacidad y publicidad.",
+                        "b": "Los principios de igualdad, mérito, capacidad y publicidad, así como el de profesionalidad e imparcialidad.",
+                        "c": "Los principios constitucionales de igualdad, mérito y capacidad...",
+                        "d": "Los principios de igualdad, mérito, capacidad y publicidad, así como el de profesionalidad, imparcialidad y transparencia."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 24,
+                    "enunciado": "El artículo 8.2 del Estatuto Básico del Empleado Público establece que los empleados públicos se clasifican en:",
+                    "opciones": {
+                        "a": "Funcionarios de carrera y personal laboral.",
+                        "b": "Funcionarios de carrera, funcionarios interinos y personal laboral.",
+                        "c": "Funcionarios de carrera, funcionarios interinos, personal laboral, y personal eventual.",
+                        "d": "Funcionarios de carrera, funcionarios interinos, personal laboral, personal eventual y personal directivo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 25,
+                    "enunciado": "De acuerdo con el Estatuto Básico del Empleado Público, las retribuciones básicas de los funcionarios están integradas por:",
+                    "opciones": {
+                        "a": "El sueldo y los trienios.",
+                        "b": "El sueldo, los trienios y el complemento de destino.",
+                        "c": "El sueldo y los complementos que retribuyen el rendimiento...",
+                        "d": "El sueldo, exclusivamente."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 26,
+                    "enunciado": "Según el Estatuto Básico del Empleado Público, los funcionarios públicos tendrán derecho a disfrutar, como mínimo, durante cada año natural, de unas vacaciones retribuidas de:",
+                    "opciones": {
+                        "a": "Treinta días hábiles...",
+                        "b": "Treinta y dos días hábiles...",
+                        "c": "Veinte días hábiles...",
+                        "d": "Veintidós días hábiles..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 27,
+                    "enunciado": "Entre las prestaciones a que tienen derecho los mutualistas de MUFACE o sus beneficiarios, cuando se encuentren en los supuestos de hecho legalmente establecidos, no se incluye:",
+                    "opciones": {
+                        "a": "La asistencia sanitaria.",
+                        "b": "La jubilación.",
+                        "c": "Asistencia social.",
+                        "d": "Servicios sociales."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 28,
+                    "enunciado": "La Ley General Presupuestaria establece que los estados de gastos de los Presupuestos del Estado se estructurarán de acuerdo a las siguientes clasificaciones:",
+                    "opciones": {
+                        "a": "Funcional y económica.",
+                        "b": "Funcional, por programas y orgánica.",
+                        "c": "Orgánica, por programas y económica.",
+                        "d": "Económica y orgánica."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 29,
+                    "enunciado": "Según la Constitución, el proyecto de Ley de Presupuestos Generales del Estado elaborado por el Gobierno:",
+                    "opciones": {
+                        "a": "Debe presentarse ante las Cortes Generales al menos dos meses antes...",
+                        "b": "Debe presentarse ante el Senado al menos dos meses antes...",
+                        "c": "Debe presentarse ante el Congreso de los Diputados al menos dos meses antes...",
+                        "d": "Debe presentarse ante el Congreso de los Diputados al menos tres meses antes..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 30,
+                    "enunciado": "La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, clasifica la situación de dependencia en los siguientes grados:",
+                    "opciones": {
+                        "a": "Dependencia leve, dependencia moderada y dependencia severa.",
+                        "b": "Dependencia leve, dependencia moderada, dependencia severa y gran dependencia.",
+                        "c": "Dependencia moderada, dependencia severa y gran dependencia.",
+                        "d": "Dependencia moderada, dependencia grave y gran dependencia."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 31,
+                    "enunciado": "Sinónimo/Significado parecido a SUCINTO:",
+                    "opciones": {
+                        "a": "Donoso.",
+                        "b": "Escueto.",
+                        "c": "Regio.",
+                        "d": "Lacio."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 32,
+                    "enunciado": "Sinónimo/Significado parecido a EXANIME:",
+                    "opciones": {
+                        "a": "Sedicente.",
+                        "b": "Ecuánime.",
+                        "c": "Desmayado.",
+                        "d": "Sediento."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 33,
+                    "enunciado": "Sinónimo/Significado parecido a DISPENDIO:",
+                    "opciones": {
+                        "a": "Banquete.",
+                        "b": "Placer.",
+                        "c": "Exención.",
+                        "d": "Derroche."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 34,
+                    "enunciado": "Sinónimo/Significado parecido a ZAFIO:",
+                    "opciones": {
+                        "a": "Astuto.",
+                        "b": "Indomable.",
+                        "c": "Basto.",
+                        "d": "Belicoso."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 35,
+                    "enunciado": "Sinónimo/Significado parecido a MEDRAR:",
+                    "opciones": {
+                        "a": "Acortar.",
+                        "b": "Dudar.",
+                        "c": "Crecer.",
+                        "d": "Temblar."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 36,
+                    "enunciado": "Sinónimo/Significado parecido a REMISO:",
+                    "opciones": {
+                        "a": "Renuente.",
+                        "b": "Desobediente.",
+                        "c": "Voluble.",
+                        "d": "Amargo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 37,
+                    "enunciado": "Definición correspondiente a ZANJAR:",
+                    "opciones": {
+                        "a": "Remover todas las dificultades que puedan impedir el arreglo de un asunto o negocio.",
+                        "b": "Comida exquisita que fortalece y da vigor al espíritu.",
+                        "c": "Preceptuar, ordenar, determinar algo.",
+                        "d": "Dividir algo o separar sus partes con algún instrumento cortante."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 38,
+                    "enunciado": "Definición correspondiente a ESQUILMAR:",
+                    "opciones": {
+                        "a": "Retraerse, retirarse, excusarse.",
+                        "b": "Cortar el pelo, vellón o lana de los ganados y otros animales.",
+                        "c": "Menoscabar, agotar una fuente de riqueza sacando de ella mayor provecho que el debido.",
+                        "d": "Alisar o dar tersura y lustre a algo."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 39,
+                    "enunciado": "Definición correspondiente a HORADAR:",
+                    "opciones": {
+                        "a": "Poner, sacar o arrojar algo al viento para enjugarlo o limpiarlo.",
+                        "b": "Agujerear algo atravesándolo de parte a parte.",
+                        "c": "Despreciar o tratar con desvío a alguien.",
+                        "d": "Remover la tierra haciendo en ella surcos con el arado."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 40,
+                    "enunciado": "Definición correspondiente a CONMINAR:",
+                    "opciones": {
+                        "a": "Apremiar con potestad a alguien para que obedezca.",
+                        "b": "Dar, otorgar, hacer merced y gracia de algo.",
+                        "c": "Consumir, destruir poco a poco.",
+                        "d": "Llevar a cabo algo totalmente."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 41,
+                    "enunciado": "Definición correspondiente a PASMAR:",
+                    "opciones": {
+                        "a": "Ofender a alguien provocándolo e irritándolo con palabras o acciones.",
+                        "b": "Marcar en el papel o en otra materia las letras y otros caracteres gráficos.",
+                        "c": "Ocasionar o causar suspensión o pérdida de los sentidos y del movimiento.",
+                        "d": "Moldear una materia para darle una forma determinada."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 42,
+                    "enunciado": "Definición correspondiente a EXCELSO:",
+                    "opciones": {
+                        "a": "Gracia por la cual se remite total o parcialmente o se conmuta una pena.",
+                        "b": "Claro, patente, especificado.",
+                        "c": "Parte que sobresale y pasa más allá de la medida o regla.",
+                        "d": "Muy elevado, alto, eminente."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 43,
+                    "enunciado": "¿Cuánto se ha incrementado la inversión de I+D en 2006 sobre el año anterior?",
+                    "opciones": {
+                        "a": "Menos del 6%.",
+                        "b": "Entre el 6 y el 8%.",
+                        "c": "Entre el 8 y el 10%.",
+                        "d": "Más del 10%."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 44,
+                    "enunciado": "¿En qué año es más elevada la inversión en I+D por investigador?",
+                    "opciones": {
+                        "a": "2005.",
+                        "b": "2006.",
+                        "c": "2007.",
+                        "d": "2008."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 45,
+                    "enunciado": "¿A cuánto asciende en 2008 la inversión en I+D en la región este?",
+                    "opciones": {
+                        "a": "A 544,5 millones.",
+                        "b": "A 655,5 millones.",
+                        "c": "A 495 millones.",
+                        "d": "A 455,5 millones."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 46,
+                    "enunciado": "¿Cuánto debería crecer el personal investigador en 2009 para que hubiese un número de investigadores superior en un 30% al del año 2005?",
+                    "opciones": {
+                        "a": "815.",
+                        "b": "620.",
+                        "c": "180.",
+                        "d": "500."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 47,
+                    "enunciado": "En el año 2007 cada investigador gana por término medio 45.000 euros. Si en el año 2008 suben los sueldos un 3%, ¿cuál será el coste de todo el personal investigador?",
+                    "opciones": {
+                        "a": "222.480.000 euros.",
+                        "b": "298.350.000 euros.",
+                        "c": "246.300.000 euros.",
+                        "d": "236.385.000 euros."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 48,
+                    "enunciado": "¿Qué departamento ha gastado MÁS dinero en envíos de cartas?",
+                    "opciones": {
+                        "a": "Departamento A",
+                        "b": "Departamento B",
+                        "c": "Departamento C",
+                        "d": "Departamento D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 49,
+                    "enunciado": "¿Qué departamento ha gastado MENOS dinero en envíos de cartas?",
+                    "opciones": {
+                        "a": "Departamento A",
+                        "b": "Departamento B",
+                        "c": "Departamento C",
+                        "d": "Departamento D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 50,
+                    "enunciado": "¿Qué departamento ha gastado MÁS dinero en envíos de cartas (segunda tabla)?",
+                    "opciones": {
+                        "a": "Departamento A",
+                        "b": "Departamento B",
+                        "c": "Departamento C",
+                        "d": "Departamento D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 51,
+                    "enunciado": "Clasificación de exposición 2009-102 (Segovia)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 52,
+                    "enunciado": "Clasificación de exposición 2009-009 (Vitoria)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 53,
+                    "enunciado": "Clasificación de exposición 2009-838 (Vigo)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 54,
+                    "enunciado": "Clasificación de exposición 2009-915 (Ciudad Real)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 55,
+                    "enunciado": "Clasificación de exposición 2009-776 (Teruel)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 56,
+                    "enunciado": "Clasificación de exposición 2009-624 (Salamanca)",
+                    "opciones": {
+                        "a": "Categoría A",
+                        "b": "Categoría B",
+                        "c": "Categoría C",
+                        "d": "Categoría D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 57,
+                    "enunciado": "Código de símbolos para la palabra AGUJETA:",
+                    "opciones": {
+                        "a": "Opción A",
+                        "b": "Opción B",
+                        "c": "Opción C",
+                        "d": "Opción D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 58,
+                    "enunciado": "Código de símbolos para la palabra ESTRELLAR:",
+                    "opciones": {
+                        "a": "Opción A",
+                        "b": "Opción B",
+                        "c": "Opción C",
+                        "d": "Opción D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 59,
+                    "enunciado": "Código de símbolos para la palabra CENTENARIO:",
+                    "opciones": {
+                        "a": "Opción A",
+                        "b": "Opción B",
+                        "c": "Opción C",
+                        "d": "Opción D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 60,
+                    "enunciado": "Código de símbolos para la palabra INTERMINABLE:",
+                    "opciones": {
+                        "a": "Opción A",
+                        "b": "Opción B",
+                        "c": "Opción C",
+                        "d": "Opción D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                }
+            ]
+        },
+        {
+            "nombre": "SEGUNDA PARTE: ACTIVIDAD ADMINISTRATIVA Y OFIMÁTICA",
+            "preguntas": [
+                {
+                    "numero": 1,
+                    "enunciado": "Señale la afirmación correcta. Según el artículo 35 de la Ley 30/1992, de 26 de noviembre, los ciudadanos tienen derecho a:",
+                    "opciones": {
+                        "a": "Conocer, en cualquier momento, el estado de la tramitación de los procedimientos...",
+                        "b": "Obtener copias de documentos contenidos en los procedimientos sólo cuando se acabe la tramitación...",
+                        "c": "Obtener copias de los documentos contenidos... tengan o no la condición de interesados.",
+                        "d": "Conocer... y a obtener copias... tengan o no la condición de interesados."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 2,
+                    "enunciado": "Señale la afirmación correcta. Las quejas formuladas conforme a lo previsto en el Real Decreto 951/2005, de 29 de julio:",
+                    "opciones": {
+                        "a": "No tendrán la calificación de recurso administrativo.",
+                        "b": "Tienen la condición de recurso administrativo.",
+                        "c": "Su presentación interrumpirá los plazos establecidos en la normativa vigente.",
+                        "d": "Condicionan el ejercicio de las restantes acciones o derechos de los procedimientos..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 3,
+                    "enunciado": "Según el Real Decreto 208/1996, de 9 de febrero, por el que se regulan los Servicios de Información Administrativa y Atención al Ciudadano, la información general se facilitará obligatoriamente a los ciudadanos:",
+                    "opciones": {
+                        "a": "Sin exigir para ello la acreditación de legitimación alguna.",
+                        "b": "Tras exigir para ello la acreditación de legitimación mediante documento acreditativo...",
+                        "c": "Tras exigir para ello la acreditación de legitimación mediante documento original.",
+                        "d": "Tras exigir para ello la acreditación de legitimación mediante documento original o fotocopia compulsada."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 4,
+                    "enunciado": "Según el artículo 38 de la Ley 30/1992, de 26 de noviembre, las solicitudes, escritos y comunicaciones que los ciudadanos dirijan a los órganos de las Administraciones Públicas no pueden presentarse en:",
+                    "opciones": {
+                        "a": "Los Ayuntamientos que no han firmado el correspondiente convenio de colaboración con el Estado.",
+                        "b": "En las oficinas de Correos, en la forma que reglamentariamente se establezca.",
+                        "c": "En las representaciones diplomáticas u oficinas consulares de España en el extranjero.",
+                        "d": "En las Comunidades Autónomas."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 5,
+                    "enunciado": "Según el artículo 28.3 de la Ley 11/2007, se entiende que una notificación electrónica es rechazada cuando:",
+                    "opciones": {
+                        "a": "Existiendo constancia de la puesta a disposición transcurrieran diez días naturales sin que se acceda...",
+                        "b": "Existiendo constancia de la puesta a disposición transcurrieran veinte días naturales sin que se acceda...",
+                        "c": "Existiendo constancia de la puesta a disposición transcurrieran quince días naturales sin que se acceda...",
+                        "d": "Existiendo constancia de la puesta a disposición transcurrieran diez días hábiles sin que se acceda..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 6,
+                    "enunciado": "Si desea imprimir el documento que aparece en pantalla, ¿cuál de los siguientes métodos abreviados deberá utilizar?:",
+                    "opciones": {
+                        "a": "Ctrl + I",
+                        "b": "Alt + I",
+                        "c": "Ctrl + P",
+                        "d": "Alt + F7"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 7,
+                    "enunciado": "Si desea hacer visibles las marcas de formato del documento, ¿cuál de los siguientes botones deberá utilizar?",
+                    "opciones": {
+                        "a": "Botón A",
+                        "b": "Botón B",
+                        "c": "Botón C",
+                        "d": "Botón D"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 8,
+                    "enunciado": "Si pincha sobre el primer párrafo del texto que aparece en la pantalla y observa la regla superior, ¿cómo estarán situadas las marcas de sangría que aparecen en la misma?",
+                    "opciones": {
+                        "a": "Opción a",
+                        "b": "Opción b",
+                        "c": "Opción c",
+                        "d": "Opción d"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 9,
+                    "enunciado": "¿Cuáles de los siguientes efectos de fuente aparecen en la tabla del documento que se ve en la pantalla?",
+                    "opciones": {
+                        "a": "Negrita, superíndice, versales y cursiva.",
+                        "b": "Negrita, subrayado, tachado y superíndice.",
+                        "c": "Negrita, subíndice, subrayado y mayúsculas.",
+                        "d": "Negrita, superíndice, subrayado y versales."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 10,
+                    "enunciado": "¿Cuál de las siguientes opciones se ha utilizado para que aparezca de forma automática en todas las páginas del documento la palabra \"NACIONALIDADES\" que aparece en diagonal en la pantalla?",
+                    "opciones": {
+                        "a": "Marca de agua.",
+                        "b": "Cuadro de texto.",
+                        "c": "Imagen prediseñada.",
+                        "d": "Smart Art."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 11,
+                    "enunciado": "En la celda E14 se ha utilizado la fórmula \"=PROMEDIO($E$5;$E$10)\"... Si se copia su contenido y se pega en la celda H15, ¿cuál de los siguientes resultados aparecerá?",
+                    "opciones": {
+                        "a": "51,0 €",
+                        "b": "12,5 €",
+                        "c": "54,2 €",
+                        "d": "85,0 €"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 12,
+                    "enunciado": "Los resultados de la columna H se han obtenido a partir de la columna G (Importe total). ¿Cuál de las siguientes fórmulas podrá observar que se está utilizando si pincha sobre la celda H2?",
+                    "opciones": {
+                        "a": "REDONDEAR(G2;0)",
+                        "b": "=ENTERO(G2;0)",
+                        "c": "=ABS(G2)",
+                        "d": "EXTRAER(G2)"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 13,
+                    "enunciado": "¿Cuál de las siguientes opciones se ha seleccionado para que Microsoft Excel destaque automáticamente los importes con descuento?",
+                    "opciones": {
+                        "a": "Formato de celdas",
+                        "b": "Validación de datos",
+                        "c": "Formato condicional",
+                        "d": "Consolidar"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 14,
+                    "enunciado": "Si selecciona la celda H12 y realiza un pegado especial de valores en la celda A11, ¿cuál de las siguientes opciones se corresponderá con la celda resultante?",
+                    "opciones": {
+                        "a": "372,0 €",
+                        "b": "372",
+                        "c": "372",
+                        "d": "372%"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 15,
+                    "enunciado": "Para obtener el resultado que aparece en este momento en la celda F2 se escribió un valor y, a continuación, se presionó el botón %. ¿Cuál fue el valor introducido inicialmente?",
+                    "opciones": {
+                        "a": "0,022",
+                        "b": "22",
+                        "c": "0,22",
+                        "d": "220"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 16,
+                    "enunciado": "En una base de Microsoft Access 2003 se han almacenado distintas informaciones sobre los usuarios en tres tablas diferentes. Ahora se desea combinar toda la información en una única consulta de selección...",
+                    "opciones": {
+                        "a": "Definir las relaciones que permiten establecer la asociación entre los campos comunes...",
+                        "b": "Ordenar los campos de identificación de cada tabla de la misma forma...",
+                        "c": "Definir el primer campo de cada tabla como clave principal...",
+                        "d": "Generar la consulta utilizando la función autofiltro..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 17,
+                    "enunciado": "Si desea ordenar los resultados de la Consulta1 desde aquellos registros con menores gastos hasta aquellos con mayores gastos, ¿cómo deberá indicarlo?",
+                    "opciones": {
+                        "a": "Seleccionando ascendente en el desplegable de la fila Criterios bajo el campo Gastos.",
+                        "b": "Seleccionando ascendente en el desplegable de la fila Orden bajo el campo Gastos.",
+                        "c": "Introduciendo la especificación \"ORDENAR <\"...",
+                        "d": "Introduciendo la especificación \"<\" bajo el campo Gastos..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 18,
+                    "enunciado": "Si en la tabla Departamentos selecciona los registros correspondientes al Departamento de Dirección y presiona el botón [filtrar por selección], ¿qué acción se efectuará?",
+                    "opciones": {
+                        "a": "Se eliminarán definitivamente de la tabla únicamente los registros del Departamento de Dirección.",
+                        "b": "Se eliminarán definitivamente de la tabla los registros que no corresponden...",
+                        "c": "Se mostrarán únicamente los registros de la tabla del Departamento de Dirección.",
+                        "d": "Se mostrarán las consultas en las que se hayan incluido..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 19,
+                    "enunciado": "¿Cuál de las siguientes tablas será el resultado de ejecutar la consulta sobre dicha tabla?",
+                    "opciones": {
+                        "a": "Opción a",
+                        "b": "Opción b",
+                        "c": "Opción c",
+                        "d": "Opción d"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 20,
+                    "enunciado": "¿Cuál de los siguientes diseños es el que se ha utilizado para generar esta consulta (Consulta2) a partir de la tabla Departamentos?",
+                    "opciones": {
+                        "a": "Opción a",
+                        "b": "Opción b",
+                        "c": "Opción c",
+                        "d": "Opción d"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 21,
+                    "enunciado": "¿Qué significa el símbolo que aparece en la esquina inferior izquierda del icono de la carpeta 'Listados de años anteriores'?",
+                    "opciones": {
+                        "a": "Que la carpeta está definida como de sólo lectura.",
+                        "b": "Que se trata de un acceso directo a la carpeta.",
+                        "c": "Que la carpeta se puede abrir con diferentes programas.",
+                        "d": "Que la carpeta ha sido comprimida."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 22,
+                    "enunciado": "Si está trabajando en la ventana que aparece más arriba y desea acceder al menú Herramientas por medio del teclado, ¿cuál de las siguientes combinaciones de teclas deberá presionar?",
+                    "opciones": {
+                        "a": "Ctrl + H",
+                        "b": "Alt + H",
+                        "c": "Alt Gr + H",
+                        "d": "Mayúsculas + H"
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 23,
+                    "enunciado": "Como puede observar en la imagen, el archivo 'Información del personal' es de tipo 'Maletín'. ¿Qué características tienen este tipo de archivos?",
+                    "opciones": {
+                        "a": "Contienen archivos duplicados cuyos cambios se pueden actualizar automáticamente en los archivos originales.",
+                        "b": "Contienen un esquema de todos los archivos y carpetas de esa ubicación...",
+                        "c": "Contienen archivos o carpetas comprimidos dentro de un único archivo...",
+                        "d": "Son un tipo de archivo ejecutable que permite iniciar un programa..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 24,
+                    "enunciado": "Se ha compartido el archivo 'Edificio A.doc' que aparece en pantalla con otro usuario... ¿Cuál de las siguientes afirmaciones será correcta con respecto a dicho archivo?",
+                    "opciones": {
+                        "a": "Ambos usuarios podrán visualizar el archivo desde sus respectivos ordenadores simultáneamente.",
+                        "b": "Ambos usuarios podrán realizar modificaciones en el archivo...",
+                        "c": "Si uno de los usuarios tiene el archivo abierto... no se podrá abrir una copia de sólo lectura...",
+                        "d": "El usuario al que se han concedido los permisos... no podrá realizar modificaciones..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 25,
+                    "enunciado": "¿Cuál de las siguientes categorías del Panel de control le permite acceder al Administrador de dispositivos en su ordenador?",
+                    "opciones": {
+                        "a": "Agregar o quitar programas.",
+                        "b": "Java.",
+                        "c": "Opciones de accesibilidad.",
+                        "d": "Sistema."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 26,
+                    "enunciado": "¿Cuál de las siguientes acciones le permite realizar la opción 'Sitios restringidos', dentro de la pestaña 'Seguridad' del menú 'Opciones de Internet'?",
+                    "opciones": {
+                        "a": "Realizar una clasificación que ayude a controlar el tipo de información...",
+                        "b": "Bloquear las cookies que guardan la información de contacto...",
+                        "c": "Incluir en una lista aquellos sitios web que puedan dañar el equipo o los archivos y configurar el nivel de seguridad.",
+                        "d": "Prohibir el acceso a los sitios web incluidos en una lista a aquellos usuarios sin privilegios..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 27,
+                    "enunciado": "¿Cuál de las siguientes opciones se corresponde con la función 'Firmar' del correo electrónico?",
+                    "opciones": {
+                        "a": "Permite a un destinatario de correo electrónico comprobar la identidad de quien envía el mensaje.",
+                        "b": "Permite que el servidor de correo entrante del destinatario clasifique automáticamente...",
+                        "c": "Impide que el contenido del mensaje sea modificado por cualquier usuario que no sea el firmante.",
+                        "d": "Permite que se envíe automáticamente una confirmación de lectura..."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 28,
+                    "enunciado": "¿Cómo puede configurar el correo de forma que le permita ordenar automáticamente los mensajes entrantes en distintas carpetas?",
+                    "opciones": {
+                        "a": "Seleccionando la opción 'Configuración de las cuentas' en el menú Herramientas.",
+                        "b": "Seleccionando la opción 'Filtros de mensajes' (o 'Reglas de mensajes') en el menú Herramientas.",
+                        "c": "Seleccionando la opción 'Opciones' en el menú Herramientas.",
+                        "d": "Seleccionando la opción 'Libreta de direcciones' en el menú Herramientas."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 29,
+                    "enunciado": "Recibe un mensaje de Destinatario1 en el que Destinatario2 está en copia y Destinatario3 está en copia oculta. Si usted selecciona la opción 'Reenviar', ¿quiénes serán los destinatarios de su mensaje?",
+                    "opciones": {
+                        "a": "Destinatario1, Destinatario2 y Destinatario3.",
+                        "b": "Destinatario1.",
+                        "c": "Destinatario1 y Destinatario2.",
+                        "d": "Ninguno de los anteriores, a menos que usted los introduzca manualmente."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                },
+                {
+                    "numero": 30,
+                    "enunciado": "Si introduce el siguiente texto en un cuadro de búsqueda de un buscador de Internet: \"Instituto Nacional de Administración Pública\", ¿cuáles serán los resultados?",
+                    "opciones": {
+                        "a": "Aquellos que contengan todas las palabras de la búsqueda en cualquier orden o posición.",
+                        "b": "Aquellos que contengan las palabras de la búsqueda en el título de la página.",
+                        "c": "Aquellos que guarden relación con las palabras de la búsqueda.",
+                        "d": "Aquellos que contengan la frase exacta de la búsqueda."
+                    },
+                    "respuesta_correcta": null,
+                    "explicacion": null
+                }
+            ]
+        }
+    ]
+}
